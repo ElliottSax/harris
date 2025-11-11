@@ -816,6 +816,313 @@ textarea {
 }
 
 /* ===================================
+   Association About Section
+   =================================== */
+
+.association-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+
+.association-main h3,
+.association-approach h3 {
+    color: var(--primary-color);
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+}
+
+.approach-list {
+    list-style: none;
+    padding: 0;
+}
+
+.approach-list li {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: var(--white);
+    border-left: 4px solid var(--secondary-color);
+    border-radius: 4px;
+    box-shadow: 0 2px 8px var(--shadow);
+}
+
+.approach-list strong {
+    color: var(--primary-color);
+    display: block;
+    margin-bottom: 0.3rem;
+}
+
+/* ===================================
+   Publications Section
+   =================================== */
+
+.publications {
+    background: linear-gradient(135deg, var(--primary-dark), var(--background-dark));
+    color: var(--text-light);
+}
+
+.section-intro {
+    text-align: center;
+    font-size: 1.15rem;
+    max-width: 800px;
+    margin: 0 auto 3rem;
+    opacity: 0.95;
+}
+
+.category-heading {
+    text-align: center;
+    color: var(--secondary-color);
+    font-size: 1.8rem;
+    margin: 3rem 0 2rem;
+}
+
+.publications-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.publication-category {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 2rem;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: all var(--transition-medium);
+    cursor: pointer;
+}
+
+.publication-category:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.publication-category h4 {
+    color: var(--secondary-color);
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+
+.publication-category p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    opacity: 0.9;
+}
+
+.publication-cta {
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 3rem;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.publication-cta h3 {
+    color: var(--secondary-color);
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.publication-cta p {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    opacity: 0.9;
+}
+
+/* ===================================
+   Courses Section
+   =================================== */
+
+.courses {
+    background-color: var(--background-light);
+}
+
+.course-category-title {
+    color: var(--primary-color);
+    font-size: 1.8rem;
+    margin: 3rem 0 1.5rem;
+    border-bottom: 2px solid var(--secondary-color);
+    padding-bottom: 0.5rem;
+}
+
+.courses-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.course-card {
+    background-color: var(--white);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px var(--shadow);
+    transition: all var(--transition-medium);
+    border: 2px solid transparent;
+}
+
+.course-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px var(--shadow-dark);
+    border-color: var(--secondary-color);
+}
+
+.course-card h4 {
+    color: var(--primary-color);
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+.course-card p {
+    color: var(--text-dark);
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
+
+.course-level {
+    display: inline-block;
+    color: var(--accent-color);
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 0.5rem 1rem;
+    background-color: rgba(193, 154, 107, 0.1);
+    border-radius: 20px;
+}
+
+/* ===================================
+   Martin Harris Section (Combined)
+   =================================== */
+
+.harris-section {
+    background: linear-gradient(to bottom, var(--background-dark), var(--primary-dark));
+    color: var(--text-light);
+}
+
+.harris-intro {
+    max-width: 900px;
+    margin: 0 auto 3rem;
+    text-align: center;
+}
+
+.harris-intro .lead {
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+.harris-content-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 3rem;
+    margin-bottom: 4rem;
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 3rem;
+    border-radius: 10px;
+}
+
+.harris-image-container {
+    position: relative;
+}
+
+.harris-bio h3 {
+    color: var(--secondary-color);
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.harris-bio p {
+    margin-bottom: 1.2rem;
+    line-height: 1.8;
+    opacity: 0.95;
+}
+
+.harris-timeline-container {
+    margin: 4rem 0;
+}
+
+.timeline-section-title {
+    text-align: center;
+    color: var(--secondary-color);
+    font-size: 2rem;
+    margin-bottom: 3rem;
+}
+
+.harris-testimonies,
+.harris-stories {
+    margin: 4rem 0;
+}
+
+.section-subtitle {
+    text-align: center;
+    color: var(--secondary-color);
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.testimonies-intro-text,
+.stories-intro-text {
+    max-width: 900px;
+    margin: 0 auto 3rem;
+    text-align: center;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    opacity: 0.95;
+}
+
+/* ===================================
+   Resources Section
+   =================================== */
+
+.resources {
+    background-color: var(--white);
+}
+
+.resources-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+}
+
+.resource-card {
+    background-color: var(--background-light);
+    padding: 2.5rem;
+    border-radius: 10px;
+    transition: all var(--transition-medium);
+    border: 2px solid transparent;
+}
+
+.resource-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px var(--shadow-dark);
+    border-color: var(--secondary-color);
+}
+
+.resource-card h3 {
+    color: var(--primary-color);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.resource-card p {
+    color: var(--text-dark);
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+}
+
+.resource-link {
+    color: var(--secondary-color);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color var(--transition-fast);
+}
+
+.resource-link:hover {
+    color: var(--primary-color);
+}
+
+/* ===================================
    Footer
    =================================== */
 
