@@ -51,6 +51,7 @@ body {
 
 section {
     padding: 80px 0;
+    scroll-margin-top: 70px;
 }
 
 /* ===================================
@@ -358,7 +359,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .about {
     background-color: var(--background-light);
-    padding-top: 120px;
+    padding-top: 150px;
 }
 
 .about-grid {
