@@ -603,6 +603,76 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.7;
 }
 
+/* Testimonies intro styling */
+.testimonies-intro {
+    max-width: 900px;
+    margin: 0 auto 3rem;
+    text-align: center;
+}
+
+.testimonies-intro .lead {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: var(--text-dark);
+}
+
+/* ===================================
+   Stories Section
+   =================================== */
+
+.stories {
+    background: linear-gradient(135deg, var(--primary-dark), var(--background-dark));
+    color: var(--text-light);
+}
+
+.stories-intro {
+    max-width: 900px;
+    margin: 0 auto 3rem;
+    text-align: center;
+}
+
+.stories-intro .lead {
+    color: var(--text-light);
+    font-size: 1.15rem;
+    line-height: 1.8;
+}
+
+.stories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+}
+
+.story-card {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 2rem;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: all var(--transition-medium);
+}
+
+.story-card:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.story-card h3 {
+    font-size: 1.5rem;
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.story-card p {
+    color: rgba(245, 245, 220, 0.95);
+    line-height: 1.7;
+    text-align: left;
+}
+
 /* ===================================
    Visit Section
    =================================== */
