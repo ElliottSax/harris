@@ -1,12 +1,12 @@
 # Martin Harris Historical Association Website
 
-A nuanced, scholarly website exploring the complex and honest life of Martin Harris through the lens of open historical inquiry, reflecting Community of Christ values of seeking truth wherever it leads.
+A scholarly website for an association studying restoration history across all traditions. We're named after Martin Harris because his life—with its multiple church affiliations, honest admissions about spiritual experiences, and willingness to disagree—embodies our approach to historical inquiry.
 
 ## Philosophy
 
-This website honors Martin Harris by presenting him as he truly was: a seeker who participated in folk magic traditions, experienced sacred visions, spoke honestly about "spiritual eyes" versus physical sight, disagreed publicly with Joseph Smith, explored multiple restoration movements, and never denied his core witness despite decades of complexity.
+The Martin Harris Historical Association studies the restoration movement broadly: all the churches, all the splinter groups, all the competing visions. We accept scholarly articles, historical research, primary source analyses, and other contributions for publication.
 
-Rather than apologetic simplification, we embrace Harris's contradictions as invitations to deeper understanding—just as he did.
+We're named after Martin Harris not because we're focused exclusively on him, but because he exemplifies the kind of honest, complex history we want to explore. Harris participated in folk magic, testified about golden plates while clarifying he saw them with "spiritual eyes," criticized Joseph Smith publicly, and moved between six different restoration churches. That's the kind of real, messy, human history we're interested in.
 
 ## Features
 
