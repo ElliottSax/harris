@@ -1,0 +1,73 @@
+{
+  "coursesDirectory": "/courses/",
+  "courses": [
+    {
+      "id": "martin-harris",
+      "title": "Life and Legacy of Martin Harris",
+      "description": "A comprehensive study of Martin Harris's life, witness testimony, and movement between different restoration traditions. This course takes a scholarly, non-apologetic approach from a Community of Christ perspective.",
+      "level": "Intermediate",
+      "modules": 6,
+      "fileName": "martin-harris.json",
+      "category": "Foundational Courses",
+      "estimatedHours": 12,
+      "learningPath": "restoration-history"
+    },
+    {
+      "id": "joseph-smith-jr",
+      "title": "Joseph Smith Jr.: Prophet, Translator, and Visionary",
+      "description": "A comprehensive, scholarly examination of Joseph Smith Jr.'s life, revelations, and legacy across multiple restoration traditions. This course takes a Community of Christ approach: honest, non-apologetic, and open to complexity.",
+      "level": "Intermediate to Advanced",
+      "modules": 6,
+      "fileName": "joseph-smith-jr.json",
+      "category": "Advanced Courses",
+      "estimatedHours": 15,
+      "learningPath": "restoration-history"
+    },
+    {
+      "id": "reorganization-community-of-christ",
+      "title": "The Reorganization and Community of Christ",
+      "description": "A comprehensive study of the Reorganized Church of Jesus Christ of Latter Day Saints (RLDS) and its evolution into Community of Christ. This course examines theological distinctives, historical developments, and the progressive journey from restoration movement to peace and justice church.",
+      "level": "Intermediate",
+      "modules": 6,
+      "fileName": "reorganization-community-of-christ.json",
+      "category": "Specialized Courses",
+      "estimatedHours": 12,
+      "learningPath": "community-of-christ"
+    },
+    {
+      "id": "concept-of-zion",
+      "title": "The Concept of Zion in Restoration Theology",
+      "description": "A comprehensive exploration of how Zion—as theological concept, social vision, economic system, and geographic place—has been understood across restoration traditions. This course examines biblical foundations, Joseph Smith's innovations, and contemporary interpretations from a Community of Christ scholarly perspective.",
+      "level": "Advanced",
+      "modules": 6,
+      "fileName": "concept-of-zion.json",
+      "category": "Specialized Courses",
+      "estimatedHours": 15,
+      "learningPath": "restoration-theology"
+    }
+  ],
+  "learningPaths": {
+    "restoration-history": {
+      "name": "Restoration History",
+      "description": "Study the history of the restoration movement from its origins through diverse contemporary expressions",
+      "courses": ["martin-harris", "joseph-smith-jr"]
+    },
+    "community-of-christ": {
+      "name": "Community of Christ Journey",
+      "description": "Explore the unique theological and historical path of Community of Christ",
+      "courses": ["reorganization-community-of-christ", "concept-of-zion"]
+    },
+    "restoration-theology": {
+      "name": "Restoration Theology",
+      "description": "Deep dive into key theological concepts across restoration traditions",
+      "courses": ["concept-of-zion", "joseph-smith-jr"]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-11-18",
+    "courseFormat": "JSON",
+    "approach": "Community of Christ - scholarly, non-apologetic, honest inquiry",
+    "totalCourses": 4,
+    "totalModules": 24
+  }
+}

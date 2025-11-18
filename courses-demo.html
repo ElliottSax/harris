@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhanced Courses - Martin Harris Historical Association</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="courses-enhanced.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h2>MHHA</h2>
+            </div>
+            <ul class="nav-menu" id="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="#dashboard" class="nav-link">Dashboard</a></li>
+                <li><a href="#courses" class="nav-link">Courses</a></li>
+                <li><a href="#pathway" class="nav-link">Learning Path</a></li>
+                <li><a href="#achievements" class="nav-link">Achievements</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" style="height: 60vh; min-height: 400px;">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h1 class="hero-title fade-in" style="font-size: 3rem;">Interactive Course System</h1>
+            <p class="hero-subtitle fade-in-delay">Your Journey Through Restoration History</p>
+            <div class="hero-buttons fade-in-delay-2">
+                <a href="#courses" class="btn btn-primary">Browse Courses</a>
+                <a href="#dashboard" class="btn btn-secondary">My Dashboard</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Course Progress Dashboard -->
+    <section id="dashboard" class="courses-enhanced" style="padding: 80px 0; background: var(--background-light);">
+        <div class="container">
+            <div class="course-dashboard">
+                <div class="dashboard-header">
+                    <h2 class="dashboard-title">Your Learning Dashboard</h2>
+                    <p class="dashboard-subtitle">Track your progress and achievements</p>
+                </div>
+
+                <!-- Dashboard Stats -->
+                <div class="dashboard-stats">
+                    <div class="stat-card">
+                        <span class="stat-icon">✅</span>
+                        <div class="stat-value" data-stat="completed">0</div>
+                        <div class="stat-label">Courses Completed</div>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-icon">📚</span>
+                        <div class="stat-value" data-stat="inprogress">0</div>
+                        <div class="stat-label">In Progress</div>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-icon">⏱️</span>
+                        <div class="stat-value" data-stat="hours">0</div>
+                        <div class="stat-label">Hours Learned</div>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-icon">🔥</span>
+                        <div class="stat-value" data-stat="streak">7</div>
+                        <div class="stat-label">Day Streak</div>
+                    </div>
+                </div>
+
+                <!-- Learning Streak Tracker -->
+                <div class="streak-tracker">
+                    <div class="streak-header">
+                        <h3 class="streak-title">
+                            <span class="streak-fire">🔥</span>
+                            Learning Streak
+                        </h3>
+                        <div class="streak-count">7 days</div>
+                    </div>
+                    <div class="streak-days">
+                        <!-- Populated by JavaScript -->
+                    </div>
+                </div>
+
+                <!-- Achievement Badges -->
+                <div id="achievements" class="achievements-section">
+                    <h3 class="section-title-small">🏆 Achievements</h3>
+                    <div class="achievements-grid">
+                        <!-- Populated by JavaScript -->
+                    </div>
+                </div>
+
+                <!-- Certificate Preview (Example) -->
+                <div class="certificate-preview" style="margin-top: 3rem;">
+                    <span class="certificate-icon">🎓</span>
+                    <h3 class="certificate-title">Certificate of Completion</h3>
+                    <p class="certificate-course">Folk Magic in Early America</p>
+                    <p style="color: var(--accent-color); margin-bottom: 1.5rem;">
+                        Congratulations on completing this course!
+                    </p>
+                    <button class="certificate-download" onclick="generateCertificate('Folk Magic in Early America')">
+                        Download Certificate
+                    </button>
+                </div>
+
+                <!-- Recommended Courses -->
+                <div class="recommended-section" style="margin-top: 3rem;">
+                    <h3 class="recommended-title">💡 Recommended Next Courses</h3>
+                    <p style="color: var(--accent-color); margin-bottom: 1.5rem;">
+                        Based on your learning journey, we recommend these courses:
+                    </p>
+                    <div class="course-topics">
+                        <span class="topic-tag">The Burned-Over District</span>
+                        <span class="topic-tag">Witness Testimonies</span>
+                        <span class="topic-tag">Sacred Experiences</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Course Filtering and Catalog -->
+    <section id="courses" class="courses-enhanced" style="padding: 80px 0; background: white;">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Explore Our Courses</h2>
+                <div class="title-underline"></div>
+            </div>
+
+            <!-- Course Filters -->
+            <div class="course-filters-container">
+                <!-- Search -->
+                <div class="course-search-wrapper">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" class="course-search" placeholder="Search courses by title, topic, or keyword...">
+                    <button class="clear-search" title="Clear search">×</button>
+                </div>
+
+                <!-- Filter by Difficulty -->
+                <div class="filter-group">
+                    <label class="filter-label">Difficulty Level</label>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-filter-type="difficulty" data-filter="all">All Levels</button>
+                        <button class="filter-btn" data-filter-type="difficulty" data-filter="beginner">Beginner</button>
+                        <button class="filter-btn" data-filter-type="difficulty" data-filter="intermediate">Intermediate</button>
+                        <button class="filter-btn" data-filter-type="difficulty" data-filter="advanced">Advanced</button>
+                    </div>
+                </div>
+
+                <!-- Filter by Category -->
+                <div class="filter-group">
+                    <label class="filter-label">Course Category</label>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-filter-type="category" data-filter="all">All Categories</button>
+                        <button class="filter-btn" data-filter-type="category" data-filter="foundational">Foundational</button>
+                        <button class="filter-btn" data-filter-type="category" data-filter="advanced">Advanced</button>
+                        <button class="filter-btn" data-filter-type="category" data-filter="specialized">Specialized</button>
+                    </div>
+                </div>
+
+                <!-- Sort Options -->
+                <div class="filter-group">
+                    <label class="filter-label">Sort By</label>
+                    <div class="sort-dropdown">
+                        <select class="sort-select">
+                            <option value="popular">Most Popular</option>
+                            <option value="newest">Newest First</option>
+                            <option value="title">Title (A-Z)</option>
+                            <option value="duration-short">Duration (Shortest)</option>
+                            <option value="duration-long">Duration (Longest)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Results Count -->
+                <div class="results-count" style="text-align: center; margin-top: 1rem; color: var(--accent-color); font-weight: 600;">
+                    Showing all courses
+                </div>
+            </div>
+
+            <!-- Courses Grid -->
+            <div class="courses-grid-enhanced">
+                <!-- Courses populated by JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Course Pathway / Journey Map -->
+    <section id="pathway" class="course-pathway">
+        <div class="container">
+            <h2 class="pathway-title">Your Learning Journey</h2>
+            <p style="text-align: center; color: var(--accent-color); margin-bottom: 3rem; font-size: 1.1rem;">
+                Follow our recommended path from beginner to expert historian
+            </p>
+
+            <div class="pathway-map">
+                <div class="pathway-line"></div>
+
+                <div class="pathway-node" style="animation-delay: 0.1s;">
+                    <div class="pathway-node-marker">📚</div>
+                    <div class="pathway-node-content">
+                        <h4 style="color: var(--beginner-color); margin-bottom: 0.5rem;">Level 1: Foundations</h4>
+                        <h3 style="color: var(--primary-color); margin-bottom: 1rem;">Introduction to Restoration History</h3>
+                        <p style="color: var(--accent-color);">Start your journey with an overview of all restoration branches and key historical movements.</p>
+                        <div class="course-meta" style="margin-top: 1rem;">
+                            <div class="meta-item"><span>📖</span> 6 modules</div>
+                            <div class="meta-item"><span>⏱️</span> 4 weeks</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pathway-node" style="animation-delay: 0.2s;">
+                    <div class="pathway-node-marker">🔍</div>
+                    <div class="pathway-node-content">
+                        <h4 style="color: var(--beginner-color); margin-bottom: 0.5rem;">Level 2: Methodology</h4>
+                        <h3 style="color: var(--primary-color); margin-bottom: 1rem;">Reading Primary Sources Critically</h3>
+                        <p style="color: var(--accent-color);">Learn essential skills for analyzing historical documents and evaluating evidence.</p>
+                        <div class="course-meta" style="margin-top: 1rem;">
+                            <div class="meta-item"><span>📖</span> 4 modules</div>
+                            <div class="meta-item"><span>⏱️</span> 3 weeks</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pathway-node" style="animation-delay: 0.3s;">
+                    <div class="pathway-node-marker">🔮</div>
+                    <div class="pathway-node-content">
+                        <h4 style="color: var(--intermediate-color); margin-bottom: 0.5rem;">Level 3: Cultural Context</h4>
+                        <h3 style="color: var(--primary-color); margin-bottom: 1rem;">Folk Magic in Early America</h3>
+                        <p style="color: var(--accent-color);">Explore the cultural and religious context of early 19th century America.</p>
+                        <div class="course-meta" style="margin-top: 1rem;">
+                            <div class="meta-item"><span>📖</span> 5 modules</div>
+                            <div class="meta-item"><span>⏱️</span> 4 weeks</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pathway-node" style="animation-delay: 0.4s;">
+                    <div class="pathway-node-marker">👁️</div>
+                    <div class="pathway-node-content">
+                        <h4 style="color: var(--intermediate-color); margin-bottom: 0.5rem;">Level 4: Deep Dive</h4>
+                        <h3 style="color: var(--primary-color); margin-bottom: 1rem;">Witness Testimonies</h3>
+                        <p style="color: var(--accent-color);">Examine the Three Witnesses and how testimonies evolved over time.</p>
+                        <div class="course-meta" style="margin-top: 1rem;">
+                            <div class="meta-item"><span>📖</span> 8 modules</div>
+                            <div class="meta-item"><span>⏱️</span> 6 weeks</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pathway-node" style="animation-delay: 0.5s;">
+                    <div class="pathway-node-marker">✨</div>
+                    <div class="pathway-node-content">
+                        <h4 style="color: var(--advanced-color); margin-bottom: 0.5rem;">Level 5: Advanced Study</h4>
+                        <h3 style="color: var(--primary-color); margin-bottom: 1rem;">Sacred Experiences</h3>
+                        <p style="color: var(--accent-color);">Advanced analysis of spiritual language and visionary experiences across cultures.</p>
+                        <div class="course-meta" style="margin-top: 1rem;">
+                            <div class="meta-item"><span>📖</span> 6 modules</div>
+                            <div class="meta-item"><span>⏱️</span> 6 weeks</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Course Modal -->
+    <div class="course-modal" id="courseModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button class="modal-close">×</button>
+            </div>
+            <div class="modal-body">
+                <!-- Content populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay">
+        <div class="loading-spinner"></div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <h3>Martin Harris Historical Association</h3>
+                    <p>A scholarly association dedicated to restoration history across all traditions.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="#courses">Courses</a></li>
+                        <li><a href="#dashboard">Dashboard</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Learning</h4>
+                    <ul>
+                        <li><a href="#courses">Browse Courses</a></li>
+                        <li><a href="#pathway">Learning Path</a></li>
+                        <li><a href="#achievements">Achievements</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Support</h4>
+                    <p>Questions about our courses? Contact us anytime.</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Martin Harris Historical Association. All rights reserved.</p>
+                <p>Restoration history through open inquiry.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="courses-enhanced.js"></script>
+</body>
+</html>

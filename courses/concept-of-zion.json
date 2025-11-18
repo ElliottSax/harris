@@ -1,0 +1,604 @@
+{
+  "courseId": "concept-of-zion",
+  "title": "The Concept of Zion in Restoration Theology",
+  "description": "A comprehensive exploration of how Zion—as theological concept, social vision, economic system, and geographic place—has been understood across restoration traditions. This course examines biblical foundations, Joseph Smith's innovations, and contemporary interpretations from a Community of Christ scholarly perspective.",
+  "level": "Advanced",
+  "modules": [
+    {
+      "moduleNumber": 1,
+      "title": "Biblical and Book of Mormon Foundations",
+      "learningObjectives": [
+        "Understand biblical concepts of Zion in Hebrew Bible and New Testament",
+        "Examine Book of Mormon teachings about Zion and the New Jerusalem",
+        "Analyze how restoration theology built on and departed from biblical Zion concepts",
+        "Evaluate the relationship between Jerusalem, Zion, and the New Jerusalem in restoration thought"
+      ],
+      "historicalContext": "The concept of Zion has deep biblical roots. In the Hebrew Bible, Zion originally referred to a specific hill in Jerusalem, then came to represent the city of Jerusalem itself, and eventually became a theological concept representing God's dwelling place and the ideal community of the faithful. The prophets used Zion imagery to envision a restored, purified community living in righteousness and justice.\n\nIn the New Testament, Zion language appears less frequently but is spiritualized—the church becomes the new Zion, the heavenly Jerusalem. Early Christians saw themselves as the true Zion community, living in anticipation of Christ's return.\n\nThe Book of Mormon presents extensive Zion theology. It describes the New Jerusalem to be built in America, a city of refuge and righteousness. The book's vision of Zion emphasizes economic equality ('no poor among them'), spiritual unity, and divine presence. This became foundational for Joseph Smith's later Zion theology.\n\nUnderstanding these biblical and Book of Mormon foundations is essential for grasping how restoration movements developed their distinctive Zion concepts—which combined biblical imagery, Book of Mormon prophecy, and 19th-century American utopianism into something new.",
+      "keyReadings": [
+        {
+          "type": "Primary Source - Biblical",
+          "title": "Old Testament Zion Texts",
+          "passages": "Psalm 87, 102, 137; Isaiah 2:2-4, 51:3, 52:1-10; Joel 2:32; Zechariah 8",
+          "description": "Biblical foundation for Zion concept",
+          "significance": "Shows the prophetic vision of Zion as ideal community"
+        },
+        {
+          "type": "Primary Source - Biblical",
+          "title": "New Testament Zion References",
+          "passages": "Hebrews 12:22-24, Revelation 14:1, 21:1-27",
+          "description": "Christian reinterpretation of Zion",
+          "significance": "Shows spiritualization and eschatological emphasis"
+        },
+        {
+          "type": "Primary Source - Book of Mormon",
+          "title": "Book of Mormon Zion Passages",
+          "passages": "1 Nephi 13:37, 2 Nephi 6:13, 12:2-3, Ether 13:1-12, 4 Nephi",
+          "description": "Restoration scripture on Zion and New Jerusalem",
+          "significance": "Foundation for Mormon Zion theology"
+        },
+        {
+          "type": "Primary Source - Book of Mormon",
+          "title": "4 Nephi - The Zion Society",
+          "description": "Description of post-Christ Nephite society with no rich or poor",
+          "significance": "Became the model for Mormon communitarian experiments"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Biblical Concept of Zion",
+          "author": "Various biblical scholars",
+          "description": "Academic study of Zion in ancient Hebrew thought",
+          "significance": "Essential background for understanding restoration appropriation"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Zion in the Book of Mormon",
+          "description": "Analysis of how the Book of Mormon develops and adapts biblical Zion theology",
+          "significance": "Shows the theological foundation for Mormon Zion concepts"
+        }
+      ],
+      "discussionQuestions": [
+        "How did the concept of Zion evolve from a geographic location to a theological idea in biblical thought?",
+        "What are the key characteristics of Zion in the biblical prophets? Economic justice? Spiritual purity? Divine presence?",
+        "How does the Book of Mormon build on and adapt biblical Zion concepts?",
+        "What is the significance of the Book of Mormon locating the New Jerusalem in America rather than the Middle East?",
+        "How did early 19th-century American millenarianism influence restoration interpretations of Zion?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "Academic Biblical Scholarship",
+          "perspective": "Zion evolved from geographic referent to theological symbol in ancient Israel. Prophetic Zion visions reflected critique of existing society and hope for divine restoration. New Testament spiritualized the concept. Later appropriations (including Mormon) built on this biblical foundation while adding new elements."
+        },
+        {
+          "tradition": "Jewish Interpretation",
+          "perspective": "Zion remains fundamentally connected to Jerusalem and the land of Israel. Christian and Mormon appropriations of Zion language represent supersessionist theology that claims Jewish heritage while displacing Jewish connection to the land. True Zion remains tied to Jewish people and Jerusalem."
+        },
+        {
+          "tradition": "LDS/Restoration Perspective",
+          "perspective": "The Book of Mormon and Joseph Smith's revelations restored ancient truths about Zion that had been lost. The New Jerusalem will be built in Independence, Missouri (the original Garden of Eden site according to LDS theology). Zion encompasses both geographic place and spiritual community. Temple building is essential to Zion establishment."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "Zion is primarily a theological concept about beloved community characterized by justice, peace, and equality. While geographic Independence has symbolic significance, Zion is ultimately about creating just communities wherever we are. The concept calls us to social transformation more than geographic gathering."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Biblical Zion Texts Analysis",
+          "prompt": "Read Isaiah 2:2-4, Psalm 87, and Revelation 21:1-27 carefully. Create a chart identifying common themes: What makes Zion ideal? Who is included? What is God's role? How is the vision meant to critique current reality? Write a reflection on the prophetic function of Zion imagery."
+        },
+        {
+          "title": "Book of Mormon Zion Society",
+          "prompt": "Read 4 Nephi (the entire short book). This describes a Zion society after Christ's visit. What are its characteristics? How long did it last? Why did it end? What does this teach about the possibility and fragility of Zion? Write an analysis connecting this to later Mormon Zion experiments."
+        },
+        {
+          "title": "Comparative Utopian Visions",
+          "prompt": "Research other 19th-century American utopian communities (Shakers, Oneida, Brook Farm, etc.). How did they envision the ideal community? What similarities and differences exist with Mormon Zion concepts? What was in the cultural air that produced multiple communitarian experiments?"
+        }
+      ],
+      "additionalResources": [
+        "Concordance of all biblical Zion references",
+        "Map showing biblical Jerusalem/Zion and its theological significance",
+        "Comparative chart: Biblical, Book of Mormon, and D&C Zion concepts",
+        "Timeline of utopian communities in 19th-century America"
+      ]
+    },
+    {
+      "moduleNumber": 2,
+      "title": "Joseph Smith's Vision of Zion",
+      "learningObjectives": [
+        "Examine Joseph Smith's early revelations on Zion",
+        "Understand the identification of Independence, Missouri as Zion's center",
+        "Analyze the connection between temple building and Zion establishment",
+        "Evaluate how Joseph's Zion vision evolved from 1830-1844"
+      ],
+      "historicalContext": "Joseph Smith's Zion theology developed through successive revelations from 1830-1844. Key developments included:\n\n**1830-1831**: Early revelations mention Zion in general terms. The command comes to go to Ohio.\n\n**July 1831**: Joseph travels to Missouri and receives revelation identifying Independence, Jackson County, Missouri as the 'center place' of Zion where the New Jerusalem would be built. Land is dedicated for a temple. This geographic specificity was unprecedented in Christian theology.\n\n**1831-1833**: Attempts to establish Zion communities in Missouri. The Law of Consecration and Stewardship is introduced—a communitarian economic system where members consecrate all property to the church and receive back a stewardship. In theory, this would eliminate poverty and create economic equality.\n\n**1833**: Missouri Zion destroyed. Members driven from Jackson County by mobs. This created theological crisis: Why did Zion fail?\n\n**1834-1838**: Continued attempts and conflicts in Missouri. Zion's establishment repeatedly delayed.\n\n**1839-1844 (Nauvoo period)**: Zion theology evolves. Nauvoo becomes 'like unto Zion.' The concept becomes less exclusively geographic and more about temple building and ordinances. The temporal Zion (Independence) would be established after temple work was complete.\n\nJoseph's Zion vision combined geographic specificity, communitarian economics, temple worship, millennial expectation, and political autonomy into a comprehensive social vision.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Doctrine and Covenants Section 28",
+          "year": 1830,
+          "description": "First revelation mentioning Missouri",
+          "significance": "Beginning of Missouri as significant in Zion theology"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Doctrine and Covenants Section 57",
+          "year": 1831,
+          "description": "Revelation identifying Independence as Zion's center",
+          "significance": "Geographic specification of Zion location"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Doctrine and Covenants Section 42",
+          "year": 1831,
+          "description": "The Law of Consecration and Stewardship",
+          "significance": "Economic system for Zion communities"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Doctrine and Covenants Sections 101, 103, 105",
+          "year": "1833-1834",
+          "description": "Revelations after Missouri expulsion",
+          "significance": "Theological explanation for Zion's failure"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Plat of the City of Zion",
+          "year": 1833,
+          "description": "Joseph Smith's plan for the ideal Zion city",
+          "significance": "Shows the concrete vision of Zion's physical organization"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Building the Kingdom: A History of Mormons in America",
+          "author": "Claudia L. Bushman and Richard L. Bushman",
+          "description": "Comprehensive history including Zion experiments",
+          "significance": "Context for understanding Zion attempts and failures"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Mormon Economic and Social Cooperation",
+          "description": "Study of communitarian economic experiments",
+          "significance": "Analysis of the Law of Consecration in practice"
+        }
+      ],
+      "discussionQuestions": [
+        "Why did Joseph Smith identify Independence, Missouri specifically as Zion? What theological significance did this have?",
+        "How did the Law of Consecration attempt to create economic equality? Why did it fail in practice?",
+        "What theological problems arose when the Missouri Zion was destroyed? How did Joseph explain this?",
+        "How did Joseph's Zion concept evolve from geographic place to spiritual state?",
+        "What parallels exist between Mormon Zion theology and other 19th-century communitarian movements?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Independence, Missouri remains the divinely appointed center place for Zion. The temple will be built there before Christ's return. The Law of Consecration will be reinstated in the millennium. Current members practice a modified version through tithing and welfare system. Utah represented gathering to a temporary Zion until Missouri becomes safe."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "The Independence temple site remains symbolically significant, and Community of Christ built their temple there (1994). However, Zion is understood more as spiritual community and social justice commitment than geographic gathering. The Law of Consecration's principles of economic justice and equality remain relevant even if the specific system doesn't."
+        },
+        {
+          "tradition": "Church of Christ (Temple Lot)",
+          "perspective": "They literally own the temple lot in Independence and believe the temple must be built there before Christ's return. This geographic specificity is essential to their identity. They await the fulfillment of Joseph Smith's prophecies about Zion in Independence."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Joseph Smith's Zion theology reflected 19th-century American millenarianism, utopianism, and westward expansion ideology. The Missouri experiments failed due to conflict with existing settlers, unrealistic economic expectations, and poor planning. The theology evolved pragmatically in response to failures. The geographic specificity is unprecedented in Christian theology and reflects American context."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Consecration System Analysis",
+          "prompt": "Study the Law of Consecration and Stewardship in detail (D&C 42, 51, 70, 72, 82, etc.). How was it supposed to work? Why did it fail? Research historical attempts to implement it. Write an analysis of communitarian economic systems—their ideals and practical challenges."
+        },
+        {
+          "title": "The Plat of Zion",
+          "prompt": "Examine Joseph Smith's 1833 'Plat of the City of Zion' carefully. What does the city plan reveal about Zion's vision? How is space organized? What's at the center? How does physical planning reflect theological values? Compare to other planned communities (Washington DC, Savannah, etc.)."
+        },
+        {
+          "title": "Failed Prophecy",
+          "prompt": "The Missouri Zion was destroyed in 1833, and Joseph prophesied events that didn't occur. How did the movement handle this? Research how religious movements deal with failed prophecies (cognitive dissonance theory). Write a reflection on prophecy, expectation, and reinterpretation."
+        }
+      ],
+      "additionalResources": [
+        "Maps of Independence, Missouri and Jackson County showing 1831 dedication sites",
+        "The Plat of the City of Zion with annotations",
+        "Timeline of Missouri Zion attempts and failures",
+        "Collection of all D&C sections on Zion and consecration",
+        "Comparative study: Zion and other 19th-century utopian communities"
+      ]
+    },
+    {
+      "moduleNumber": 3,
+      "title": "Economic and Social Dimensions of Zion",
+      "learningObjectives": [
+        "Analyze Zion as economic system: consecration, united order, cooperatives",
+        "Examine Zion as social vision: equality, community, gathering",
+        "Understand the relationship between economics and spirituality in Zion theology",
+        "Evaluate why communitarian economic experiments repeatedly failed"
+      ],
+      "historicalContext": "Zion in restoration theology was never merely spiritual—it always had concrete economic and social dimensions. The vision consistently included:\n\n**Economic Equality**: 'No poor among them' (4 Nephi). Wealth redistribution through consecration. Elimination of poverty and extreme wealth.\n\n**Common Property**: The Law of Consecration (1831) required members to deed all property to the church, then receive back a 'stewardship' sufficient for their needs. Surplus went to help the poor.\n\n**United Order**: Various attempts at communitarian economics in Kirtland, Missouri, and later Utah. Some communities held all things in common; others operated cooperatives.\n\n**Economic Independence**: Zion should be self-sufficient, not dependent on 'Babylon' (the outside world). This led to attempts at economic isolation and cooperation.\n\n**Gathering**: Physical gathering of believers to Zion communities was essential. This created both economic opportunities (pooled labor and resources) and challenges (rapid population growth, conflict with neighbors).\n\nThese experiments repeatedly failed due to:\n- Human selfishness and inequality\n- Poor economic planning\n- Conflict with surrounding communities\n- Internal disputes over property and leadership\n- Unrealistic expectations\n\nYet the vision persisted, evolving into various forms across different restoration traditions.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Doctrine and Covenants Section 104",
+          "year": 1834,
+          "description": "Revelation on the United Order",
+          "significance": "Detailed instructions for communitarian economics"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Brigham Young's Sermons on Cooperation",
+          "year": "1860s-1870s",
+          "description": "Utah Mormon cooperative movement",
+          "significance": "Shows evolution of Zion economics in Utah period"
+        },
+        {
+          "type": "Primary Source",
+          "title": "RLDS Statements on Stewardship",
+          "year": "Various",
+          "description": "How the Reorganization interpreted consecration principles",
+          "significance": "Alternative approach to Zion economics"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Building the Kingdom: Economic Cooperation in Early Utah",
+          "author": "Leonard J. Arrington",
+          "description": "Comprehensive study of Mormon economic experiments",
+          "significance": "Standard scholarly work on the topic"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Law of Consecration: History and Practice",
+          "description": "Detailed analysis of consecration system",
+          "significance": "Examines theological foundations and practical applications"
+        },
+        {
+          "type": "Comparative Study",
+          "title": "Communitarian Experiments in 19th-Century America",
+          "description": "Mormon experiments in broader context",
+          "significance": "Shows patterns across utopian movements"
+        }
+      ],
+      "discussionQuestions": [
+        "What is the relationship between economic equality and spiritual Zion? Can you have one without the other?",
+        "Why did communitarian economic systems repeatedly fail in restoration movements?",
+        "How does Zion economics compare to other forms of religious economics (Anabaptist mutual aid, Catholic social teaching, etc.)?",
+        "Can Zion's economic vision be adapted to modern capitalism, or are they fundamentally incompatible?",
+        "What do restoration economic experiments teach about the relationship between ideals and practical implementation?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "The Law of Consecration will be reinstated in the millennium when people are righteous enough to live it. Current tithing and welfare system are preparatory. The failures of past United Orders were due to member unworthiness, not flaws in the system. Zion economics remain the ideal even if not currently practiced."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "The principles behind consecration—economic justice, care for poor, stewardship rather than ownership—remain eternally valid. However, specific systems like consecration or United Order were contextual attempts that needn't be replicated. Contemporary Zion work involves economic justice advocacy, anti-poverty work, and challenging unjust systems rather than creating separate communities."
+        },
+        {
+          "tradition": "Restoration Branches/Conservative RLDS",
+          "perspective": "The Law of Consecration as originally revealed should still be practiced. Abandonment of this system represents unfaithfulness to revelation. Some branches attempt to practice consecration or mutual aid among members."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Mormon economic experiments reflected 19th-century communitarian idealism and were no more or less successful than other utopian communities. They failed for predictable reasons: human self-interest, poor planning, free-rider problems, and conflict with capitalist surroundings. They're interesting as case studies in religious economics but don't represent viable alternatives to market systems."
+        },
+        {
+          "tradition": "Liberation Theology/Progressive Christianity",
+          "perspective": "Zion economics represent a radical critique of capitalism and inequality that remains prophetically relevant. While specific systems failed, the vision of economic justice and redistribution challenges contemporary inequality. Restoration traditions should recover this radical economic witness rather than accommodating to capitalism."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Economic System Design",
+          "prompt": "Design your own version of a Zion economic system. How would you organize property? Labor? Distribution? Governance? What safeguards against free-riding and inequality? Then research actual attempts and compare. What did you miss? What challenges are inherent to communitarian economics?"
+        },
+        {
+          "title": "Comparative Communitarian Economics",
+          "prompt": "Research three different communitarian economic systems: Mormon United Order, Hutterite colonies, Israeli kibbutzim. Compare their structures, successes, failures, and longevity. What factors determine whether such systems succeed or fail? Write a comparative analysis."
+        },
+        {
+          "title": "Modern Application",
+          "prompt": "How might Zion economic principles apply today? Research contemporary approaches: credit unions, cooperatives, intentional communities, mutual aid networks, universal basic income. Write a reflection on how ancient and restoration visions of economic justice might inform contemporary practice."
+        }
+      ],
+      "additionalResources": [
+        "Detailed analysis of the Law of Consecration system",
+        "Case studies of specific United Order communities",
+        "Comparative chart: Mormon economic systems vs. other communitarian experiments",
+        "Contemporary applications of stewardship and economic justice principles"
+      ]
+    },
+    {
+      "moduleNumber": 4,
+      "title": "Geographic Zion: Independence and Beyond",
+      "learningObjectives": [
+        "Understand the theological significance of Independence, Missouri",
+        "Examine different restoration groups' claims to the Independence temple lot",
+        "Analyze how geographic Zion concepts evolved over time",
+        "Evaluate the relationship between place and theology in restoration thought"
+      ],
+      "historicalContext": "Independence, Missouri holds unique significance in restoration theology. Joseph Smith's July 1831 revelation identified it as the 'center place' of Zion where the New Jerusalem would be built and a temple erected. He dedicated the temple lot that year. This created unprecedented geographic specificity in Christian eschatology—not just 'somewhere' but this precise location.\n\nThe expulsion from Jackson County in 1833 didn't diminish Independence's theological significance. It became the promised but unrealized Zion, the place of future restoration and millennial glory. Different restoration groups developed competing claims:\n\n**Church of Christ (Temple Lot)**: Literally owns the original temple lot. Believes the temple must be built there before Christ's return. Maintains the property and waits for the prophesied temple construction.\n\n**LDS Church**: Owns extensive property in Independence including a visitors center. Believes the temple will eventually be built there, though they've constructed temples elsewhere. Considers Independence the future millennial headquarters.\n\n**Community of Christ**: Built their temple in Independence (dedicated 1994), though it functions as worship and peace center rather than for secret ordinances. Views Independence as symbolically significant while emphasizing that Zion is wherever justice and peace are pursued.\n\n**Other Groups**: Various restoration splinter groups maintain presence in Independence, each with their own interpretation of Zion prophecies.\n\nThe result is a unique religious geography where multiple traditions claim the same sacred space for different reasons.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Doctrine and Covenants Section 57",
+          "year": 1831,
+          "description": "Revelation identifying Independence as Zion's center",
+          "significance": "Foundation for Independence's theological significance"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Doctrine and Covenants Section 84:2-5",
+          "year": 1832,
+          "description": "Prophecy that temple in Independence will be built 'in this generation'",
+          "significance": "Unfulfilled prophecy that requires theological interpretation"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Temple Lot Case Legal Documents",
+          "year": 1894,
+          "description": "Court case over ownership of temple lot",
+          "significance": "Shows competing claims and legal battles over sacred space"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Community of Christ Temple Dedication",
+          "year": 1994,
+          "description": "Dedicatory prayer and theology of the Independence temple",
+          "significance": "Shows how Community of Christ reinterpreted Zion geography"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Center Place: A History of Independence, Missouri as Zion",
+          "description": "Comprehensive history of Independence in restoration thought",
+          "significance": "Essential for understanding the geography of Zion"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Sacred Space: Shrine, City, Land",
+          "description": "Academic study of how religious communities create sacred geography",
+          "significance": "Theoretical framework for understanding Zion geography"
+        }
+      ],
+      "discussionQuestions": [
+        "Why does geographic location matter so much in restoration Zion theology? How is this different from other Christian traditions?",
+        "How do different restoration groups navigate the fact that the prophesied Independence temple hasn't been built as predicted?",
+        "What does the Community of Christ temple in Independence represent? How is it similar to or different from LDS temples?",
+        "Can multiple religious groups claim the same sacred space for different purposes?",
+        "What happens to geographic Zion concepts when Zion theology becomes more spiritual and less literal?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "Church of Christ (Temple Lot)",
+          "perspective": "We literally own the temple lot and are responsible for maintaining it until conditions are right for temple construction. The prophecy will be fulfilled. Our very existence is about preserving this sacred space. Geographic specificity is essential—this exact spot is where the temple must be built."
+        },
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Independence remains the prophesied center place. The temple will be built there eventually, but timing is in God's hands. In the meantime, we've built temples elsewhere for essential ordinances. Utah was a gathering place until Independence becomes safe. We maintain presence in Independence and prepare for the prophecy's fulfillment."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "We built our temple in Independence, fulfilling the vision in our own way. It's a temple of peace and worship, not secret ordinances. Independence is symbolically significant as a reminder of Zion's call to justice and community. But geographic Zion is less important than creating Zion communities wherever we are. The prophecy finds fulfillment in spiritual rather than literal ways."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "The failed prophecy about building a temple in Independence 'in this generation' (D&C 84:4-5) creates ongoing theological problems that different groups resolve differently. The competing claims to sacred space reflect broader patterns of how religious communities sacralize geography. Independence has become a contested sacred site, similar to Jerusalem for Judaism/Christianity/Islam but on a smaller scale."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Temple Lot Research Project",
+          "prompt": "Research the Church of Christ (Temple Lot) thoroughly. Who are they? How did they acquire the temple lot? What is their theology and identity? Why does the lot matter so much to them? Write a report on this understudied restoration group and their sacred geography."
+        },
+        {
+          "title": "Visiting Independence",
+          "prompt": "If possible, visit Independence, Missouri (or research it thoroughly online). Visit the temple lot, Community of Christ temple, LDS visitors center, and other restoration sites. Write a reflection on experiencing this contested sacred geography. What does it feel like to stand where multiple traditions claim sacred significance?"
+        },
+        {
+          "title": "Failed Prophecy Analysis",
+          "prompt": "D&C 84:4-5 prophesied a temple in Independence would be built 'in this generation' (meaning the 1830s). It wasn't. How do different traditions handle this? Research the theological explanations and write a comparative analysis. What does this case teach about prophecy, interpretation, and religious authority?"
+        }
+      ],
+      "additionalResources": [
+        "Map of Independence showing all restoration properties and sites",
+        "Photographs of the temple lot, Community of Christ temple, and other sites",
+        "Timeline of Independence in restoration history",
+        "Legal documents from temple lot ownership disputes",
+        "Virtual tour of Independence restoration sites"
+      ]
+    },
+    {
+      "moduleNumber": 5,
+      "title": "Zion in Different Restoration Traditions",
+      "learningObjectives": [
+        "Compare Zion concepts across restoration traditions",
+        "Understand how each tradition adapted original Zion theology",
+        "Analyze the relationship between Zion theology and group identity",
+        "Evaluate what Zion means practically in different communities"
+      ],
+      "historicalContext": "Different restoration traditions have developed markedly different Zion theologies:\n\n**LDS/Brigham Young Tradition**: Zion involves gathering, temple building, and preparation for millennial kingdom. Utah represented gathering to a temporary Zion. Ward communities function as mini-Zions. The ideal Zion will be established in Independence at Christ's return. Emphasis on institutional church as Zion.\n\n**Community of Christ**: Zion is primarily about justice, peace, and beloved community. Can be created wherever people pursue Christ's vision. Less emphasis on geographic gathering, more on social transformation. The Independence temple symbolizes but doesn't monopolize Zion. Emphasis on Zion as ongoing work of justice.\n\n**Church of Christ (Temple Lot)**: Zion is specifically geographic—Independence, Missouri. Temple building there is essential to Zion's establishment. Maintain the simplest early Zion theology. Their identity centers on preserving and waiting.\n\n**Restoration Branches**: Generally maintain geographic and millennial elements of Zion theology. Emphasis on preparing for literal Zion establishment. Often practice some form of consecration or economic cooperation.\n\n**Strangite**: Under James Strang, created Beaver Island colony as Zion. After Strang's death, less emphasis on geographic Zion, more on spiritual community.\n\n**Cutlerite**: Emphasize temple building as central to Zion establishment. Maintain their own distinct Zion theology.\n\nThese differences reflect broader theological, social, and practical divergences in the restoration movement.",
+      "keyReadings": [
+        {
+          "type": "Comparative Study",
+          "title": "Zion Theology Across Restoration Traditions",
+          "description": "Comprehensive comparison of different groups' Zion concepts",
+          "significance": "Shows diversity within restoration movement"
+        },
+        {
+          "type": "Primary Source - LDS",
+          "title": "Modern LDS General Conference Talks on Zion",
+          "description": "Contemporary LDS teaching on Zion",
+          "significance": "Shows current LDS interpretation"
+        },
+        {
+          "type": "Primary Source - Community of Christ",
+          "title": "Doctrine and Covenants 163, 164 (Community of Christ)",
+          "year": "2007, 2010",
+          "description": "Recent revelations on Zion vision",
+          "significance": "Shows contemporary Community of Christ Zion theology"
+        },
+        {
+          "type": "Primary Source - Temple Lot",
+          "title": "Church of Christ (Temple Lot) Statements on Zion",
+          "description": "Their theology of temple lot and Zion",
+          "significance": "Shows most literal geographic interpretation"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Splintered Kingdom: Restoration Branches After Joseph Smith",
+          "description": "How different groups developed distinct theologies",
+          "significance": "Context for understanding Zion theology diversity"
+        }
+      ],
+      "discussionQuestions": [
+        "What factors caused Zion theology to develop so differently across restoration traditions?",
+        "Is there a 'core' Zion concept that all restoration groups share? Or are the differences too fundamental?",
+        "How does Zion theology reflect each tradition's broader theological and social orientation?",
+        "Can different Zion visions coexist, or are they mutually exclusive claims?",
+        "What does the diversity of Zion interpretations tell us about religious authority and interpretation?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "Each Restoration Group",
+          "perspective": "Each tradition believes their Zion theology represents the authentic continuation of Joseph Smith's vision. From within each tradition, their interpretation makes sense and others represent deviation or incomplete understanding. The diversity is seen as others' error rather than legitimate pluralism."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "The diversity of Zion theologies shows how religious concepts evolve when authoritative interpretation fractures. Each group adapted Zion to their context, needs, and theological trajectory. There's no 'authentic' version—each represents a legitimate development from Joseph Smith's complex and evolving Zion theology. The variety illuminates how theology functions socially and institutionally."
+        },
+        {
+          "tradition": "Ecumenical/Pluralist",
+          "perspective": "Different Zion visions might all contain partial truth. Geographic emphasis (Temple Lot), institutional emphasis (LDS), social justice emphasis (Community of Christ), and millennial emphasis (Restoration Branches) each capture real aspects of what Zion could mean. Wisdom lies in learning from multiple perspectives rather than claiming exclusive truth."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Comparative Zion Theology",
+          "prompt": "Create a detailed comparison chart of Zion theology across at least four restoration traditions. Categories: geographic vs. spiritual, when Zion will be established, who participates, economic dimensions, temple role, relationship to broader society. Write a reflection on patterns you observe."
+        },
+        {
+          "title": "Theological Evolution Case Study",
+          "prompt": "Trace how ONE restoration tradition's Zion theology evolved from 1830 to present. What changed? What stayed the same? What factors drove evolution? Write a detailed case study."
+        },
+        {
+          "title": "Contested Concepts",
+          "prompt": "Reflect on what it means for a theological concept to be contested. How do religious communities handle disagreement over central concepts? Can Zion mean fundamentally different things to different groups? Write about contested concepts and religious pluralism."
+        }
+      ],
+      "additionalResources": [
+        "Comprehensive comparison chart: Zion theology across traditions",
+        "Collection of contemporary statements on Zion from different groups",
+        "Video interviews with members of different traditions explaining their Zion understanding",
+        "Sociological analysis of how Zion functions in different communities"
+      ]
+    },
+    {
+      "moduleNumber": 6,
+      "title": "Contemporary Interpretations and Applications of Zion",
+      "learningObjectives": [
+        "Understand how Zion theology is practiced today across traditions",
+        "Examine contemporary social justice applications of Zion concepts",
+        "Analyze the relationship between historic Zion theology and modern challenges",
+        "Reflect on Zion's continuing relevance and prophetic power"
+      ],
+      "historicalContext": "Contemporary restoration communities apply Zion theology in diverse ways:\n\n**LDS Church**: Zion is pursued through ward communities ('stakes of Zion'), temple building worldwide, welfare system, and preparing for millennial Zion. Emphasis on personal righteousness and institutional loyalty. The gathering is now to local wards rather than geographic centralization.\n\n**Community of Christ**: Zion is pursued through peace and justice ministry, environmental stewardship, economic justice advocacy, and inclusive community building. The 'Zion goal' means creating beloved community characterized by Christ's peace. Very little emphasis on millennial or geographic Zion.\n\n**Restoration Branches**: Maintain traditional Zion emphasis including consecration principles, preparation for Independence Zion, millennial expectation. Some branches practice economic cooperation.\n\n**Progressive Appropriations**: Some progressive Christians and activists find Zion theology's radical economic and social vision inspiring. Liberation theology connections. Occupy movements and economic justice work sometimes reference Zion concepts.\n\n**Academic Interest**: Scholars study Zion as utopian vision, communitarian economics, sacred geography, and eschatology. Historical sociology of Zion experiments informs understanding of intentional communities.\n\n**Ecumenical Dialogue**: As restoration groups engage ecumenically, Zion concepts enter broader Christian discourse about justice, community, and eschatology.\n\nThe question remains: Does Zion theology offer prophetic wisdom for contemporary challenges (inequality, environmental crisis, community breakdown) or is it outdated utopianism?",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Community of Christ Enduring Principles",
+          "description": "Contemporary articulation including Zion vision",
+          "significance": "Shows modern progressive interpretation"
+        },
+        {
+          "type": "Primary Source",
+          "title": "LDS Church Welfare and Humanitarian Programs",
+          "description": "Contemporary LDS approaches to consecration principles",
+          "significance": "Shows institutional application of Zion economics"
+        },
+        {
+          "type": "Contemporary Application",
+          "title": "Zion and Liberation Theology",
+          "description": "Progressive theological connections",
+          "significance": "Shows radical potential in Zion concepts"
+        },
+        {
+          "type": "Contemporary Application",
+          "title": "Intentional Communities and Zion",
+          "description": "Modern communitarian movements inspired by or similar to Zion",
+          "significance": "Shows continuing relevance of communitarian vision"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Prophetic Imagination",
+          "author": "Walter Brueggemann",
+          "description": "How biblical prophetic visions critique and energize",
+          "significance": "Theoretical framework for understanding Zion's prophetic function"
+        },
+        {
+          "type": "Academic Study",
+          "title": "Utopian Visions in Contemporary Religious Thought",
+          "description": "How utopian theology functions today",
+          "significance": "Context for evaluating Zion's contemporary relevance"
+        }
+      ],
+      "discussionQuestions": [
+        "Does Zion theology offer wisdom for addressing contemporary inequality and injustice?",
+        "How can geographic/millennial Zion concepts be reinterpreted for modern contexts?",
+        "What lessons do failed Zion experiments teach about contemporary intentional communities?",
+        "Can Zion's radical economic vision inform current economic justice movements?",
+        "Is Zion a dangerous utopian fantasy or a necessary prophetic vision? Both?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "Community of Christ (Progressive)",
+          "perspective": "Zion theology's core—justice, peace, economic equality, beloved community—is eternally relevant and desperately needed. We must continually reinterpret and apply Zion principles to contemporary challenges: climate crisis, inequality, racial justice, etc. Zion is not about waiting for millennial kingdom but creating justice now. Historic failures teach us to be realistic while maintaining prophetic vision."
+        },
+        {
+          "tradition": "LDS/Conservative",
+          "perspective": "Zion will be literally established at Christ's return. Current applications (welfare system, ward communities, temple building) prepare us but aren't the fullness. We must be patient and faithful, preparing ourselves to be worthy of Zion when it comes. Social justice work is good but secondary to spiritual preparation and obedience."
+        },
+        {
+          "tradition": "Liberation Theology/Progressive Christianity",
+          "perspective": "Zion theology offers radical critique of capitalism and inequality that many Christians have lost. The vision of no poor, common property, and economic justice challenges contemporary acceptance of inequality. Restoration traditions should recover this radical edge rather than accommodating to capitalism. Zion is about transforming society, not escaping it."
+        },
+        {
+          "tradition": "Academic/Sociological",
+          "perspective": "Zion functions as utopian vision—necessary for imagining alternatives to current reality but dangerous when pursued literally. Failed Zion experiments teach predictable lessons about communitarian challenges. Contemporary value lies in Zion as prophetic critique and inspiration, not as blueprint. Study of Zion illuminates how religious communities imagine and pursue radical social alternatives."
+        },
+        {
+          "tradition": "Critical/Skeptical",
+          "perspective": "Zion theology is dangerous utopianism that ignores human nature and practical economics. Repeated failures prove the concept's flaws. Contemporary applications risk authoritarianism (if pursued institutionally) or irrelevance (if pursued purely spiritually). Better to work within practical systems than chase impossible ideals."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Contemporary Application Project",
+          "prompt": "Choose a contemporary challenge (economic inequality, climate crisis, community breakdown, etc.). How might Zion theology speak to it? Research how different restoration and progressive groups are applying Zion concepts. Write a proposal for contemporary Zion work on your chosen issue."
+        },
+        {
+          "title": "Utopian Vision and Practical Politics",
+          "prompt": "Reflect on the relationship between utopian vision and practical change. Do we need impossible ideals to inspire real improvement? Or do unrealistic expectations doom efforts to failure? Write a philosophical reflection using Zion as a case study."
+        },
+        {
+          "title": "Personal Zion Practice",
+          "prompt": "What would it mean for you personally to pursue Zion? Not abstract theology but concrete practice. Economic sharing? Community building? Justice work? Environmental care? Spiritual practices? Write your own Zion manifesto—what you commit to pursuing."
+        },
+        {
+          "title": "Learning from Failure",
+          "prompt": "What do failed Zion experiments teach us? Research three specific attempts (Kirtland, Missouri, Utah United Orders). Identify common failure points. What conditions would need to exist for communitarian economics to succeed? Is success even possible? Write an analysis."
+        }
+      ],
+      "additionalResources": [
+        "Contemporary intentional communities inspired by or similar to Zion",
+        "Economic justice movements and potential connections to Zion theology",
+        "Video interviews: How contemporary believers understand and pursue Zion",
+        "Collection of recent writings on Zion from various traditions",
+        "Resources for starting study groups or discussion circles on Zion theology"
+      ],
+      "courseConclusion": "The concept of Zion has evolved from biblical prophetic vision through Joseph Smith's revelations to contemporary interpretations that span from literal millennial expectation to social justice activism. What began as Isaiah's vision of a purified Jerusalem became for restoration movements a comprehensive theological concept encompassing sacred geography, communitarian economics, spiritual community, and millennial hope.\n\nAcross restoration traditions, Zion means different things: For Temple Lot, it's a specific piece of ground in Independence awaiting the prophesied temple. For LDS, it's both millennial promise and present ward communities. For Community of Christ, it's the ongoing work of creating justice and peace. For academics, it's a fascinating case study in religious utopianism. For progressive activists, it's a radical vision of economic equality and beloved community.\n\nWhat remains constant is Zion's function as critique and hope—critique of current reality (inequality, injustice, division) and hope for something better (equality, justice, unity). Even when Zion experiments failed practically, the vision retained power. Even when prophecies went unfulfilled, the theological concept evolved rather than disappeared.\n\nFrom a Community of Christ perspective, Zion's enduring value lies not in geographic specificity or millennial timetables, but in its call to create communities of justice, peace, and equality. The question isn't 'When will Zion come?' but 'How can we create Zion now?' The vision calls us to economic justice, environmental stewardship, peacemaking, and inclusive community—urgent work in our time.\n\nZion theology's failures teach humility and realism. Its successes (moments when genuine community, equality, and justice were achieved, even briefly) teach possibility. The concept challenges us to imagine alternatives to accepted inequality and to work toward beloved community.\n\nAs you complete this course, carry forward both Zion's critique and hope. Let it make you uncomfortable with injustice and inequality. Let it inspire you to work for something better. Let it teach you the challenges of translating ideals into practice. And let it call you to create Zion wherever you are—not waiting for millennial fulfillment but pursuing justice and peace today.\n\nThe prophetic vision of Zion—'no poor among them,' peace and justice, God dwelling with people—remains as relevant and challenging as ever. The question is what we do with it."
+    }
+  ]
+}

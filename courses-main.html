@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Free courses on restoration history - Learn about the restoration movement, witness testimonies, church history, and more.">
+    <title>Courses - Martin Harris Historical Association</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="courses-theme.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h2>MHHA</h2>
+            </div>
+            <ul class="nav-menu" id="nav-menu">
+                <li><a href="index.html#home" class="nav-link">Home</a></li>
+                <li><a href="index.html#about" class="nav-link">About</a></li>
+                <li><a href="index.html#publications" class="nav-link">Publications</a></li>
+                <li><a href="courses-main.html" class="nav-link active">Courses</a></li>
+                <li><a href="index.html#harris" class="nav-link">Martin Harris</a></li>
+                <li><a href="index.html#resources" class="nav-link">Resources</a></li>
+                <li><a href="index.html#visit" class="nav-link">Visit</a></li>
+                <li><a href="index.html#join" class="nav-link">Join</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Progress Indicator -->
+    <div class="nav-progress">
+        <div class="nav-progress-bar" id="nav-progress-bar"></div>
+    </div>
+
+    <!-- Breadcrumb -->
+    <div class="container" style="margin-top: 100px;">
+        <nav class="breadcrumb">
+            <a href="index.html">Home</a>
+            <span class="breadcrumb-separator">›</span>
+            <span>Courses</span>
+        </nav>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="parallax-section" style="background: linear-gradient(135deg, var(--primary-dark), var(--background-dark)); padding: 80px 0; color: var(--text-light);">
+        <div class="parallax-bg" id="courses-hero-bg"></div>
+        <div class="container" style="position: relative; z-index: 2;">
+            <div style="text-align: center; max-width: 900px; margin: 0 auto;">
+                <h1 class="hero-title" style="font-size: 3.5rem; margin-bottom: 1.5rem; color: var(--white);">
+                    Start Your Learning Journey
+                </h1>
+                <p class="hero-subtitle" style="font-size: 1.3rem; margin-bottom: 2rem; opacity: 0.95;">
+                    Explore restoration history through free, self-paced courses designed by expert historians. No prerequisites required.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#all-courses" class="btn btn-primary">Browse All Courses</a>
+                    <a href="#learning-path" class="btn btn-secondary">Learning Pathways</a>
+                </div>
+            </div>
+
+            <!-- Course Statistics -->
+            <div class="course-stats-hero" style="margin-top: 4rem;">
+                <div class="stat-card">
+                    <div class="stat-icon">📚</div>
+                    <span class="stat-number" id="total-courses-hero">11</span>
+                    <span class="stat-label">Total Courses</span>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">👥</div>
+                    <span class="stat-number" id="total-students-hero">6,441</span>
+                    <span class="stat-label">Active Students</span>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">⭐</div>
+                    <span class="stat-number">4.8</span>
+                    <span class="stat-label">Average Rating</span>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">✓</div>
+                    <span class="stat-number">81%</span>
+                    <span class="stat-label">Completion Rate</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Learning Pathways -->
+    <section id="learning-path" class="section" style="background-color: var(--background-light); padding: 80px 0;">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Choose Your Learning Path</h2>
+                <div class="title-underline"></div>
+            </div>
+            <p class="section-intro">Not sure where to start? Follow one of our curated learning pathways designed to build your knowledge systematically.</p>
+
+            <div class="courses-grid-dynamic">
+                <div class="course-card-enhanced hover-lift">
+                    <div class="course-card-header" style="background: linear-gradient(135deg, rgba(139, 69, 19, 0.1), rgba(212, 175, 55, 0.1));">
+                        <h3 style="color: var(--primary-color); margin: 0;">🌱 Beginner Path</h3>
+                    </div>
+                    <div class="course-card-body">
+                        <h4 class="course-card-title">Start from the Beginning</h4>
+                        <p class="course-card-description">
+                            Perfect for newcomers to restoration history. Build a solid foundation with our introductory courses.
+                        </p>
+                        <ul style="list-style: none; padding: 0; margin-top: 1rem;">
+                            <li style="margin-bottom: 0.5rem;">📖 Introduction to Restoration History</li>
+                            <li style="margin-bottom: 0.5rem;">📖 Reading Primary Sources Critically</li>
+                            <li style="margin-bottom: 0.5rem;">📖 Folk Magic in Early America</li>
+                            <li style="margin-bottom: 0.5rem;">📖 The Burned-Over District</li>
+                        </ul>
+                    </div>
+                    <div class="course-card-footer">
+                        <a href="#all-courses" class="btn-course">Start Beginner Path</a>
+                    </div>
+                </div>
+
+                <div class="course-card-enhanced hover-lift">
+                    <div class="course-card-header" style="background: linear-gradient(135deg, rgba(160, 82, 45, 0.1), rgba(212, 175, 55, 0.1));">
+                        <h3 style="color: var(--course-intermediate); margin: 0;">🔍 Intermediate Path</h3>
+                    </div>
+                    <div class="course-card-body">
+                        <h4 class="course-card-title">Deepen Your Understanding</h4>
+                        <p class="course-card-description">
+                            Ready to explore specific topics in depth. These courses examine key aspects of restoration history.
+                        </p>
+                        <ul style="list-style: none; padding: 0; margin-top: 1rem;">
+                            <li style="margin-bottom: 0.5rem;">📖 Witness Testimonies: A Comparative Study</li>
+                            <li style="margin-bottom: 0.5rem;">📖 Schism and Succession</li>
+                            <li style="margin-bottom: 0.5rem;">📖 Women's Voices in the Restoration</li>
+                            <li style="margin-bottom: 0.5rem;">📖 Sacred Experiences and Their Description</li>
+                        </ul>
+                    </div>
+                    <div class="course-card-footer">
+                        <a href="#all-courses" class="btn-course">Start Intermediate Path</a>
+                    </div>
+                </div>
+
+                <div class="course-card-enhanced hover-lift">
+                    <div class="course-card-header" style="background: linear-gradient(135deg, rgba(93, 47, 15, 0.1), rgba(212, 175, 55, 0.1));">
+                        <h3 style="color: var(--course-advanced); margin: 0;">🎓 Advanced Path</h3>
+                    </div>
+                    <div class="course-card-body">
+                        <h4 class="course-card-title">Specialized Studies</h4>
+                        <p class="course-card-description">
+                            For serious students of restoration history. These courses examine specific movements and figures in detail.
+                        </p>
+                        <ul style="list-style: none; padding: 0; margin-top: 1rem;">
+                            <li style="margin-bottom: 0.5rem;">📖 James Strang and the Strangite Movement</li>
+                            <li style="margin-bottom: 0.5rem;">📖 Community of Christ: A Different Path</li>
+                            <li style="margin-bottom: 0.5rem;">📖 The Whitmer Family and Their Testimonies</li>
+                        </ul>
+                    </div>
+                    <div class="course-card-footer">
+                        <a href="#all-courses" class="btn-course">Start Advanced Path</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="section" style="background: linear-gradient(135deg, var(--primary-dark), var(--background-dark)); color: var(--text-light); padding: 80px 0;">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title light">What Our Students Say</h2>
+                <div class="title-underline"></div>
+            </div>
+
+            <div class="courses-grid-dynamic">
+                <div class="legacy-card" style="text-align: left;">
+                    <div style="margin-bottom: 1rem; color: var(--secondary-color); font-size: 2rem;">"</div>
+                    <p style="color: var(--text-light); font-style: italic; margin-bottom: 1.5rem;">
+                        "These courses completely changed how I understand restoration history. The primary source approach is eye-opening."
+                    </p>
+                    <div style="display: flex; align-items: center; gap: 1rem;">
+                        <div style="width: 50px; height: 50px; border-radius: 50%; background: var(--secondary-color);"></div>
+                        <div>
+                            <strong style="color: var(--secondary-color);">Sarah Johnson</strong>
+                            <div style="font-size: 0.9rem; opacity: 0.8;">Completed 7 courses</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="legacy-card" style="text-align: left;">
+                    <div style="margin-bottom: 1rem; color: var(--secondary-color); font-size: 2rem;">"</div>
+                    <p style="color: var(--text-light); font-style: italic; margin-bottom: 1.5rem;">
+                        "As someone from the Community of Christ, I appreciate the balanced, scholarly approach that respects all traditions."
+                    </p>
+                    <div style="display: flex; align-items: center; gap: 1rem;">
+                        <div style="width: 50px; height: 50px; border-radius: 50%; background: var(--secondary-color);"></div>
+                        <div>
+                            <strong style="color: var(--secondary-color);">Michael Chen</strong>
+                            <div style="font-size: 0.9rem; opacity: 0.8;">Completed 4 courses</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="legacy-card" style="text-align: left;">
+                    <div style="margin-bottom: 1rem; color: var(--secondary-color); font-size: 2rem;">"</div>
+                    <p style="color: var(--text-light); font-style: italic; margin-bottom: 1.5rem;">
+                        "The witness testimonies course helped me understand the complexity of spiritual experiences in ways I never considered."
+                    </p>
+                    <div style="display: flex; align-items: center; gap: 1rem;">
+                        <div style="width: 50px; height: 50px; border-radius: 50%; background: var(--secondary-color);"></div>
+                        <div>
+                            <strong style="color: var(--secondary-color);">Rebecca Williams</strong>
+                            <div style="font-size: 0.9rem; opacity: 0.8;">Completed 5 courses</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- All Courses -->
+    <section id="all-courses" class="section" style="background-color: var(--white); padding: 80px 0;">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">All Courses</h2>
+                <div class="title-underline"></div>
+            </div>
+            <p class="section-intro">Browse our complete course catalog. All courses are free, self-paced, and include primary sources.</p>
+
+            <!-- Search and Filter Controls -->
+            <div class="course-controls">
+                <div class="search-bar-container">
+                    <span class="search-icon">🔍</span>
+                    <input
+                        type="text"
+                        id="course-search-main"
+                        class="search-bar"
+                        placeholder="Search courses by title, topic, or tag..."
+                    >
+                </div>
+                <div class="filter-buttons">
+                    <span class="filter-label">Filter:</span>
+                    <button class="filter-btn-main active" data-level="all">All Courses</button>
+                    <button class="filter-btn-main" data-level="beginner">Beginner</button>
+                    <button class="filter-btn-main" data-level="intermediate">Intermediate</button>
+                    <button class="filter-btn-main" data-level="advanced">Advanced</button>
+                    <select class="sort-dropdown" id="sort-courses-main">
+                        <option value="default">Sort By</option>
+                        <option value="rating">Highest Rated</option>
+                        <option value="enrolled">Most Popular</option>
+                        <option value="title">Alphabetical</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Courses Container -->
+            <div id="all-courses-container-main">
+                <!-- Courses will be dynamically inserted here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Learn With Us -->
+    <section class="section" style="background-color: var(--background-light); padding: 80px 0;">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Why Learn With Us?</h2>
+                <div class="title-underline"></div>
+            </div>
+
+            <div class="legacy-grid">
+                <div class="legacy-card">
+                    <div class="legacy-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                            <path d="M2 17l10 5 10-5"/>
+                            <path d="M2 12l10 5 10-5"/>
+                        </svg>
+                    </div>
+                    <h3>Primary Source Focus</h3>
+                    <p>Learn directly from historical documents, letters, and firsthand accounts rather than secondary interpretations.</p>
+                </div>
+
+                <div class="legacy-card">
+                    <div class="legacy-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="12" r="10"/>
+                            <path d="M12 6v6l4 2"/>
+                        </svg>
+                    </div>
+                    <h3>Self-Paced Learning</h3>
+                    <p>Study at your own speed. Courses are always available, with no deadlines or pressure.</p>
+                </div>
+
+                <div class="legacy-card">
+                    <div class="legacy-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/>
+                            <circle cx="12" cy="7" r="4"/>
+                        </svg>
+                    </div>
+                    <h3>Expert Instructors</h3>
+                    <p>Learn from historians and scholars who specialize in restoration history research.</p>
+                </div>
+
+                <div class="legacy-card">
+                    <div class="legacy-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M22 11.08V12a10 10 0 11-5.93-9.14"/>
+                            <polyline points="22 4 12 14.01 9 11.01"/>
+                        </svg>
+                    </div>
+                    <h3>All Traditions Welcome</h3>
+                    <p>We study the restoration movement across all branches and perspectives. Everyone is welcome.</p>
+                </div>
+
+                <div class="legacy-card">
+                    <div class="legacy-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M4 19.5A2.5 2.5 0 016.5 17H20"/>
+                            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15A2.5 2.5 0 016.5 2z"/>
+                        </svg>
+                    </div>
+                    <h3>Completely Free</h3>
+                    <p>All courses, materials, and resources are freely available. No hidden fees or paywalls.</p>
+                </div>
+
+                <div class="legacy-card">
+                    <div class="legacy-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/>
+                        </svg>
+                    </div>
+                    <h3>Discussion Forums</h3>
+                    <p>Connect with fellow students, ask questions, and share insights in course discussion forums.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="section" style="background: linear-gradient(135deg, var(--primary-dark), var(--background-dark)); color: var(--text-light); padding: 80px 0; text-align: center;">
+        <div class="container">
+            <h2 class="section-title light" style="font-size: 3rem; margin-bottom: 1rem;">Ready to Begin?</h2>
+            <p style="font-size: 1.3rem; max-width: 700px; margin: 0 auto 2rem; opacity: 0.95;">
+                Join thousands of students exploring restoration history with scholarly rigor and open inquiry.
+            </p>
+            <div class="hero-buttons">
+                <a href="#all-courses" class="btn btn-primary">Browse Courses</a>
+                <a href="index.html#join" class="btn btn-secondary">Contact Us</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <h3>Martin Harris Historical Association</h3>
+                    <p>A scholarly association dedicated to restoration history across all traditions. Free courses, peer-reviewed publications, and honest inquiry.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html#about">About the Association</a></li>
+                        <li><a href="index.html#publications">Publications</a></li>
+                        <li><a href="courses-main.html">Free Courses</a></li>
+                        <li><a href="index.html#harris">Martin Harris</a></li>
+                        <li><a href="index.html#resources">Resources</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Courses</h4>
+                    <ul>
+                        <li><a href="#learning-path">Learning Pathways</a></li>
+                        <li><a href="#all-courses">Browse All Courses</a></li>
+                        <li><a href="#all-courses">Beginner Courses</a></li>
+                        <li><a href="#all-courses">Advanced Courses</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Connect With Us</h4>
+                    <p>Stay updated on new courses and discoveries.</p>
+                    <div class="social-links">
+                        <a href="#" aria-label="Facebook">
+                            <svg viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/>
+                            </svg>
+                        </a>
+                        <a href="#" aria-label="Twitter">
+                            <svg viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"/>
+                            </svg>
+                        </a>
+                        <a href="#" aria-label="Instagram">
+                            <svg viewBox="0 0 24 24" fill="currentColor">
+                                <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+                                <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z" fill="none" stroke="#2C2416" stroke-width="2"/>
+                                <circle cx="17.5" cy="6.5" r="1.5"/>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Martin Harris Historical Association. All rights reserved.</p>
+                <p>Restoration history through open inquiry.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="courses-data.js"></script>
+    <script src="courses-main-ui.js"></script>
+    <script>
+        // Navigation and basic interactions
+        const navbar = document.getElementById('navbar');
+        const navMenu = document.getElementById('nav-menu');
+        const hamburger = document.getElementById('hamburger');
+        const navLinks = document.querySelectorAll('.nav-link');
+
+        hamburger.addEventListener('click', () => {
+            navMenu.classList.toggle('active');
+            hamburger.classList.toggle('active');
+        });
+
+        navLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                navMenu.classList.remove('active');
+                hamburger.classList.remove('active');
+            });
+        });
+
+        window.addEventListener('scroll', () => {
+            if (window.pageYOffset > 100) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+
+        // Parallax effect
+        window.addEventListener('scroll', () => {
+            const scrolled = window.pageYOffset;
+            const parallaxBg = document.getElementById('courses-hero-bg');
+            if (parallaxBg && scrolled < 800) {
+                parallaxBg.style.transform = `translateY(${scrolled * 0.5}px)`;
+            }
+        });
+
+        // Progress bar
+        function updateProgressBar() {
+            const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+            const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            const scrolled = (winScroll / height) * 100;
+            const progressBar = document.getElementById('nav-progress-bar');
+            if (progressBar) {
+                progressBar.style.width = scrolled + '%';
+            }
+        }
+
+        window.addEventListener('scroll', updateProgressBar);
+    </script>
+</body>
+</html>

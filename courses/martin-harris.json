@@ -1,0 +1,595 @@
+{
+  "courseId": "martin-harris",
+  "title": "Life and Legacy of Martin Harris",
+  "description": "A comprehensive study of Martin Harris's life, witness testimony, and movement between different restoration traditions. This course takes a scholarly, non-apologetic approach from a Community of Christ perspective.",
+  "level": "Intermediate",
+  "modules": [
+    {
+      "moduleNumber": 1,
+      "title": "Early Life and the Burned-Over District",
+      "learningObjectives": [
+        "Understand the religious and cultural context of early 19th-century upstate New York",
+        "Examine Martin Harris's early life, family background, and economic status",
+        "Analyze the overlap between folk magic traditions and religious seeking in the period",
+        "Evaluate the role of the 'burned-over district' in shaping restoration movements"
+      ],
+      "historicalContext": "Martin Harris was born in 1783 in Easton, New York, into a world of religious fervor and folk magic. The 'burned-over district' of upstate New York earned its name from the intense revival fires that swept through the region repeatedly in the early 1800s. This was a time when new religious movements flourished, treasure seeking was common, and the boundary between the spiritual and material worlds seemed permeable. Understanding this context is essential to understanding Harris's later involvement with Joseph Smith and the Book of Mormon.\n\nHarris grew up in a prosperous farming family and became one of Palmyra's wealthiest farmers by the 1820s. His participation in treasure-seeking activities with seer stones and divining rods was not unusual for the time and place—these practices were widespread and not yet clearly separated from religious seeking. The cultural soil of the burned-over district produced not just Mormonism but also Spiritualism, the Millerites (later Seventh-day Adventists), the Oneida Community, and numerous other religious innovations.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Martin Harris's 1859 Interview with Tiffany's Monthly",
+          "author": "Joel Tiffany",
+          "year": 1859,
+          "description": "Harris discusses his early life and religious seeking",
+          "significance": "One of the few firsthand accounts of Harris's early spiritual experiences"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Lucy Mack Smith's History (excerpts on Martin Harris)",
+          "author": "Lucy Mack Smith",
+          "year": 1845,
+          "description": "Mother of Joseph Smith describes early interactions with Harris",
+          "significance": "Provides context for Harris's initial involvement with the Smith family"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Burned-Over District: The Social and Intellectual History of Enthusiastic Religion",
+          "author": "Whitney R. Cross",
+          "year": 1950,
+          "description": "Classic study of religious fervor in upstate New York, 1800-1850",
+          "significance": "Essential context for understanding the cultural environment"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Early Mormonism and the Magic World View",
+          "author": "D. Michael Quinn",
+          "year": 1987,
+          "description": "Explores the intersection of folk magic and early Mormon practice",
+          "significance": "Situates Harris's treasure-seeking activities within broader cultural patterns"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Palmyra Town Records and Tax Assessments, 1820s",
+          "description": "Documentary evidence of Harris's property holdings and economic status",
+          "significance": "Demonstrates Harris's prosperity and standing in the community"
+        }
+      ],
+      "discussionQuestions": [
+        "How did the religious culture of the burned-over district create conditions favorable to new revelatory movements?",
+        "What does Martin Harris's participation in treasure-seeking tell us about the cultural boundaries between magic and religion in early 19th-century America?",
+        "How might Harris's economic prosperity have influenced his willingness to financially support Joseph Smith's translation work?",
+        "In what ways did the burned-over district's religious experimentation shape the theological possibilities of early Mormonism?",
+        "How should modern scholars approach folk magic practices in restoration history without imposing present-day categories on the past?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Often downplays or omits Harris's involvement in folk magic and treasure seeking, focusing instead on his later witness testimony. Emphasizes his eventual migration to Utah as vindication of his testimony."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "More willing to acknowledge the folk magic context as part of the historical record. Views Harris's complex journey as reflecting honest spiritual seeking rather than deception or delusion."
+        },
+        {
+          "tradition": "Academic/Non-religious Scholarship",
+          "perspective": "Emphasizes the continuity between treasure-seeking and early Mormon revelatory practices. Sees Harris as representative of broader cultural patterns in antebellum America."
+        },
+        {
+          "tradition": "Strangite Tradition",
+          "perspective": "Views Harris's openness to multiple restoration movements as appropriate discernment rather than fickleness. His brief affiliation with Strang validates the Strangite succession claim."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Cultural Context Journal",
+          "prompt": "Imagine yourself as a prosperous farmer in 1820s Palmyra. Write a journal entry describing your spiritual seeking, your neighbors' religious activities, and your thoughts on a local treasure-seeking expedition. How might your worldview differ from modern categories of 'religion' versus 'superstition'?"
+        },
+        {
+          "title": "Primary Source Analysis",
+          "prompt": "Read Martin Harris's 1859 interview carefully. What does he emphasize about his early life? What does he leave out? How does his self-presentation in old age shape the narrative of his youth? What questions would you ask him if you could?"
+        },
+        {
+          "title": "Comparative Religious Movements",
+          "prompt": "Research one other religious movement that emerged from the burned-over district (Spiritualism, Millerites, Shakers, etc.). What similarities and differences do you see with early Mormonism? What does this tell us about the cultural moment?"
+        }
+      ],
+      "additionalResources": [
+        "Map of burned-over district showing locations of various religious movements",
+        "Timeline of major revivals and religious innovations in upstate New York, 1790-1850",
+        "Glossary of folk magic terms: seer stones, divining rods, treasure guardians, etc.",
+        "Photographs of Palmyra and surrounding areas in the 19th century"
+      ]
+    },
+    {
+      "moduleNumber": 2,
+      "title": "Witness to the Book of Mormon",
+      "learningObjectives": [
+        "Analyze the various accounts of Martin Harris's witness experience",
+        "Understand the distinction Harris made between 'spiritual' and 'natural' sight",
+        "Examine the role of the Three Witnesses in Book of Mormon origins",
+        "Evaluate how witness testimonies functioned in early restoration movements"
+      ],
+      "historicalContext": "Martin Harris became one of the Three Witnesses to the Book of Mormon in June 1829, along with Oliver Cowdery and David Whitmer. His published testimony, which appeared in every edition of the Book of Mormon, states that an angel showed them the plates and that they heard the voice of God declaring the translation correct. However, over his lifetime, Harris gave various accounts of this experience that emphasized different aspects—sometimes the physical reality of what he saw, other times the spiritual or visionary nature of the experience.\n\nThe distinction Harris drew between seeing with 'spiritual eyes' versus 'natural eyes' has been controversial. Critics have used these statements to question the reality of his experience, while believers have interpreted them as describing a genuine visionary encounter. From a Community of Christ scholarly perspective, these varying accounts are valuable precisely because they show us how 19th-century people understood and described spiritual experiences. Harris was trying to be truthful about something that didn't fit neatly into categories of either purely physical or purely imaginary.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "The Testimony of Three Witnesses",
+          "year": 1830,
+          "description": "The official testimony printed in every Book of Mormon",
+          "significance": "The foundational witness statement that Harris affirmed throughout his life"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Martin Harris Interview with Anthony Metcalf",
+          "year": 1873,
+          "description": "Harris clarifies the nature of his visionary experience",
+          "significance": "Contains the 'spiritual eyes' distinction that has generated much discussion"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Martin Harris Statement to John A. Clark",
+          "year": 1840,
+          "description": "Harris describes seeing the plates 'with the eye of faith'",
+          "significance": "Shows early attempts to explain the visionary nature of the experience"
+        },
+        {
+          "type": "Primary Source",
+          "title": "David Whitmer's An Address to All Believers in Christ",
+          "author": "David Whitmer",
+          "year": 1887,
+          "description": "Fellow witness describes the shared experience",
+          "significance": "Provides corroboration and additional perspective on the witness event"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Testimonies of the Three Witnesses: Interpretation and Controversy",
+          "author": "Richard Lloyd Anderson",
+          "description": "Comprehensive analysis of witness statements and their evolution",
+          "significance": "Examines all known accounts and their historical contexts"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Sacred Experiences and Their Linguistic Construction",
+          "description": "Academic study of how people describe visionary experiences across cultures",
+          "significance": "Provides framework for understanding Harris's varying descriptions"
+        }
+      ],
+      "discussionQuestions": [
+        "What is the significance of Harris's distinction between 'spiritual eyes' and 'natural eyes'? What was he trying to communicate?",
+        "How do we evaluate historical testimony when the witness gives different emphases in different contexts?",
+        "What does the language of the Three Witnesses' testimony tell us about 19th-century religious discourse?",
+        "Why might Harris have felt the need to clarify the nature of his experience when pressed by skeptics?",
+        "How do different restoration traditions handle the complexity and evolution of witness testimonies?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Generally emphasizes the physical reality of the witness experience while acknowledging its sacred, spiritual nature. Views Harris's lifetime affirmation of the testimony as most significant, regardless of specific descriptions."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "Comfortable with the ambiguity and evolution in Harris's accounts. Views spiritual/visionary experiences as real and valid without requiring them to be physical in the modern materialist sense. Sees Harris's honesty about the nature of his experience as admirable."
+        },
+        {
+          "tradition": "Academic/Historical Scholarship",
+          "perspective": "Focuses on understanding 19th-century categories of spiritual experience. Notes that vision, trance, and spiritual sight were well-established categories in Harris's cultural context. Views the varying accounts as evidence of an authentic attempt to describe something that didn't fit simple categories."
+        },
+        {
+          "tradition": "RLDS/Reorganization Perspective",
+          "perspective": "Early RLDS leadership used witness testimonies to validate the Book of Mormon while rejecting later Utah Mormon developments. Emphasized that Harris's testimony was about the book's divine origin, not about later theological innovations."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Testimony Analysis",
+          "prompt": "Create a comparative chart of Martin Harris's various statements about his witness experience. Note the date, audience, emphasis, and specific language used. What patterns do you observe? What questions remain?"
+        },
+        {
+          "title": "Spiritual Experience and Language",
+          "prompt": "Reflect on a time when you (or someone you know) had a meaningful spiritual or visionary experience. How did you describe it? Did you use different language in different contexts? How hard is it to put such experiences into words? What does this tell you about Harris's challenge?"
+        },
+        {
+          "title": "Cross-cultural Comparison",
+          "prompt": "Research how mystics, visionaries, or witnesses in other religious traditions (e.g., Teresa of Avila, Sufi mystics, Buddhist contemplatives) have described their experiences. What similarities and differences do you see with Harris's descriptions?"
+        }
+      ],
+      "additionalResources": [
+        "Complete collection of all known Martin Harris witness statements",
+        "Linguistic analysis of visionary language in 19th-century America",
+        "Comparison chart: Three Witnesses' varying accounts over time",
+        "Visual diagram: The witness event as described by different participants"
+      ]
+    },
+    {
+      "moduleNumber": 3,
+      "title": "Financial Sacrifice and Church Involvement",
+      "learningObjectives": [
+        "Examine Martin Harris's financial support for the Book of Mormon publication",
+        "Understand the economic impact of the $3,000 mortgage on Harris's life",
+        "Analyze Harris's role in early church organization and governance",
+        "Evaluate the relationship between financial sacrifice and religious authority"
+      ],
+      "historicalContext": "Martin Harris's decision to mortgage his farm for $3,000 (equivalent to over $90,000 today) to publish the Book of Mormon in 1830 was an extraordinary act of faith with lasting consequences. As one of Palmyra's most prosperous farmers, Harris risked his economic security and family stability for a book that had no guarantee of success. This sacrifice gave him significant standing in the early church—he was literally invested in its success.\n\nHowever, the mortgage also created tensions. Harris's wife Lucy vehemently opposed his involvement with Joseph Smith, and the financial strain contributed to the breakdown of their marriage. Lucy Harris later became a vocal critic of the Book of Mormon, testifying against it in public meetings. Martin's economic losses mounted as he paid off the printing debt, and his reduced financial circumstances affected his standing in both the Palmyra community and the early church.\n\nHarris served in various leadership roles in the early church, but his relationship with Joseph Smith was complicated by financial disagreements, particularly during the Kirtland banking crisis of 1837. The same willingness to risk everything financially that made him a hero in 1830 made him a critic in 1837 when he felt the church's financial dealings were irresponsible.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Agreement between E.B. Grandin and Martin Harris",
+          "year": 1829,
+          "description": "The legal contract for publishing the Book of Mormon",
+          "significance": "Documentary evidence of Harris's financial commitment"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Mortage Records, Wayne County, New York",
+          "year": 1831,
+          "description": "Legal records of Harris's property mortgage and payments",
+          "significance": "Shows the actual financial impact over time"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Lucy Harris's Testimony Against the Book of Mormon",
+          "year": 1833,
+          "description": "Martin's estranged wife speaks publicly against his involvement",
+          "significance": "Reveals the family cost of his religious commitment"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Minutes of Kirtland High Council",
+          "year": 1837,
+          "description": "Records showing Harris's role and eventual conflict",
+          "significance": "Documents the financial disputes that led to his excommunication"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Kirtland Economy Revisited: A Market Critique of Sectarian Economics",
+          "author": "Marvin S. Hill",
+          "description": "Analysis of the economic pressures on early Mormonism",
+          "significance": "Context for understanding the 1837 crisis"
+        }
+      ],
+      "discussionQuestions": [
+        "How should we evaluate Harris's financial sacrifice? Was it admirable faith or reckless irresponsibility?",
+        "What does the breakdown of Harris's marriage tell us about the human cost of early Mormon commitment?",
+        "How did Harris's financial investment shape his expectations for church governance and financial management?",
+        "What parallels exist between early Mormon economic experiments and other 19th-century communal movements?",
+        "How do different restoration traditions remember and interpret Harris's financial sacrifice?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Celebrates Harris's sacrifice as exemplary faith and commitment. The mortgage story is often told to inspire modern members to similar sacrifice. His later financial criticisms are downplayed or attributed to apostasy."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "Acknowledges both the genuine faith of the sacrifice and its real costs to Harris and his family. Views his later financial criticisms as legitimate concerns rather than apostasy. Sees complexity rather than simple heroism."
+        },
+        {
+          "tradition": "Historical/Academic",
+          "perspective": "Examines the economic pressures on early Mormonism and how they shaped theology and practice. Notes that Harris's case was not unique—many early converts made significant financial sacrifices that didn't always work out well."
+        },
+        {
+          "tradition": "Critics of Mormonism",
+          "perspective": "Point to the manipulation of Harris by Joseph Smith as evidence of fraud. Emphasize Lucy Harris's opposition and later testimony as the voice of reason against religious enthusiasm."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Economic Analysis",
+          "prompt": "Calculate what $3,000 in 1830 would be worth today using multiple measures (inflation, purchasing power, percentage of wealth). Research what a typical farm in 1830s Palmyra was worth. Write a reflection on what Harris was really risking."
+        },
+        {
+          "title": "Family Perspective",
+          "prompt": "Write two journal entries: one from Martin Harris's perspective explaining his decision to mortgage the farm, and one from Lucy Harris's perspective explaining her opposition. Try to understand both viewpoints empathetically."
+        },
+        {
+          "title": "Leadership and Finance",
+          "prompt": "Research how religious communities handle financial sacrifice and accountability. What safeguards exist in modern religious organizations? What can we learn from the Kirtland financial crisis?"
+        }
+      ],
+      "additionalResources": [
+        "Economic data: Farm values, wages, and prices in 1830s New York",
+        "Timeline of Harris's financial situation from prosperity to struggle",
+        "Comparative study: Financial sacrifices in other restoration movements",
+        "Photos and maps: The Harris farm and Grandin print shop"
+      ]
+    },
+    {
+      "moduleNumber": 4,
+      "title": "Excommunication and the Wandering Years",
+      "learningObjectives": [
+        "Understand the circumstances leading to Harris's 1837 excommunication",
+        "Analyze his critique of Joseph Smith's financial leadership during the Kirtland crisis",
+        "Examine Harris's years of religious wandering (1837-1870)",
+        "Evaluate how Harris maintained his witness testimony while rejecting church authority"
+      ],
+      "historicalContext": "Martin Harris was excommunicated from the Church of Christ in December 1837 during the Kirtland banking crisis. The Kirtland Safety Society, a quasi-bank founded by Joseph Smith and other church leaders, had collapsed, leaving many members financially devastated. Harris, who had lost money in the venture and was still paying off his Book of Mormon mortgage, publicly criticized Smith's financial management and leadership.\n\nWhat makes Harris's excommunication particularly interesting is that he never renounced his testimony about the Book of Mormon. Throughout his 33 years of estrangement from the main body of the church, he continued to testify about seeing the golden plates and the angel. He simply separated his witness experience from his willingness to follow Joseph Smith's leadership.\n\nDuring these wandering years (1837-1870), Harris explored and affiliated with multiple restoration movements: James Strang's church (which claimed succession through angelic ordination and possessed plates of its own), various Whitmerite groups, Gladden Bishop's movement, and even the Shakers. He testified about the Book of Mormon at revival meetings and shared his experience with each community he joined. This pattern suggests he saw the witness experience as transcending any particular church organization.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Kirtland High Council Minutes, December 1837",
+          "description": "Records of Harris's excommunication proceedings",
+          "significance": "Shows the official charges and Harris's defense"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Warren Parrish Letter Describing the Kirtland Crisis",
+          "author": "Warren Parrish",
+          "year": 1838,
+          "description": "Fellow dissenter's account of the financial collapse",
+          "significance": "Provides context for Harris's criticisms"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Gospel Herald Articles on Martin Harris",
+          "year": 1847,
+          "description": "Strangite newspaper coverage of Harris joining their movement",
+          "significance": "Documents his affiliation with Strang's church"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Martin Harris's Testimony to a Shaker Community",
+          "year": 1855,
+          "description": "Harris shares his witness with the Shakers",
+          "significance": "Shows how he carried his testimony across movements"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Kirtland Economy Revisited",
+          "author": "Marvin S. Hill",
+          "description": "Comprehensive study of the financial crisis",
+          "significance": "Essential context for understanding the excommunications"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "James J. Strang: The Prophet Who Failed",
+          "author": "Various",
+          "description": "Study of the Strangite movement Harris briefly joined",
+          "significance": "Context for Harris's post-excommunication religious seeking"
+        }
+      ],
+      "discussionQuestions": [
+        "Was Harris's critique of Joseph Smith's financial leadership legitimate? Why or why not?",
+        "What does Harris's ability to maintain his witness testimony while rejecting church authority tell us about how he understood religious truth?",
+        "How do we interpret Harris's movement between different restoration churches? Was he a sincere seeker or simply unstable?",
+        "What does the Strangite movement's appeal to Harris tell us about succession claims and prophetic authority in the restoration?",
+        "How should religious communities handle legitimate criticism from members who have made significant sacrifices?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Views the excommunication as regrettable but necessary due to Harris's rebellion. Emphasizes his eventual return and migration to Utah in 1870 as vindication and redemption. The wandering years are often minimized or described as a period of apostasy."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "More sympathetic to Harris's financial concerns and critique of leadership. Views his religious wandering as authentic spiritual seeking rather than apostasy. Sees value in his willingness to separate truthfulness about his witness experience from institutional loyalty."
+        },
+        {
+          "tradition": "Strangite Tradition",
+          "perspective": "Harris's affiliation with Strang validates the Strangite succession claim. His testimony about Joseph Smith's plates combined with acceptance of Strang's plates shows continuity in restoration prophetic patterns."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Views Harris as representative of many early Mormons who experienced the succession crisis and Kirtland collapse. His religious wandering reflects the fragmented nature of the restoration movement after Joseph Smith's death. His maintained testimony shows the independence of spiritual experience from institutional affiliation."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Loyalty vs. Conscience",
+          "prompt": "Reflect on a time when you disagreed with an organization or leader you had previously supported. How did you balance loyalty with conscience? What parallels do you see with Harris's situation?"
+        },
+        {
+          "title": "Mapping Religious Movement",
+          "prompt": "Create a visual timeline of Harris's religious affiliations from 1837-1870. For each movement, note: 1) What attracted him, 2) How long he stayed, 3) Whether he testified about the Book of Mormon. What patterns emerge?"
+        },
+        {
+          "title": "Institutional Authority and Personal Experience",
+          "prompt": "Write a reflection on the relationship between personal spiritual experience and institutional religious authority. Can one be valid without the other? How did Harris navigate this tension?"
+        }
+      ],
+      "additionalResources": [
+        "Detailed timeline of the Kirtland Safety Society crisis",
+        "Map showing Harris's travels and church affiliations, 1837-1870",
+        "Comparative chart: Succession claims after Joseph Smith's death",
+        "Collection of Harris's testimony statements during the wandering years"
+      ]
+    },
+    {
+      "moduleNumber": 5,
+      "title": "Multiple Church Affiliations and Continuing Testimony",
+      "learningObjectives": [
+        "Examine each of Harris's church affiliations in detail",
+        "Analyze what attracted him to different restoration movements",
+        "Understand how he maintained his Book of Mormon testimony across traditions",
+        "Evaluate the significance of his 1870 migration to Utah"
+      ],
+      "historicalContext": "Martin Harris's religious journey from 1837-1875 took him through at least six different church affiliations: the Strangites, various Whitmerite groups, Gladden Bishop's church, the Shakers, the McLellin group, and finally the Utah Mormon church. This pattern has been interpreted in various ways: as fickleness, as authentic seeking, as evidence of mental instability, or as a sophisticated understanding that spiritual truth transcends institutional boundaries.\n\nWhat's remarkable is that Harris testified about his witness experience in every community. He told the Strangites about seeing Joseph Smith's plates (while accepting that Strang also had plates). He shared his testimony with the Shakers (who believed in continuing revelation and spiritual gifts). He testified to the Whitmerites (followers of David Whitmer, his fellow witness). In each case, he seemed to see his experience as universally significant, not as proprietary to any single church.\n\nHis 1870 migration to Utah at age 87 has been interpreted by the LDS church as a final vindication—he died in the 'true church.' However, historical evidence suggests the invitation and paid travel expenses were significant factors, and Harris continued to make nuanced statements about his witness even in Utah. He died in 1875, still testifying, still clarifying, still being honest about the nature of his sacred experience.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Letter from Martin Harris to James T. Cobb",
+          "year": 1875,
+          "description": "One of Harris's final statements about his testimony",
+          "significance": "Shows his continued witness even at the end of life"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Edward Stevenson's Journal Entries on Martin Harris",
+          "author": "Edward Stevenson",
+          "year": 1870-1875,
+          "description": "LDS missionary who brought Harris to Utah documents his statements",
+          "significance": "Provides detailed record of Harris's final years and continued testimony"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Zion's Reveille on Martin Harris Joining the Strangites",
+          "year": 1846,
+          "description": "Strangite newspaper announcing Harris's affiliation",
+          "significance": "Contemporary account of his attraction to Strang's movement"
+        },
+        {
+          "type": "Primary Source",
+          "title": "David Whitmer's Account of Harris's Visits",
+          "description": "Fellow witness describes Harris's association with Whitmerite groups",
+          "significance": "Shows the connection between the two witnesses after leaving the church"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Persistence of Book of Mormon Witnesses",
+          "description": "Study of how all three witnesses maintained their testimonies despite leaving the church",
+          "significance": "Puts Harris in context with Cowdery and Whitmer"
+        }
+      ],
+      "discussionQuestions": [
+        "What does Harris's pattern of church affiliation tell us about religious seeking in the 19th century?",
+        "How could Harris testify about Joseph Smith's plates to Strangites who believed in Strang's plates? What does this reveal about his understanding of revelation?",
+        "Should his 1870 migration to Utah be interpreted as a 'return' or simply as another affiliation in a long series?",
+        "What allowed Harris to separate his witness testimony from institutional loyalty in a way that many couldn't?",
+        "How do different restoration traditions selectively use Harris's story to support their own claims?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "The Utah migration is seen as Harris finally recognizing the true church and returning home. His earlier affiliations are viewed as wandering in darkness, while his Utah years represent coming back to the light. His death in the church is emphasized as vindication of the LDS succession."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "Harris's multiple affiliations demonstrate that spiritual truth and witness can exist independent of institutional claims to exclusive authority. His honesty and continued testimony across movements are admirable. His story challenges the idea that there's only one legitimate restoration church."
+        },
+        {
+          "tradition": "Strangite Tradition",
+          "perspective": "Harris's affiliation with Strang, combined with his testimony about Joseph Smith, validates the pattern of prophetic succession and angelic plates. His later move to Utah doesn't negate his earlier Strangite affiliation any more than his Strangite period negated his Book of Mormon testimony."
+        },
+        {
+          "tradition": "Whitmerite/Church of Christ (Temple Lot)",
+          "perspective": "Harris's association with David Whitmer and rejection of Utah Mormon innovations (polygamy, temple ordinances, etc.) shows his allegiance to the original restoration principles. His Utah migration was influenced by practical considerations more than theological conviction."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Harris exemplifies the fragmented nature of the restoration after Joseph Smith's death. His story shows how individuals navigated competing claims to authority and truth. His maintained testimony demonstrates that spiritual experience can be psychologically independent from institutional affiliation."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Religious Seeking Across Traditions",
+          "prompt": "Research the beliefs and practices of each group Harris affiliated with. Create a chart showing what they had in common and where they differed. What patterns do you see in what attracted Harris to each movement?"
+        },
+        {
+          "title": "Testimony and Belonging",
+          "prompt": "Reflect on the relationship between personal spiritual experience and church membership. Can you hold firm to a spiritual truth while questioning institutional claims? How did Harris navigate this? How do you?"
+        },
+        {
+          "title": "Historical Interpretation",
+          "prompt": "Write three different 300-word summaries of Harris's religious journey from three different perspectives: LDS faithful history, Community of Christ critical scholarship, and secular academic history. Note what each includes, emphasizes, and omits."
+        }
+      ],
+      "additionalResources": [
+        "Detailed chronology of Harris's church affiliations with primary source citations",
+        "Comparative theology: Beliefs of each group Harris joined",
+        "Collection of Harris's testimony statements across all periods",
+        "Maps showing Harris's geographic movements and church locations"
+      ]
+    },
+    {
+      "moduleNumber": 6,
+      "title": "Legacy and Historical Significance",
+      "learningObjectives": [
+        "Evaluate Martin Harris's significance in restoration history",
+        "Analyze how different traditions remember and interpret his legacy",
+        "Understand his contribution to our understanding of witness testimony and spiritual experience",
+        "Reflect on what his life teaches about religious seeking and honest inquiry"
+      ],
+      "historicalContext": "Martin Harris died in Clarkston, Utah, on July 10, 1875, at the age of 92. His legacy has been contested and interpreted in radically different ways by different restoration traditions. For the LDS church, he is primarily remembered as one of the Three Witnesses whose testimony appears in every Book of Mormon—his final years in Utah are emphasized while his middle years of wandering are minimized. For Community of Christ, he represents the complexity and honesty that should characterize historical inquiry—someone who told the truth about his experiences even when it complicated simple narratives.\n\nFor historians, Harris is invaluable precisely because of his complexity. His varying accounts of his witness experience, his movement between churches, his financial sacrifice and subsequent critique, his willingness to clarify and nuance his testimony—all of these give us insight into how 19th-century people understood spiritual experience, religious authority, and truth. He didn't simplify his story to fit institutional expectations, which makes him a challenging but rewarding historical figure.\n\nThe Martin Harris Historical Association is named after him not because we study him exclusively, but because his life exemplifies our approach: following evidence wherever it leads, embracing complexity, prioritizing honest inquiry over apologetics, and recognizing that religious truth can be both real and complicated.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Obituaries and Memorial Statements",
+          "year": 1875,
+          "description": "How Harris's death was reported in various church newspapers",
+          "significance": "Shows how different traditions immediately began shaping his legacy"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Complete Collection of Harris Statements",
+          "description": "Compilation of all known statements by and about Martin Harris",
+          "significance": "Primary source basis for all Harris studies"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Martin Harris: Mormonism's Early Convert",
+          "author": "Rhett S. James",
+          "description": "Comprehensive biography examining all periods of Harris's life",
+          "significance": "Most thorough scholarly treatment of Harris's full life and legacy"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Sustaining the Law: Joseph Smith's Legal Encounters",
+          "author": "Gordon A. Madsen",
+          "description": "Includes analysis of Harris's role in Book of Mormon publication legal agreements",
+          "significance": "Examines Harris's legal and financial commitments"
+        },
+        {
+          "type": "Comparative Study",
+          "title": "The Three Witnesses: A Comparative Analysis",
+          "description": "Compares the lives and legacies of Harris, Cowdery, and Whitmer",
+          "significance": "Shows patterns and differences in how the three witnesses navigated restoration movements"
+        }
+      ],
+      "discussionQuestions": [
+        "Why does Martin Harris's legacy matter for contemporary restoration traditions?",
+        "What does Harris's story teach us about the nature of spiritual testimony and how people describe sacred experiences?",
+        "How should historians balance respect for spiritual experience with critical analysis of historical claims?",
+        "What can modern religious communities learn from Harris's relationship between personal conscience and institutional authority?",
+        "How does the Martin Harris Historical Association's approach to history reflect Harris's own approach to truth-seeking?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Harris's primary significance is as a Book of Mormon witness. His testimony, maintained throughout his life despite periods of estrangement, validates the book's divine origin. His story teaches faith, sacrifice, and eventual return to truth. His complexities are often seen as stumbling blocks to faith rather than valuable historical insights."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "Harris's legacy is his honest, complex engagement with spiritual truth. He didn't simplify his experience to fit institutional demands. He separated spiritual witness from organizational loyalty. His life demonstrates that faith and critical thinking can coexist. His story encourages us to embrace complexity in restoration history rather than seeking simple, apologetic narratives."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Harris is extraordinarily valuable because he didn't conform to simple categories. His varying accounts of his witness experience give us insight into 19th-century religious psychology and the language of spiritual experience. His movement between churches illuminates the fragmented nature of the restoration. His financial sacrifice and critique show the human dimensions of religious commitment. He's a primary source goldmine precisely because he was complicated and honest."
+        },
+        {
+          "tradition": "Critical/Skeptical",
+          "perspective": "Harris's shifting accounts and church affiliations undermine the reliability of his witness testimony. His 'spiritual eyes' clarifications suggest he didn't actually see physical plates. His gullibility (believing in treasure seeking, multiple prophets with plates, even Shaker claims) makes him an unreliable witness. His story is evidence against Mormon truth claims rather than for them."
+        },
+        {
+          "tradition": "Multiple Restoration Traditions",
+          "perspective": "Different splinter groups claim Harris selectively: Strangites note his affiliation with Strang, Temple Lot groups emphasize his association with Whitmer, etc. His legacy is contested terrain where different groups seek validation."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Legacy Analysis",
+          "prompt": "Write your own assessment of Martin Harris's historical significance. What do you think his most important contribution to restoration history is? How should he be remembered? What does his story teach contemporary religious communities?"
+        },
+        {
+          "title": "Comparative Witnesses",
+          "prompt": "Research the lives of Oliver Cowdery and David Whitmer, the other two witnesses. Compare and contrast their trajectories with Harris's. What similarities and differences do you see? What does each witness contribute to our understanding of Book of Mormon origins?"
+        },
+        {
+          "title": "Honest Inquiry",
+          "prompt": "Reflect on what it means to approach history with 'honest inquiry over apologetics' (the MHHA principle). How did Martin Harris himself embody this approach? What challenges does this create for religious communities? What benefits does it offer?"
+        },
+        {
+          "title": "Personal Application",
+          "prompt": "What aspects of Martin Harris's story resonate with your own spiritual journey? His seeking across traditions? His willingness to sacrifice? His honesty about the complexity of his experiences? His critique of leaders he once supported? Write a personal reflection connecting his story to yours."
+        }
+      ],
+      "additionalResources": [
+        "Complete Martin Harris primary source collection (all known statements and contemporary accounts)",
+        "Historiographical essay: How Harris has been portrayed in different traditions over time",
+        "Photo gallery: Harris sites (farm, print shop, grave, etc.)",
+        "Timeline: Martin Harris's life in the context of broader restoration history",
+        "Video lectures: Scholars from different traditions discuss Harris's significance",
+        "Discussion forum: Students and scholars engaging with Harris's legacy"
+      ],
+      "courseConclusion": "Martin Harris's life was messy, complicated, honest, and deeply human. He was a prosperous farmer who risked everything for a vision, a witness who tried to be truthful about the nature of his spiritual experience even when it created problems, a critic who wouldn't stay silent about financial irresponsibility, a seeker who explored multiple restoration movements, and a testifier who never stopped talking about what he had experienced.\n\nFrom a Community of Christ perspective, this complexity is valuable rather than problematic. Harris teaches us that spiritual truth can be real without being simple, that witness can be honest without being apolegetic, that faith and critical thinking can coexist, and that following truth sometimes means questioning authority.\n\nThe Martin Harris Historical Association is named after him because we aspire to his honest approach to religious experience and truth-seeking. We want to study restoration history in all its complexity, embrace the messy reality of how these movements developed, prioritize primary sources and honest inquiry, and create space for multiple perspectives. Like Martin Harris, we're interested in what actually happened, not what we wish had happened.\n\nAs you continue your study of restoration history, carry forward Harris's commitment to honesty and his willingness to embrace complexity. The truth, as he discovered, is rarely simple—but it's always worth seeking."
+    }
+  ]
+}

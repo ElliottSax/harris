@@ -1,0 +1,648 @@
+{
+  "courseId": "joseph-smith-jr",
+  "title": "Joseph Smith Jr.: Prophet, Translator, and Visionary",
+  "description": "A comprehensive, scholarly examination of Joseph Smith Jr.'s life, revelations, and legacy across multiple restoration traditions. This course takes a Community of Christ approach: honest, non-apologetic, and open to complexity.",
+  "level": "Intermediate to Advanced",
+  "modules": [
+    {
+      "moduleNumber": 1,
+      "title": "Family Background and Early Visions",
+      "learningObjectives": [
+        "Understand the Smith family's economic and social context in early 19th-century New York",
+        "Examine the various accounts of Joseph Smith's first vision",
+        "Analyze the cultural context of treasure seeking and folk magic in the Smith family",
+        "Evaluate how early visionary experiences shaped Smith's prophetic consciousness"
+      ],
+      "historicalContext": "Joseph Smith Jr. was born December 23, 1805, in Sharon, Vermont, to Joseph Smith Sr. and Lucy Mack Smith. The Smith family struggled economically, moving frequently in search of better opportunities. They settled in Palmyra, New York, in 1816, right in the heart of the 'burned-over district' where religious revivals swept through repeatedly.\n\nThe Smith family participated in both religious seeking and folk magic practices. Joseph Sr. and Joseph Jr. both used seer stones for treasure seeking—a common practice that blended spiritual and material pursuits. Young Joseph's reputation as a 'seer' predated his prophetic claims and would later influence how he understood divine revelation.\n\nJoseph's accounts of his first vision—a theophany in which he saw divine beings—vary in detail, emphasis, and even basic elements across the different versions he told over his lifetime. The earliest written account (1832) emphasizes forgiveness of sins; the canonized 1838 account emphasizes the question of which church to join. Understanding these differences is crucial for honest historical analysis.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Joseph Smith's 1832 Account of the First Vision",
+          "year": 1832,
+          "description": "The earliest written account in Joseph's own hand",
+          "significance": "Shows the original emphasis and framing of the vision"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Joseph Smith's 1838-39 Account (Canonized Version)",
+          "year": 1838,
+          "description": "The version published in LDS scripture",
+          "significance": "Became the official narrative taught in the church"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Lucy Mack Smith's Biographical Sketches",
+          "author": "Lucy Mack Smith",
+          "year": 1845,
+          "description": "Joseph's mother's account of family history and early events",
+          "significance": "Provides family context and mother's perspective on Joseph's experiences"
+        },
+        {
+          "type": "Primary Source",
+          "title": "1826 Court Record (People v. Joseph Smith)",
+          "year": 1826,
+          "description": "Record of Joseph's trial for 'glass looking' (treasure seeking)",
+          "significance": "Contemporary evidence of Joseph's involvement in folk magic"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The First Vision: A Harmonization of 10 Accounts from the Sacred Grove",
+          "author": "Milton V. Backman Jr.",
+          "description": "Attempts to harmonize the various first vision accounts",
+          "significance": "Shows traditional LDS approach to the varying accounts"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Joseph Smith's First Vision: A Guide to the Historical Accounts",
+          "description": "Critical scholarly analysis of the evolution of the first vision narrative",
+          "significance": "Examines how and why the accounts differ"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Early Mormonism and the Magic World View",
+          "author": "D. Michael Quinn",
+          "year": 1987,
+          "description": "Comprehensive study of folk magic in early Mormonism",
+          "significance": "Essential context for Smith family practices"
+        }
+      ],
+      "discussionQuestions": [
+        "How should historians approach the varying accounts of the first vision? Are they contradictions or different emphases?",
+        "What is the relationship between Joseph Smith's treasure-seeking activities and his later prophetic work?",
+        "How did the Smith family's economic struggles shape Joseph's religious consciousness and later theological innovations?",
+        "What does the evolution of the first vision narrative tell us about how religious experiences are remembered and recounted?",
+        "How do different restoration traditions handle the complexity of Joseph Smith's early years?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Emphasizes the divine calling from youth. The varying first vision accounts are seen as emphasizing different aspects of the same experience for different audiences. Folk magic involvement is often minimized or reframed as 'cultural context' that doesn't diminish Joseph's prophetic calling."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "Acknowledges the complexity and evolution of Joseph's early experiences. Comfortable with seeing his prophetic consciousness develop over time rather than springing fully formed. Views folk magic context as historically important without determining the reality or meaning of spiritual experiences."
+        },
+        {
+          "tradition": "Fundamentalist/FLDS",
+          "perspective": "Emphasizes divine preparation from youth for his role as prophet. Sees any questioning of the official narrative as apostasy. Typically unaware of or dismissive of historical complexities like varying first vision accounts."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Examines Joseph Smith as a product of his cultural moment—the burned-over district, folk magic traditions, religious fervor, economic instability. Views prophetic claims through the lens of religious studies, psychology, and cultural history rather than theology. Interested in how religious movements begin and develop."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Comparative First Vision Analysis",
+          "prompt": "Create a detailed comparison chart of all known first vision accounts. Note: date, audience, what beings appeared, what questions were asked, what answers were given, overall emphasis. Write a reflection on what patterns you observe and what they might tell us about memory, narrative, and religious experience."
+        },
+        {
+          "title": "Cultural Context Immersion",
+          "prompt": "Research the burned-over district, treasure seeking, seer stones, and religious revivals in 1820s New York. Write a journal entry from the perspective of a neighbor of the Smith family, describing the religious and cultural environment."
+        },
+        {
+          "title": "Prophetic Consciousness Development",
+          "prompt": "Reflect on the relationship between early experiences and later religious leadership. Research other religious founders (Muhammad, Buddha, Jesus, etc.). How do early visions or experiences shape later prophetic work? How did Joseph Smith's early experiences influence his later theology?"
+        }
+      ],
+      "additionalResources": [
+        "Side-by-side comparison of all first vision accounts",
+        "Map of Smith family moves and economic struggles",
+        "Glossary of folk magic terms and practices",
+        "Timeline of religious revivals in the burned-over district, 1800-1830"
+      ]
+    },
+    {
+      "moduleNumber": 2,
+      "title": "Translation of the Book of Mormon",
+      "learningObjectives": [
+        "Examine the various accounts of the translation process",
+        "Understand the role of seer stones in the translation",
+        "Analyze the lost 116 pages incident and its implications",
+        "Evaluate the witness testimonies and their evolution"
+      ],
+      "historicalContext": "Joseph Smith claimed that an angel named Moroni directed him to golden plates buried in a hill near Palmyra. He said he retrieved the plates in 1827 and translated them by the 'gift and power of God' over the next two years, producing the Book of Mormon published in 1830.\n\nHistorical evidence shows the translation process was more complicated than often portrayed. Joseph primarily used a seer stone placed in a hat—the same method he had used for treasure seeking. He would look into the stone and dictate words to scribes, who wrote them down. Multiple witnesses describe this process, which differs significantly from artistic depictions showing Joseph studying the plates.\n\nThe lost 116 pages incident is crucial: Martin Harris took the first portion of translation to show his skeptical wife, and the manuscript disappeared. Joseph's response (not re-translating the same section but continuing from a different part of the plates) raises questions about the nature of the translation and the text itself. The witness testimonies, while maintained by all signers throughout their lives, include significant nuance about the nature of their experiences (spiritual sight vs. natural sight).",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Emma Smith's Accounts of the Translation",
+          "description": "Joseph's wife describes the translation process",
+          "significance": "Firsthand account from the primary scribe's perspective"
+        },
+        {
+          "type": "Primary Source",
+          "title": "David Whitmer's An Address to All Believers in Christ",
+          "author": "David Whitmer",
+          "year": 1887,
+          "description": "Detailed account of translation and witness experience",
+          "significance": "Most comprehensive firsthand account of the process"
+        },
+        {
+          "type": "Primary Source",
+          "title": "The Testimony of Three Witnesses and Eight Witnesses",
+          "year": 1830,
+          "description": "Published testimonies in the Book of Mormon",
+          "significance": "The official witness statements"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Martin Harris Interview with John A. Clark",
+          "year": 1840,
+          "description": "Harris describes the translation and his witness experience",
+          "significance": "Contains the 'spiritual eyes' clarification"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "From Darkness unto Light: Joseph Smith's Translation and Publication of the Book of Mormon",
+          "author": "Michael Hubbard MacKay and Gerrit J. Dirkmaat",
+          "description": "Detailed historical study of the translation process",
+          "significance": "Most thorough scholarly examination using historical sources"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Lost 116 Pages: Reconstructing the Book of Mormon's Missing Stories",
+          "author": "Don Bradley",
+          "description": "Analysis of what was in the lost manuscript",
+          "significance": "Explores implications of the lost pages incident"
+        }
+      ],
+      "discussionQuestions": [
+        "How should we understand the use of a seer stone in translation? Does it matter what method was used?",
+        "What are the implications of the lost 116 pages incident for understanding the nature of the translation?",
+        "How do we evaluate the witness testimonies given their later nuancing about 'spiritual sight'?",
+        "What does the translation process tell us about Joseph Smith's understanding of revelation?",
+        "How do different traditions balance historical evidence about the translation process with faith claims?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "The translation was a miraculous process by the gift and power of God. The specific method (plates, Urim and Thummim, seer stone) is less important than the divine product. The witnesses maintained their testimonies, which validates the book's authenticity. The church has recently become more open about the seer stone method while maintaining the miraculous nature of the translation."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "More interested in the Book of Mormon's theological and spiritual value than its historicity. Comfortable acknowledging the historical complexities of the translation process and witness testimonies. Views the book as inspired scripture without requiring belief in its historical claims about ancient American civilizations."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Examines the translation process through the lens of 19th-century cultural practices (seer stones, automatic writing, etc.). Analyzes the text for 19th-century sources and influences. Views the witness testimonies as sincere but shaped by religious psychology and visionary experience rather than physical observation. Interested in how the book was produced regardless of theological claims."
+        },
+        {
+          "tradition": "Critical/Skeptical",
+          "perspective": "The seer stone method and witness clarifications about 'spiritual sight' undermine claims of physical plates and literal translation. The lost 116 pages incident suggests Joseph couldn't actually retranslate the same material. Views the book as 19th-century creation rather than ancient record."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Translation Process Reconstruction",
+          "prompt": "Using primary sources, write a detailed narrative of what actually happened during the translation. Who was present? What did they see? What methods were used? How long did it take? Be as specific as possible, citing sources."
+        },
+        {
+          "title": "The Lost 116 Pages",
+          "prompt": "Research the lost 116 pages incident thoroughly. Write a reflection exploring: Why did Joseph give them to Martin? Why weren't they recovered? Why didn't Joseph retranslate the same material? What does this tell us about the translation process?"
+        },
+        {
+          "title": "Witness Testimony Analysis",
+          "prompt": "Compare the published witness testimonies with later statements by the witnesses (especially Harris and Whitmer). How did they clarify or nuance their experiences over time? What does this tell us about religious testimony?"
+        }
+      ],
+      "additionalResources": [
+        "Images of Joseph Smith's seer stone",
+        "Comparative analysis of translation accounts from different witnesses",
+        "Timeline of the translation process with sources",
+        "Maps showing locations of translation work"
+      ]
+    },
+    {
+      "moduleNumber": 3,
+      "title": "Church Organization and Early Leadership",
+      "learningObjectives": [
+        "Examine the organization of the Church of Christ in 1830",
+        "Understand the development of priesthood authority concepts",
+        "Analyze early revelations and their role in church governance",
+        "Evaluate the relationship between charismatic and institutional authority"
+      ],
+      "historicalContext": "The Church of Christ was officially organized on April 6, 1830, in Fayette, New York, with six founding members. What began as a small, charismatic movement centered on Joseph Smith's revelations gradually developed more complex institutional structures, priesthood offices, and hierarchical organization.\n\nThe concept of priesthood authority developed over time. Early revelations speak of elders, priests, and teachers, but the elaborate system of Aaronic and Melchizedek priesthoods with specific offices and keys developed gradually through the 1830s. The restoration of priesthood by John the Baptist (Aaronic) and Peter, James, and John (Melchizedek) were not mentioned in contemporary accounts but appeared in later historical narratives.\n\nJoseph's leadership style combined charismatic authority (direct revelation from God) with evolving institutional structures. Early converts were attracted by his prophetic gifts, but the development of priesthood hierarchies sometimes created tensions between personal spiritual gifts and institutional office. Women participated significantly in early church life, though their roles would change over time.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Articles and Covenants of the Church of Christ",
+          "year": 1830,
+          "description": "The founding document of the church",
+          "significance": "Shows the original organizational structure and beliefs"
+        },
+        {
+          "type": "Primary Source",
+          "title": "The Book of Commandments",
+          "year": 1833,
+          "description": "Early compilation of Joseph Smith's revelations",
+          "significance": "Shows early revelations before later revisions"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Doctrine and Covenants (1835 edition)",
+          "year": 1835,
+          "description": "Revised and expanded collection of revelations",
+          "significance": "Shows development and revision of early revelations"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Newel Knight's Journal",
+          "author": "Newel Knight",
+          "description": "Early convert's account of church organization and spiritual experiences",
+          "significance": "Firsthand account of early church life and spiritual gifts"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Refiner's Fire: The Making of Mormon Cosmology",
+          "author": "John L. Brooke",
+          "description": "Examines the theological and organizational development of early Mormonism",
+          "significance": "Situates Mormon development in broader cultural and intellectual contexts"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Development of LDS Temple Worship, 1846-2000",
+          "author": "Devery S. Anderson",
+          "description": "Traces the evolution of ritual and priesthood concepts",
+          "significance": "Shows how later practices developed from early foundations"
+        }
+      ],
+      "discussionQuestions": [
+        "How did the concept of priesthood authority develop in early Mormonism? What were the stages?",
+        "What is the relationship between charismatic authority (prophecy, revelation) and institutional authority (priesthood offices)?",
+        "How did the church's organizational structure reflect both Joseph Smith's revelations and practical needs?",
+        "What role did women play in early church organization, and how did this change over time?",
+        "How do different restoration traditions understand priesthood authority and succession differently?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Priesthood authority was restored by angelic visitors and has continued through apostolic succession to present leaders. The development of priesthood organization reflects divine revelation unfolding through Joseph Smith. Temple ordinances and keys are essential to priesthood authority."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "Priesthood is primarily about service and community building rather than hierarchical authority. Women were ordained to priesthood beginning in 1984. The church emphasizes spiritual gifts and calling over elaborate priesthood hierarchies. Later developments (like temple ordinances) are seen as departures from original principles."
+        },
+        {
+          "tradition": "Church of Christ (Temple Lot)",
+          "perspective": "Returns to the simplest early organization, rejecting later developments like temple ordinances. Emphasizes the 1830s organization as the pure form before innovations and apostasy."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Examines how priesthood concepts developed over time in response to organizational needs and theological evolution. Compares Mormon priesthood development to other restorationist movements and Christian primitivism. Views angelic restoration narratives as later theological developments rather than historical events."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Organizational Development Timeline",
+          "prompt": "Create a detailed timeline of priesthood and organizational developments from 1830-1844. Note when different offices first appear, when angelic restoration accounts first surface, when women's roles change. What patterns do you observe?"
+        },
+        {
+          "title": "Charisma vs. Institution",
+          "prompt": "Research the sociological concept of 'routinization of charisma' (Max Weber). How does early Mormon development fit this pattern? Write a reflection on tensions between prophetic charisma and institutional authority."
+        },
+        {
+          "title": "Comparative Priesthood Study",
+          "prompt": "Compare how three different restoration traditions understand priesthood authority today. How does each trace its authority? What does this reveal about how religious movements understand legitimacy and succession?"
+        }
+      ],
+      "additionalResources": [
+        "Chart comparing priesthood structures across restoration traditions",
+        "Timeline of organizational and doctrinal developments",
+        "Collection of early revelations on priesthood and organization",
+        "Analysis of changes between Book of Commandments and Doctrine and Covenants"
+      ]
+    },
+    {
+      "moduleNumber": 4,
+      "title": "Kirtland Period and Theological Development",
+      "learningObjectives": [
+        "Examine the Kirtland period's theological innovations",
+        "Understand the development of temple theology and rituals",
+        "Analyze the Kirtland banking crisis and its impact",
+        "Evaluate the evolution of Mormon cosmology and doctrine of God"
+      ],
+      "historicalContext": "The Kirtland, Ohio period (1831-1838) was a time of extraordinary theological development. Joseph Smith's revelations became increasingly elaborate, introducing concepts like the three degrees of glory, eternal progression, the Word of Wisdom, and evolving ideas about the nature of God. The first Mormon temple was built in Kirtland, introducing temple rituals and endowments (though different from later Utah temple ceremonies).\n\nThe period also saw intense spiritual experiences: speaking in tongues, visions, angelic visitations, and charismatic worship. The dedication of the Kirtland Temple in 1836 was marked by pentecostal manifestations. However, this spiritual fervor existed alongside growing economic pressures and organizational challenges.\n\nThe Kirtland Safety Society, a quasi-bank founded by church leaders in 1837, collapsed during the Panic of 1837, causing financial devastation for many members. The crisis led to significant apostasy, including the excommunication of several leaders and the departure of many members. Joseph and other leaders fled Kirtland in early 1838, effectively ending this phase of Mormon history.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Vision of the Three Degrees of Glory (D&C 76)",
+          "year": 1832,
+          "description": "Joseph Smith and Sidney Rigdon's vision of heaven",
+          "significance": "Revolutionary theological development departing from traditional Christianity"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Word of Wisdom (D&C 89)",
+          "year": 1833,
+          "description": "Revelation on health and diet",
+          "significance": "Later became central to Mormon identity and practice"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Lectures on Faith",
+          "year": 1835,
+          "description": "Theological lectures on the nature of God and faith",
+          "significance": "Shows early Mormon theology before later developments"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Kirtland Temple Dedicatory Prayer (D&C 109)",
+          "year": 1836,
+          "description": "Joseph Smith's prayer at temple dedication",
+          "significance": "Reveals early temple theology and expectations"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Warren Parrish Letter on the Kirtland Crisis",
+          "year": 1838,
+          "description": "Dissenter's account of the banking failure and apostasy",
+          "significance": "Critical perspective on church leadership during crisis"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Kirtland Economy Revisited",
+          "author": "Marvin S. Hill",
+          "description": "Analysis of economic pressures and the banking crisis",
+          "significance": "Essential context for understanding the period's end"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Refiner's Fire: The Making of Mormon Cosmology",
+          "author": "John L. Brooke",
+          "description": "Traces theological developments in intellectual context",
+          "significance": "Situates Mormon theology in broader American religious thought"
+        }
+      ],
+      "discussionQuestions": [
+        "How did Mormon theology evolve during the Kirtland period? What were the major innovations?",
+        "What was the relationship between spiritual experiences (visions, tongues, etc.) and institutional development?",
+        "How did the banking crisis affect perceptions of Joseph Smith's prophetic authority?",
+        "What does the Kirtland period tell us about the relationship between religious enthusiasm and practical governance?",
+        "How do different restoration traditions view the Kirtland theological developments?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "The Kirtland period saw crucial restorations of ancient truths through Joseph Smith's prophetic gifts. The three degrees of glory, Word of Wisdom, and temple ordinances were divine revelations. The banking crisis was a trial that tested faith and purged the unfaithful. The period's theological developments continued in Nauvoo."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "Appreciates some Kirtland theological developments (like the three degrees of glory) while being more critical of others. Sees the banking crisis as a legitimate failure of leadership judgment rather than a test of faith. Views later Utah developments as departures from Kirtland principles rather than continuations."
+        },
+        {
+          "tradition": "Church of Christ (Temple Lot)",
+          "perspective": "Rejects much of the Kirtland theological innovation as apostasy. Returns to the simpler theology of the Book of Mormon and earliest revelations. Sees the Kirtland period as the beginning of departure from original restoration principles."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Examines theological developments in the context of 19th-century American religious creativity. Compares Mormon innovations to other restorationist and perfectionist movements. Views the banking crisis as a case study in how economic pressures affect religious movements. Interested in how theology and practice evolved."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Theological Development Mapping",
+          "prompt": "Create a visual map or timeline showing how Mormon theology evolved from 1830-1838. Track concepts like the nature of God, salvation, priesthood, temple worship, etc. What changes? What stays consistent?"
+        },
+        {
+          "title": "The Banking Crisis",
+          "prompt": "Research the Kirtland Safety Society collapse in detail. Write a paper examining: What happened? Who was responsible? How did it affect the church? What does it teach about religious leadership and financial management?"
+        },
+        {
+          "title": "Spiritual Gifts and Authority",
+          "prompt": "Read accounts of the Kirtland Temple dedication and pentecostal experiences. Reflect on the relationship between charismatic spiritual experiences and institutional authority. How do religious communities handle ecstatic experiences?"
+        }
+      ],
+      "additionalResources": [
+        "Theological comparison chart: 1830 vs. 1838",
+        "Timeline and map of Kirtland period events",
+        "Collection of Kirtland-era revelations and teachings",
+        "Analysis of Kirtland Temple architecture and symbolism",
+        "Economic data on the banking crisis and its impact"
+      ]
+    },
+    {
+      "moduleNumber": 5,
+      "title": "Nauvoo and Expanding Vision",
+      "learningObjectives": [
+        "Examine the Nauvoo period's theological innovations including plural marriage",
+        "Understand the development of temple theology and eternal marriage",
+        "Analyze Joseph Smith's political ambitions and theocratic vision",
+        "Evaluate the factors leading to Joseph's death in 1844"
+      ],
+      "historicalContext": "After fleeing Kirtland, Joseph Smith led the church to Commerce, Illinois, which was renamed Nauvoo ('beautiful place' in Hebrew). From 1839-1844, Nauvoo became a thriving city and the center of Mormon power. This period saw Joseph Smith's most radical theological developments: plural marriage, baptism for the dead, temple endowments and sealings, the King Follett discourse on the nature of God, and the Council of Fifty as a theocratic government.\n\nJoseph secretly began practicing plural marriage around 1841, eventually marrying over 30 women (including some who were already married to other men). He taught the practice to a select group of trusted leaders while publicly denying it. This secrecy created tensions and eventually led to internal dissent.\n\nJoseph's political power grew tremendously. He served as Nauvoo's mayor, commanded the Nauvoo Legion (a militia thousands strong), and announced his candidacy for U.S. President in 1844. His destruction of the Nauvoo Expositor newspaper (which had published exposés of plural marriage) led to his arrest and the mob attack at Carthage Jail that killed him and his brother Hyrum on June 27, 1844.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "King Follett Discourse",
+          "year": 1844,
+          "description": "Joseph Smith's sermon on the nature of God and eternal progression",
+          "significance": "Most radical theological statement; foundation for later Mormon cosmology"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Revelation on Plural Marriage (D&C 132)",
+          "year": 1843,
+          "description": "Joseph's revelation on celestial and plural marriage",
+          "significance": "Theological justification for polygamy; source of enormous controversy"
+        },
+        {
+          "type": "Primary Source",
+          "title": "The Nauvoo Expositor",
+          "year": 1844,
+          "description": "Dissenter newspaper exposing plural marriage",
+          "significance": "Its destruction precipitated events leading to Joseph's death"
+        },
+        {
+          "type": "Primary Source",
+          "title": "William Law's Account",
+          "author": "William Law",
+          "description": "Close associate turned dissenter describes polygamy and reasons for break",
+          "significance": "Critical insider perspective on Nauvoo controversies"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Helen Mar Kimball's Account",
+          "description": "One of Joseph's plural wives (married at 14) describes her experience",
+          "significance": "Shows personal impact of plural marriage practice"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "In Sacred Loneliness: The Plural Wives of Joseph Smith",
+          "author": "Todd Compton",
+          "description": "Biographical sketches of all documented plural wives",
+          "significance": "Most comprehensive scholarly treatment of Joseph's plural marriages"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Nauvoo: Kingdom on the Mississippi",
+          "author": "Robert Bruce Flanders",
+          "description": "Comprehensive history of Nauvoo period",
+          "significance": "Standard scholarly work on the period"
+        }
+      ],
+      "discussionQuestions": [
+        "How did Joseph Smith's theology evolve from Kirtland to Nauvoo? What represents continuity and what represents change?",
+        "How should we understand plural marriage in its historical context while acknowledging its problematic aspects?",
+        "What was Joseph Smith's vision for the relationship between church and state? Was he building a theocracy?",
+        "What factors led to Joseph's death? Could it have been prevented?",
+        "How do different restoration traditions handle the Nauvoo innovations, especially plural marriage?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "The Nauvoo period represents the restoration's fullness: temple ordinances, eternal marriage, and (historically) plural marriage as commanded by God. Joseph's death was martyrdom. The Utah church continued these Nauvoo developments (though discontinuing plural marriage in 1890). Joseph's radical theology became orthodox Mormon belief."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "The Nauvoo innovations (plural marriage, temple ordinances, theocratic politics) represent unfortunate departures from earlier restoration principles. Joseph Smith III and the Reorganization specifically rejected these developments and returned to pre-Nauvoo theology. Joseph's death was tragic but partly caused by his own choices."
+        },
+        {
+          "tradition": "Fundamentalist/FLDS",
+          "perspective": "Plural marriage was commanded by God and should never have been discontinued. The 1890 Manifesto was apostasy. Joseph's Nauvoo theology and practices are still binding. The mainstream LDS church abandoned true restoration principles."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Examines Nauvoo as a case study in religious innovation, charismatic authority, and church-state tensions in 19th-century America. Analyzes plural marriage in historical context while acknowledging its harm, especially to young women. Views Joseph's death as the predictable result of his expanding power and controversial practices."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Theological Evolution Analysis",
+          "prompt": "Compare the 1835 Lectures on Faith description of God with the 1844 King Follett Discourse. What changed? Why might this evolution have occurred? What does it tell us about religious development?"
+        },
+        {
+          "title": "Plural Marriage Research",
+          "prompt": "Research three of Joseph Smith's plural marriages in depth (use Todd Compton's work). Examine: age of bride, circumstances of marriage, woman's experience, impact on life. Write a reflection on how we should remember and discuss this history."
+        },
+        {
+          "title": "Martyrdom vs. Consequences",
+          "prompt": "Research the events leading to Joseph's death. Write a paper examining different interpretations: Was it martyrdom for religious beliefs? Was it consequence of destroying a press? Was it political assassination? Can it be multiple things at once?"
+        }
+      ],
+      "additionalResources": [
+        "Map of Nauvoo showing major buildings and locations",
+        "Timeline of Nauvoo period with theological developments",
+        "Collection of Nauvoo-era revelations and sermons",
+        "Database of documented plural marriages",
+        "Analysis of the Nauvoo Expositor and its destruction",
+        "Accounts of Joseph's death from multiple perspectives"
+      ]
+    },
+    {
+      "moduleNumber": 6,
+      "title": "Legacy Across Restoration Traditions",
+      "learningObjectives": [
+        "Understand how Joseph Smith's legacy is claimed by multiple traditions",
+        "Analyze the succession crisis after his death",
+        "Evaluate different interpretations of his prophetic work",
+        "Reflect on what his life teaches about religious leadership and innovation"
+      ],
+      "historicalContext": "Joseph Smith's death in 1844 created a massive succession crisis. With no clear plan for succession, multiple claims emerged: Brigham Young and the Twelve Apostles, Sidney Rigdon, James Strang (claiming angelic ordination and new plates), Joseph Smith III (Joseph's son), Lyman Wight, and others. Each succession claim represented a different vision of what the restoration should be.\n\nThe Utah LDS church (following Brigham Young) continued and expanded Nauvoo-era practices like plural marriage and temple ordinances. The Reorganization (led eventually by Joseph Smith III) rejected these innovations and claimed to restore the original 1830s vision. Strangites accepted continuing revelation and prophetic plates. Other groups emphasized different aspects of Joseph's legacy.\n\nJoseph Smith's historical legacy is equally contested. For believers in various traditions, he was a prophet who restored ancient truths. For critics, he was a fraud or deluded religious enthusiast. For academic historians, he was a creative religious innovator whose movement tells us much about 19th-century America. From a Community of Christ perspective, he can be appreciated as inspired while also being examined critically and historically.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Minutes of Special Conference, August 8, 1844",
+          "description": "Meeting where Brigham Young was sustained as leader",
+          "significance": "Documents the LDS succession decision"
+        },
+        {
+          "type": "Primary Source",
+          "title": "The Letter of Appointment",
+          "year": 1844,
+          "description": "Alleged appointment letter to James Strang",
+          "significance": "Basis for Strangite succession claim"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Joseph Smith III's Response to Brigham Young",
+          "year": 1860,
+          "description": "Joseph's son explains why he didn't join the Utah church",
+          "significance": "Shows competing visions of Joseph's legacy"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Succession in the Church of Jesus Christ of Latter-day Saints",
+          "description": "Comprehensive study of succession claims and crisis",
+          "significance": "Examines all major succession movements"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Joseph Smith: Rough Stone Rolling",
+          "author": "Richard Lyman Bushman",
+          "description": "Comprehensive scholarly biography by faithful LDS historian",
+          "significance": "Most thorough modern biography, balancing faith and scholarship"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "No Man Knows My History",
+          "author": "Fawn Brodie",
+          "description": "Critical biography examining Joseph as religious innovator",
+          "significance": "Influential skeptical biography, though dated"
+        },
+        {
+          "type": "Comparative Study",
+          "title": "Differing Visions: Restoration Traditions After Joseph Smith",
+          "description": "How different movements interpret Joseph's legacy",
+          "significance": "Shows the fragmented nature of restoration historiography"
+        }
+      ],
+      "discussionQuestions": [
+        "How can multiple restoration traditions all claim Joseph Smith's legacy? What does each emphasize or omit?",
+        "Was Joseph Smith a prophet, fraud, sincere believer, creative genius, or something else? Can he be multiple things?",
+        "What should 'honest history' of Joseph Smith look like? How do we balance respect for believers with critical analysis?",
+        "What does the succession crisis tell us about religious authority and institutional legitimacy?",
+        "What aspects of Joseph's legacy are most significant for contemporary religious communities?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Joseph was a prophet who restored the fullness of the gospel. His work continues through apostolic succession and ongoing revelation. Recent scholarship acknowledges historical complexities while maintaining his prophetic calling. His legacy is the restored church with temple ordinances, priesthood authority, and living prophets."
+        },
+        {
+          "tradition": "Community of Christ",
+          "perspective": "Joseph was an inspired religious innovator whose early work was valuable, though later developments were problematic. His legacy should be critically examined rather than uncritically accepted. The Book of Mormon and early revelations retain spiritual value without requiring belief in their literal historicity. His example teaches both inspiration and human fallibility."
+        },
+        {
+          "tradition": "Strangite Tradition",
+          "perspective": "Joseph was a prophet whose work continued through James Strang, who received similar angelic ordination and plates. The pattern of prophetic revelation continues. Brigham Young's succession represented institutional continuity but not prophetic succession."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Joseph Smith was a creative religious innovator who drew on various sources (Bible, contemporary theology, folk magic, Freemasonry, etc.) to create new religious synthesis. His movement succeeded because it met spiritual, social, and economic needs. He can be studied as a significant figure in American religious history without determining the truth of his theological claims."
+        },
+        {
+          "tradition": "Critical/Skeptical",
+          "perspective": "Joseph was either a conscious fraud or self-deluded religious enthusiast who created a new religion using available sources. Historical evidence undermines supernatural claims. His legacy is a cautionary tale about charismatic authority and religious manipulation."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Legacy Comparison",
+          "prompt": "Research how three different restoration traditions (e.g., LDS, Community of Christ, Strangite) remember Joseph Smith. What stories do they tell? What do they emphasize? What do they omit or minimize? Create a comparative chart and write a reflection on selective memory in religious traditions."
+        },
+        {
+          "title": "Personal Assessment",
+          "prompt": "After studying Joseph Smith's life, write your own assessment. What do you think he was? What were his greatest contributions? His greatest failures? What do we learn from his life? How should he be remembered?"
+        },
+        {
+          "title": "Succession Analysis",
+          "prompt": "Research the succession crisis in depth. Create a diagram showing all major succession claims and their justifications. Write a reflection on how religious communities determine legitimate authority after a charismatic founder dies."
+        },
+        {
+          "title": "Contemporary Application",
+          "prompt": "What does Joseph Smith's life teach contemporary religious communities about prophecy, authority, innovation, and accountability? Write a reflection connecting his story to modern religious leadership."
+        }
+      ],
+      "additionalResources": [
+        "Comprehensive Joseph Smith timeline from birth to death",
+        "Map showing places where Joseph lived and led",
+        "Succession crisis flowchart showing all major claimants",
+        "Comparative theology chart: How different traditions interpret Joseph's teachings",
+        "Bibliography: Major biographies and scholarly works on Joseph Smith",
+        "Video lectures: Scholars from different traditions discuss Joseph's legacy",
+        "Discussion forum: Engaging with Joseph Smith's complex legacy"
+      ],
+      "courseConclusion": "Joseph Smith Jr. remains one of the most controversial and significant figures in American religious history. He was a visionary who claimed divine revelations, a creative theologian who developed radical new doctrines, a charismatic leader who inspired thousands to follow him, and a controversial figure whose practices (especially plural marriage) caused immense harm alongside their claimed spiritual benefits.\n\nFrom a Community of Christ perspective, Joseph Smith can be appreciated as an inspired religious innovator without requiring uncritical acceptance of all his teachings or practices. His early work—particularly the Book of Mormon and the emphasis on direct spiritual experience—retains spiritual value. His later developments, especially plural marriage and theocratic politics, represent problematic departures that the Reorganization specifically rejected.\n\nHonest history requires holding multiple realities in tension: Joseph was inspired AND human, visionary AND flawed, creative AND derivative, prophetic AND political. Different restoration traditions claim his legacy selectively, emphasizing what fits their vision and minimizing what doesn't. Academic scholarship examines him as a historical figure whose movement tells us much about 19th-century America, religious innovation, and charismatic authority.\n\nThe Martin Harris Historical Association approaches Joseph Smith's legacy with neither uncritical devotion nor dismissive skepticism. We're interested in what actually happened—the complexity, the creativity, the controversies, the costs. We believe honest inquiry serves truth better than apologetics or polemic. Joseph Smith's life and legacy deserve rigorous, honest, multifaceted examination that respects believers while pursuing historical truth."
+    }
+  ]
+}

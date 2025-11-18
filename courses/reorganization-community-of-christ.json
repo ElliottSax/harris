@@ -1,0 +1,581 @@
+{
+  "courseId": "reorganization-community-of-christ",
+  "title": "The Reorganization and Community of Christ",
+  "description": "A comprehensive study of the Reorganized Church of Jesus Christ of Latter Day Saints (RLDS) and its evolution into Community of Christ. This course examines theological distinctives, historical developments, and the progressive journey from restoration movement to peace and justice church.",
+  "level": "Intermediate",
+  "modules": [
+    {
+      "moduleNumber": 1,
+      "title": "Post-Martyrdom Succession Crisis",
+      "learningObjectives": [
+        "Understand the chaos following Joseph Smith's death in 1844",
+        "Examine the various succession claims and their justifications",
+        "Analyze why different groups formed around different visions of restoration",
+        "Evaluate the factors that led to the eventual Reorganization"
+      ],
+      "historicalContext": "Joseph Smith's assassination on June 27, 1844, created an immediate crisis of authority. He had left no clear succession plan, leading multiple leaders and groups to claim legitimate succession. The most significant claimants were:\n\n- **Brigham Young and the Twelve**: Claimed the Twelve Apostles held authority to lead the church\n- **Sidney Rigdon**: As surviving First Presidency member, claimed he should be 'guardian'\n- **James Strang**: Claimed a letter of appointment and angelic ordination, even produced new plates\n- **Lyman Wight**: Led a group to Texas claiming direct authority from Joseph\n- **Alpheus Cutler**: Led a small group emphasizing temple building\n- **The Smith Family**: Emma Smith and later her sons rejected many Nauvoo developments and remained in the Midwest\n\nThe majority of Nauvoo residents eventually followed Brigham Young west to Utah, but significant numbers stayed in the Midwest, rejected plural marriage and the Utah church, and waited for a reorganization led by Joseph's sons. This waiting period (1844-1860) saw scattered congregations maintaining faith while rejecting what they saw as Utah innovations.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Minutes of the Special Conference, August 8, 1844",
+          "description": "Meeting where Brigham Young was sustained as church leader",
+          "significance": "Documents the LDS succession decision"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Emma Smith's Letter to Isaac Sheen",
+          "year": 1847,
+          "description": "Joseph's widow explains why she stayed in Nauvoo and rejected Utah church",
+          "significance": "Shows the Smith family's rejection of Brigham Young's leadership"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Jason W. Briggs's Vision",
+          "year": 1851,
+          "description": "Revelation calling for reorganization under Joseph's seed",
+          "significance": "Theological foundation for the eventual Reorganization"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Zenos Gurley's Account",
+          "author": "Zenos Gurley Sr.",
+          "description": "Early RLDS leader describes the waiting period and reorganization",
+          "significance": "Firsthand account of Midwestern Saints' perspective"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Scattered Saints: The Midwest After Joseph",
+          "description": "Study of the various Midwestern restoration groups, 1844-1860",
+          "significance": "Context for understanding the Reorganization's emergence"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Succession in the Presidency",
+          "author": "Reed C. Durham Jr.",
+          "description": "Comprehensive examination of succession claims and crises",
+          "significance": "Most thorough scholarly treatment of the succession question"
+        }
+      ],
+      "discussionQuestions": [
+        "What made succession so difficult after Joseph Smith's death? Could it have been handled differently?",
+        "What were the fundamental differences between the Utah and Midwestern visions of restoration?",
+        "Why did the Smith family reject the Utah church and Brigham Young's leadership?",
+        "How did different succession claims reflect different understandings of religious authority?",
+        "What kept the Midwestern scattered groups together during the 1844-1860 waiting period?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "The Twelve Apostles held the keys and authority to lead the church. Brigham Young's succession was confirmed by members recognizing his authority. The westward migration fulfilled prophecy and allowed the church to thrive. Those who stayed behind or formed other groups rejected proper authority."
+        },
+        {
+          "tradition": "Community of Christ (RLDS)",
+          "perspective": "Brigham Young's succession represented institutional continuity but not prophetic legitimacy. His introduction of plural marriage, temple ordinances, and theocratic governance were innovations contrary to original restoration principles. The true succession came through Joseph Smith III as lineal descendant and rightful heir."
+        },
+        {
+          "tradition": "Strangite Tradition",
+          "perspective": "James Strang's letter of appointment and angelic ordination represented legitimate prophetic succession continuing Joseph Smith's pattern. Brigham Young had administrative authority but not prophetic keys. The discovery of the Voree and Rajah Manchou plates confirmed Strang's calling."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "The succession crisis was inevitable given Joseph Smith's charismatic authority and lack of clear succession planning. Different groups formed around different visions of what the restoration should be. No single succession claim had overwhelming evidence; each appealed to different sources of authority (apostolic office, lineal descent, angelic ordination, etc.)."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Succession Claims Analysis",
+          "prompt": "Create a detailed chart comparing the major succession claims. For each (Brigham Young, Sidney Rigdon, James Strang, Smith family), note: What was their claim to authority? What evidence supported it? Who followed them? What happened to their movement? Write a reflection on different types of religious authority."
+        },
+        {
+          "title": "Emma Smith's Perspective",
+          "prompt": "Research Emma Smith's life after Joseph's death. Why did she stay in Nauvoo? How did she view the Utah church? What was her relationship with the Reorganization? Write a journal entry from her perspective in 1847, explaining your choices and beliefs."
+        },
+        {
+          "title": "Theological Divergence",
+          "prompt": "Examine the theological differences that emerged in the succession crisis. Create a comparison chart showing Utah Mormon beliefs vs. Midwestern/RLDS beliefs on: plural marriage, temple ordinances, nature of God, priesthood, church governance. When did these differences emerge?"
+        }
+      ],
+      "additionalResources": [
+        "Map showing locations of various succession groups, 1844-1860",
+        "Timeline of succession crisis events",
+        "Comparative chart of succession claims and their justifications",
+        "Collection of primary sources from different succession groups"
+      ]
+    },
+    {
+      "moduleNumber": 2,
+      "title": "Joseph Smith III and the Reorganization",
+      "learningObjectives": [
+        "Understand Joseph Smith III's early life and reluctance to lead",
+        "Examine the 1860 Reorganization and its founding principles",
+        "Analyze the RLDS rejection of Nauvoo-era innovations",
+        "Evaluate Joseph III's leadership style and theological positions"
+      ],
+      "historicalContext": "Joseph Smith III, born November 6, 1832, was only 11 years old when his father was killed. He grew up in Nauvoo and then Nauvoo after the exodus, raised by his mother Emma who harbored deep distrust of Brigham Young and the Utah church. Emma remarried (to Lewis Bidamon) and raised her children outside of any church organization, though Joseph III was aware that many Midwestern Saints hoped he would eventually lead a reorganization.\n\nFor years, Joseph III resisted these calls. He worked as a farmer and was skeptical of the prophetic mantle. However, in 1860, he finally accepted leadership of the Reorganized Church of Jesus Christ of Latter Day Saints at a conference in Amboy, Illinois. He would lead the church for the next 54 years until his death in 1914—longer than any other restoration leader.\n\nJoseph III's leadership was defined by several key positions:\n- **Rejection of plural marriage**: He denied his father ever practiced it, despite historical evidence\n- **Rejection of Utah temple ordinances**: Viewed as innovations not part of original restoration\n- **Lineal succession**: Established the principle that leadership should pass through Joseph Smith's descendants\n- **Moderate theology**: Avoided the radical cosmological developments of Utah Mormonism\n- **Integration with broader Christianity**: Sought connection with other Christian denominations",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Joseph Smith III's Account of His Call",
+          "year": 1860,
+          "description": "Joseph III describes his spiritual experience leading to acceptance of leadership",
+          "significance": "Foundational narrative for RLDS legitimacy"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Minutes of the Amboy Conference",
+          "year": 1860,
+          "description": "Record of the formal reorganization and Joseph III's acceptance",
+          "significance": "Documents the RLDS church's official beginning"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Joseph Smith III vs. Brigham Young Correspondence",
+          "year": 1860s-1870s,
+          "description": "Debates over succession, plural marriage, and doctrine",
+          "significance": "Shows the fundamental divide between RLDS and LDS positions"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Emma Smith's Last Testimony",
+          "year": 1879,
+          "description": "Emma's deathbed interview denying Joseph practiced plural marriage",
+          "significance": "Influential in shaping RLDS historical narrative"
+        },
+        {
+          "type": "Primary Source",
+          "title": "The Memoirs of President Joseph Smith III",
+          "description": "Joseph III's autobiography covering his life and leadership",
+          "significance": "Primary source for understanding RLDS perspective"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Joseph Smith III: Pragmatic Prophet",
+          "author": "Roger D. Launius",
+          "description": "Scholarly biography of RLDS founder",
+          "significance": "Most comprehensive historical treatment"
+        }
+      ],
+      "discussionQuestions": [
+        "Why did Joseph Smith III initially resist and then accept church leadership?",
+        "How did Joseph III's denial of his father's plural marriage affect RLDS historical understanding?",
+        "What were the key theological and practical differences between RLDS and LDS churches?",
+        "How did lineal succession shape the RLDS church's development?",
+        "What does Joseph III's 54-year presidency tell us about his leadership and the church's stability?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "Community of Christ (RLDS)",
+          "perspective": "Joseph III was the rightful heir who restored the church to its original principles after Brigham Young's innovations. His rejection of plural marriage, temple ordinances, and Utah theology represented return to authentic restoration. His long leadership provided stability and legitimacy."
+        },
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Joseph III led a breakaway group that rejected the fullness of restoration theology. While a sincere man, he didn't have the priesthood keys or authority. His denial of his father's plural marriage was either ignorance or deception. The RLDS represented apostasy from true restoration principles."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Joseph III created a moderate version of Mormonism that appealed to those uncomfortable with Utah polygamy and theocracy. His denial of his father's plural marriage, while historically inaccurate, served important institutional purposes. The RLDS represented an alternative path for the restoration movement—Midwestern, moderate, and increasingly mainstream Christian."
+        },
+        {
+          "tradition": "Other Restoration Groups",
+          "perspective": "Various other groups (Strangites, Temple Lot, etc.) viewed Joseph III as having some legitimacy through lineage but lacking proper priesthood authority or doctrinal correctness. Each tradition had different assessments of his claims and leadership."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Joseph III's Dilemma",
+          "prompt": "Research Joseph III's reluctance to accept church leadership. Write a reflection exploring: What factors made him resist? What changed his mind? What burdens came with being Joseph Smith's son? How did he navigate his father's complex legacy?"
+        },
+        {
+          "title": "The Plural Marriage Question",
+          "prompt": "Joseph III consistently denied his father practiced plural marriage despite historical evidence. Research this thoroughly. Write a paper examining: Why did he deny it? What evidence existed? How did this affect RLDS historical understanding? How has Community of Christ addressed this today?"
+        },
+        {
+          "title": "Comparative Leadership Analysis",
+          "prompt": "Compare Joseph Smith III's leadership style and theology with Brigham Young's. Create a detailed comparison covering: theological positions, leadership style, relationship to broader society, church governance, succession principles. What does this tell us about different restoration paths?"
+        }
+      ],
+      "additionalResources": [
+        "Timeline of Joseph Smith III's life and RLDS development",
+        "Map showing RLDS expansion and geographic distribution",
+        "Comparative theology chart: RLDS vs. LDS positions",
+        "Collection of Joseph III's sermons and writings",
+        "Photographs and artifacts from early RLDS history"
+      ]
+    },
+    {
+      "moduleNumber": 3,
+      "title": "Theological Distinctives of the RLDS Church",
+      "learningObjectives": [
+        "Understand the RLDS rejection of Utah Mormon innovations",
+        "Examine RLDS positions on Book of Mormon, priesthood, and revelation",
+        "Analyze how RLDS theology evolved while claiming to restore original principles",
+        "Evaluate the RLDS relationship to broader Christianity"
+      ],
+      "historicalContext": "The RLDS church defined itself largely in opposition to Utah Mormonism. Key theological distinctives included:\n\n**What RLDS Rejected:**\n- Plural marriage (polygamy)\n- Secret temple ordinances and endowments\n- Baptism for the dead (as practiced in Utah)\n- The Adam-God theory\n- Radical eternal progression theology\n- Blood atonement\n- Theocratic political ambitions\n- Exclusivity claims about being the 'only true church'\n\n**What RLDS Affirmed:**\n- The Book of Mormon as inspired scripture (though increasingly non-literal interpretation)\n- Continuing revelation through prophetic leadership\n- Priesthood authority (but through lineal succession)\n- Community of believers over hierarchical control\n- Participation in broader Christian ecumenical movement\n- Progressive social positions (temperance, women's rights, etc.)\n\nOver time, RLDS theology became increasingly moderate and mainline Protestant in character, emphasizing ethics and social gospel over unique restoration claims. This evolution would eventually lead to the name change to Community of Christ.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Epitome of Faith and Doctrine (RLDS)",
+          "year": 1897,
+          "description": "Official statement of RLDS beliefs",
+          "significance": "Shows the church's theological self-understanding"
+        },
+        {
+          "type": "Primary Source",
+          "title": "RLDS Debate with LDS Representatives",
+          "year": 1884,
+          "description": "Public debates over plural marriage and doctrine",
+          "significance": "Clearly articulates differences between traditions"
+        },
+        {
+          "type": "Primary Source",
+          "title": "The True Succession in Church Presidency",
+          "author": "Heman C. Smith",
+          "year": 1909,
+          "description": "RLDS argument for lineal succession",
+          "significance": "Theological justification for RLDS claims"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Differences That Persist: RLDS and LDS Theology",
+          "description": "Scholarly comparison of the two traditions",
+          "significance": "Clear analysis of theological divergence"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The History of the Reorganized Church, Volumes 1-4",
+          "author": "Various RLDS historians",
+          "description": "Official RLDS church history",
+          "significance": "Shows how RLDS understood and told their own story"
+        }
+      ],
+      "discussionQuestions": [
+        "How did defining themselves against Utah Mormonism shape RLDS identity and theology?",
+        "Was the RLDS church a return to original restoration principles or its own innovation?",
+        "How did RLDS theology evolve while claiming to preserve Joseph Smith's original vision?",
+        "What allowed RLDS to integrate with broader Christianity in ways Utah Mormonism didn't?",
+        "How did RLDS handle the Book of Mormon as its theology became more mainstream?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "Community of Christ (RLDS)",
+          "perspective": "RLDS theology represented the authentic continuation of Joseph Smith's early restoration work before Nauvoo innovations. By rejecting polygamy and temple ordinances, the church maintained ethical integrity and biblical foundations. Growing openness to broader Christianity reflected spiritual maturity, not compromise."
+        },
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "RLDS rejection of Nauvoo theology meant rejecting the fullness of restoration. They kept some restoration elements (Book of Mormon, priesthood) while abandoning others (temple work, eternal marriage, full restoration cosmology). This selective acceptance represented incomplete faith."
+        },
+        {
+          "tradition": "Evangelical/Mainstream Christianity",
+          "perspective": "RLDS movement toward mainstream Protestant theology and ethics was positive. Their increasing openness to biblical scholarship and ecumenical cooperation showed maturity. However, retention of Book of Mormon and unique priesthood claims remained problematic from orthodox Christian perspective."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "RLDS represents an alternative evolutionary path for Mormonism—moderate, Midwestern, increasingly mainstream. Their theological evolution shows how restoration movements can develop in different directions from the same founding figure. Their experience illuminates questions of religious identity, authority, and adaptation."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Theological Comparison Project",
+          "prompt": "Create a detailed comparison chart of RLDS and LDS theology across multiple categories: nature of God, salvation, scripture, priesthood, church organization, temple practices, marriage, relationship to mainstream Christianity. Write a reflection on how two traditions from the same root diverged so significantly."
+        },
+        {
+          "title": "Identity Formation Through Opposition",
+          "prompt": "Reflect on how the RLDS church defined itself against Utah Mormonism. How did opposition shape identity? What are the benefits and drawbacks of defining yourself by what you're NOT? How does this pattern appear in other religious movements?"
+        },
+        {
+          "title": "Evolution or Apostasy?",
+          "prompt": "RLDS theology evolved significantly from 1860-2000. From an RLDS perspective, this was spiritual growth and refinement. From an LDS perspective, it was drift and apostasy. Write a paper examining religious change: When is theological evolution legitimate development vs. abandonment of core principles?"
+        }
+      ],
+      "additionalResources": [
+        "Comprehensive theological comparison chart: RLDS vs. LDS",
+        "Timeline of RLDS theological developments",
+        "Collection of RLDS doctrinal statements over time",
+        "Analysis of how RLDS interpreted the Book of Mormon differently than LDS"
+      ]
+    },
+    {
+      "moduleNumber": 4,
+      "title": "The Move Toward Community of Christ",
+      "learningObjectives": [
+        "Understand the factors leading to the 2001 name change",
+        "Examine theological and social changes in late 20th century RLDS",
+        "Analyze the women's ordination decision and its impact",
+        "Evaluate the shift from restoration movement to peace and justice church"
+      ],
+      "historicalContext": "The late 20th century saw dramatic changes in the RLDS church:\n\n**1960s-1970s**: Increasing openness to biblical scholarship and non-literal interpretation of scripture. Growing emphasis on social justice and peace witness.\n\n**1984**: Women ordained to priesthood after years of debate. This caused significant controversy and some schism, but was seen by leadership as following the Spirit's call.\n\n**1990s**: Movement away from unique restoration claims toward identification as a 'peace and justice' church within broader Christianity. Temple built in Independence (1994) but functioning as community center and worship space rather than for secret ordinances.\n\n**2001**: Name changed from Reorganized Church of Jesus Christ of Latter Day Saints to Community of Christ. This symbolized the theological journey from restoration sect to Christian denomination emphasizing Christ's community.\n\nThese changes alienated traditionalists (some forming restoration branches) but positioned the church for growth in its new identity. The church increasingly emphasized:\n- Peace and justice ministry\n- Inclusive community\n- Progressive Christian theology\n- Global perspective and indigenous leadership\n- Environmental stewardship\n- Christ-centered (rather than restoration-centered) identity",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Section 156: On Women's Ordination",
+          "year": 1984,
+          "description": "Revelation calling for women to be ordained to priesthood",
+          "significance": "Watershed moment in RLDS history"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Doctrine and Covenants Section 163",
+          "year": 2007,
+          "description": "Revelation emphasizing peace, justice, and Christ-centeredness",
+          "significance": "Shows contemporary Community of Christ theology"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Exploring the Faith: A Series for Inquirers",
+          "year": 2001,
+          "description": "Community of Christ's statement of faith and identity",
+          "significance": "Post-name-change articulation of church identity"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "From Sect to Denomination: The Journey of Community of Christ",
+          "description": "Sociological analysis of RLDS transformation",
+          "significance": "Examines the church's evolution through organizational theory"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "A Community's Witness: A Century of Challenge and Change",
+          "description": "Historical analysis of 20th-century RLDS developments",
+          "significance": "Comprehensive treatment of the transformation period"
+        }
+      ],
+      "discussionQuestions": [
+        "What factors drove the RLDS church toward mainline Protestant identity?",
+        "How did women's ordination change the church? Was it consistent with or contrary to restoration principles?",
+        "What was gained and lost in the name change to Community of Christ?",
+        "Can Community of Christ still be considered part of the restoration movement?",
+        "How do progressive theological changes affect religious community and identity?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "Community of Christ (Progressive)",
+          "perspective": "The transformation represents spiritual maturity and following the Spirit's continuing call. Women's ordination, name change, and progressive theology fulfill the restoration's deepest purposes: creating Christ's beloved community of justice and peace. Letting go of exclusive claims and embracing broader Christianity is growth, not abandonment."
+        },
+        {
+          "tradition": "Restoration Branches (RLDS Traditionalists)",
+          "perspective": "Community of Christ abandoned the restoration and became just another liberal Protestant denomination. Women's ordination violated scripture and tradition. The name change erased Joseph Smith's legacy. The church that emerged isn't recognizable as the RLDS church. Restoration branches maintain the true RLDS faith."
+        },
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "The RLDS trajectory shows what happens without priesthood keys and proper authority—drift toward mainstream Protestantism and abandonment of unique restoration truths. However, some admiration for their social justice emphasis and willingness to evolve (even if in wrong direction)."
+        },
+        {
+          "tradition": "Evangelical/Mainstream Christianity",
+          "perspective": "Community of Christ's journey toward orthodox Christianity is largely positive. Their progressive stances on women's ordination, LGBTQ+ inclusion, and social justice are admirable. However, retention of Doctrine and Covenants and unique priesthood structure shows incomplete integration."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Community of Christ represents a fascinating case study in religious transformation. The journey from restoration sect to progressive Christian denomination illuminates questions about religious identity, authority, continuity, and change. Their experience offers insights for understanding religious evolution."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Women's Ordination Debate",
+          "prompt": "Research the women's ordination decision thoroughly. Read arguments for and against from the 1980s. Write a paper examining: What were the theological arguments on each side? What was the impact? How did the church navigate this controversy? What does it teach about religious change?"
+        },
+        {
+          "title": "Name and Identity",
+          "prompt": "Reflect on the 2001 name change. What's in a name? How does changing from 'Reorganized Church of Jesus Christ of Latter Day Saints' to 'Community of Christ' represent theological and identity shifts? What was preserved and what was changed? Write your own analysis of the decision."
+        },
+        {
+          "title": "Continuity and Change",
+          "prompt": "Is Community of Christ still the same church as the 1860 Reorganization? At what point does evolution become something entirely new? Write a philosophical reflection on religious identity, continuity, and transformation, using Community of Christ as a case study."
+        }
+      ],
+      "additionalResources": [
+        "Timeline of major changes, 1960-2010",
+        "Collection of Doctrine and Covenants sections showing theological evolution",
+        "Videos and audio of debates over women's ordination",
+        "Statistical data on membership and geographic distribution over time",
+        "Photographs showing changing worship practices and spaces"
+      ]
+    },
+    {
+      "moduleNumber": 5,
+      "title": "Progressive Theology and Social Justice Emphasis",
+      "learningObjectives": [
+        "Understand Community of Christ's peace theology and witness",
+        "Examine the church's positions on social justice issues",
+        "Analyze the relationship between progressive theology and restoration heritage",
+        "Evaluate Community of Christ's approach to LGBTQ+ inclusion"
+      ],
+      "historicalContext": "Contemporary Community of Christ emphasizes:\n\n**Peace Theology**: Opposition to war and violence, support for conflict resolution and reconciliation. The church has consultative status at the UN and actively participates in peace-building initiatives globally.\n\n**Economic Justice**: Advocacy for the poor and marginalized. Connection to early Mormon communitarian economics (Law of Consecration) reinterpreted for contemporary context.\n\n**Environmental Stewardship**: Emphasis on creation care as spiritual responsibility. 'Enduring Principles' include responsible stewardship of creation.\n\n**LGBTQ+ Inclusion**: While not officially sanctioning same-sex marriage, the church has moved toward inclusion and welcome. Many congregations are explicitly affirming. This remains a point of ongoing discernment and some tension.\n\n**Racial Justice**: Acknowledgment of historical racism and active anti-racism work. Unlike LDS church, no priesthood ban based on race (though early RLDS had its own racial issues).\n\n**Women's Leadership**: Women serve in all levels of priesthood and leadership, including potential future prophet-president.\n\nThis progressive stance attracts some seekers while alienating traditionalists. Community of Christ sees these positions as flowing from core theological commitments to Christ's inclusive, justice-oriented ministry.",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Community of Christ Enduring Principles",
+          "description": "Nine core principles guiding the church",
+          "significance": "Shows contemporary theological priorities"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Faithful Disagreement Statement",
+          "description": "How the church handles theological diversity and disagreement",
+          "significance": "Shows commitment to unity amid diversity"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Doctrine and Covenants 164",
+          "year": 2010,
+          "description": "Revelation emphasizing peace, creation care, and Zion vision",
+          "significance": "Most recent comprehensive statement of mission"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Mission Statement: Proclaim Jesus Christ and Promote Communities of Joy, Hope, Love, and Peace",
+          "description": "Current articulation of church mission",
+          "significance": "Shows Christ-centered, community-focused emphasis"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "Community of Christ: A Church Seeking Justice and Peace",
+          "description": "Analysis of the church's social justice commitments",
+          "significance": "Examines theological foundations for progressive positions"
+        }
+      ],
+      "discussionQuestions": [
+        "How does Community of Christ connect its progressive social positions to restoration heritage?",
+        "Is the church's peace theology consistent with Book of Mormon warfare narratives?",
+        "How does Community of Christ navigate diversity on LGBTQ+ inclusion while maintaining unity?",
+        "What is the relationship between theological progressivism and institutional vitality? Is Community of Christ thriving or declining?",
+        "How do Community of Christ's social justice emphases compare to other Christian traditions?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "Community of Christ (Progressive)",
+          "perspective": "Social justice and peace witness flow directly from following Jesus and understanding Zion as beloved community. Progressive positions on women, LGBTQ+ inclusion, environment, etc. represent faithfulness to Christ's inclusive, justice-oriented ministry. This is what restoration looks like when taken seriously."
+        },
+        {
+          "tradition": "Restoration Branches (RLDS Traditionalists)",
+          "perspective": "Progressive social positions represent capitulation to secular culture rather than faithfulness to scripture and restoration principles. The church has abandoned biblical standards for political correctness. True restoration requires maintaining traditional teachings on marriage, gender roles, etc."
+        },
+        {
+          "tradition": "Progressive Christianity Broadly",
+          "perspective": "Community of Christ is a valuable partner in progressive Christian witness. Their journey shows how conservative religious communities can evolve toward inclusion and justice. However, their unique heritage (Book of Mormon, Doctrine and Covenants) sometimes creates tensions with their progressive theology."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Community of Christ represents an interesting test case: Can a restoration sect successfully transition to progressive Christian denomination? Their trajectory shows both the possibilities and challenges of religious transformation. Declining membership raises questions about sustainability of their model."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Peace Theology Exploration",
+          "prompt": "Research Community of Christ's peace theology and witness. How do they ground opposition to war in scripture and theology? How does this compare to other peace church traditions (Quakers, Mennonites, etc.)? Write a reflection on religious pacifism and its challenges."
+        },
+        {
+          "title": "LGBTQ+ Inclusion Case Study",
+          "prompt": "Examine Community of Christ's journey toward LGBTQ+ inclusion. What have been the steps? What are current policies? Where does disagreement remain? Compare to other Christian denominations' approaches. Write an analysis of how religious communities navigate changing understanding of sexuality and gender."
+        },
+        {
+          "title": "Progressive Theology and Growth",
+          "prompt": "Research Community of Christ's membership trends. The church has declined in North America while growing in some international areas. Write a reflection on the relationship between theological progressivism and institutional vitality. Can progressive churches grow? What factors matter?"
+        }
+      ],
+      "additionalResources": [
+        "Community of Christ statements on social issues",
+        "Comparative chart: Social positions across restoration traditions",
+        "Collection of recent Doctrine and Covenants sections emphasizing justice and peace",
+        "Statistics on Community of Christ membership and demographics",
+        "Videos of Community of Christ worship and ministry"
+      ]
+    },
+    {
+      "moduleNumber": 6,
+      "title": "Contemporary Community of Christ: Identity and Future",
+      "learningObjectives": [
+        "Understand Community of Christ's current global presence and diversity",
+        "Analyze the church's relationship to broader restoration movement",
+        "Evaluate challenges and opportunities facing the denomination",
+        "Reflect on what Community of Christ's journey teaches about religious evolution"
+      ],
+      "historicalContext": "Contemporary Community of Christ (2024) presents interesting dynamics:\n\n**Geographic Distribution**: While declining in North America (especially traditional RLDS heartland), the church is growing in parts of Africa, Haiti, and the Philippines. This creates tension between North American progressive theology and more conservative international congregations.\n\n**Temple and Sacred Sites**: The Independence Temple (dedicated 1994) serves as headquarters and worship center. The church also maintains historic sites in Kirtland, Nauvoo, and other locations, sometimes in partnership with LDS church.\n\n**Membership**: Approximately 250,000 members worldwide (down from peak of 250,000+ in 1980s), with most outside North America. Active participation rates are uncertain.\n\n**Leadership**: Current prophet-president leads through consensus-building rather than authoritarian revelation. Women and people of color increasingly represented in leadership.\n\n**Ecumenical Relationships**: Member of National Council of Churches, World Council of Churches, Christian Churches Together. Strong relationships with mainline Protestant denominations.\n\n**Challenges**: \n- Declining North American membership and financial base\n- Tension between progressive North American theology and conservative international congregations\n- Identity questions: Are we restoration movement or mainline Protestant denomination?\n- Generational differences in theology and practice\n- Competition with both evangelical and progressive alternatives\n\n**Opportunities**:\n- Unique witness as progressive church with sacramental and liturgical richness\n- Growing international presence and indigenous leadership\n- Historic sites and heritage as resources\n- Established peace and justice credentials",
+      "keyReadings": [
+        {
+          "type": "Primary Source",
+          "title": "Enduring Principles and Mission Statement",
+          "description": "Current articulation of Community of Christ identity",
+          "significance": "Shows how the church understands itself today"
+        },
+        {
+          "type": "Primary Source",
+          "title": "Recent Doctrine and Covenants Sections (160-166)",
+          "year": "2000-2013",
+          "description": "Contemporary revelations guiding the church",
+          "significance": "Shows continuing revelation in practice"
+        },
+        {
+          "type": "Statistical Report",
+          "title": "Community of Christ Annual Statistical Reports",
+          "description": "Membership, financial, and demographic data",
+          "significance": "Reveals trends and challenges"
+        },
+        {
+          "type": "Secondary Source",
+          "title": "The Future of Community of Christ",
+          "description": "Analysis of challenges and possibilities",
+          "significance": "Forward-looking assessment of the church's trajectory"
+        },
+        {
+          "type": "Comparative Study",
+          "title": "Restoration Movements in the 21st Century",
+          "description": "How various restoration traditions are faring",
+          "significance": "Puts Community of Christ in broader context"
+        }
+      ],
+      "discussionQuestions": [
+        "Can Community of Christ maintain its unique identity while increasingly aligning with mainline Protestantism?",
+        "How should the church navigate tensions between progressive North American and conservative international congregations?",
+        "What does declining North American membership mean for the church's future?",
+        "Is Community of Christ still part of the restoration movement or has it become something entirely different?",
+        "What does Community of Christ's journey teach other religious communities about tradition, innovation, and institutional survival?"
+      ],
+      "multiplePerspectives": [
+        {
+          "tradition": "Community of Christ (Institutional)",
+          "perspective": "The church is successfully transitioning to global, diverse, progressive Christian denomination. Declining North American membership is balanced by international growth. The journey from restoration sect to inclusive community represents faithfulness to the Spirit's leading. The future involves continuing this trajectory while managing diversity."
+        },
+        {
+          "tradition": "Community of Christ (Concerned Members)",
+          "perspective": "Rapid change has alienated many traditional members while not attracting enough progressives to compensate. The church risks losing its distinctive identity while not fully belonging to any religious family. Financial and membership challenges are serious and require honest assessment."
+        },
+        {
+          "tradition": "Restoration Branches",
+          "perspective": "Community of Christ is no longer the RLDS church in any meaningful sense. It has abandoned restoration principles, Joseph Smith's legacy, and biblical truth. The branches maintain what Community of Christ left behind. Community of Christ's decline proves the wrongness of their path."
+        },
+        {
+          "tradition": "LDS/Brigham Young Tradition",
+          "perspective": "Community of Christ's trajectory confirms that without priesthood keys and authority, drift is inevitable. However, some aspects are admirable (social justice emphasis, historical honesty) even if theologically mistaken. Their declining membership shows consequences of abandoning unique restoration truths."
+        },
+        {
+          "tradition": "Academic/Historical",
+          "perspective": "Community of Christ represents a fascinating case study in religious transformation and its consequences. Their journey illuminates questions about tradition and innovation, religious identity, institutional survival, and theological evolution. Their experience offers lessons for understanding how religious movements adapt to modernity."
+        }
+      ],
+      "reflectionExercises": [
+        {
+          "title": "Future Scenarios",
+          "prompt": "Imagine Community of Christ in 2050. Write three different scenarios: 1) Continued decline and possible merger with another denomination, 2) Stabilization as small progressive denomination, 3) Revival and growth through new vision. Which seems most likely? What factors would drive each outcome?"
+        },
+        {
+          "title": "Identity and Belonging",
+          "prompt": "Is Community of Christ still a restoration church? Make arguments for both sides. What makes something part of the restoration movement? Can you leave restoration identity behind while maintaining restoration scripture and structure? Write your own assessment."
+        },
+        {
+          "title": "Lessons for Religious Communities",
+          "prompt": "What does Community of Christ's 160-year journey teach other religious communities? Write a reflection on tradition and innovation, theological evolution, institutional survival, prophetic witness, and religious identity. What are the lessons—both positive and cautionary—from this story?"
+        }
+      ],
+      "additionalResources": [
+        "Current membership statistics and trends",
+        "Map of global Community of Christ presence",
+        "Videos from recent World Conference",
+        "Interviews with diverse Community of Christ members",
+        "Comparison of Community of Christ with other progressive denominations",
+        "Collection of restoration branches materials showing alternative path"
+      ],
+      "courseConclusion": "Community of Christ's journey from the 1860 Reorganization to today's progressive Christian denomination is remarkable. What began as an alternative restoration movement—rejecting Utah Mormon innovations while claiming Joseph Smith's legacy—has evolved into something quite different: a peace and justice church that emphasizes Christ's inclusive community over unique restoration claims.\n\nThis transformation raises profound questions about religious identity, authority, tradition, and change. From one perspective, Community of Christ has faithfully followed the Spirit's continuing call, maturing from sectarian exclusivity to generous Christianity. From another, they've abandoned their heritage and distinctive witness. Both perspectives contain truth.\n\nWhat's undeniable is that Community of Christ represents an alternative path for the restoration movement—one that prioritized ethics over unique truth claims, inclusion over exclusivity, peace witness over institutional power, honest history over apologetics. Their journey shows both the possibilities and costs of religious evolution.\n\nFor the Martin Harris Historical Association, Community of Christ's approach to history is particularly significant. The denomination has been willing to acknowledge historical complexities—including Joseph Smith's plural marriage, which Joseph Smith III denied. Their commitment to honest inquiry over apologetics aligns with our approach, even as we study all restoration traditions without privileging any single one.\n\nAs you reflect on Community of Christ's story, consider what it teaches about how religious communities navigate modernity, maintain identity amid change, balance tradition and innovation, and seek faithful witness in their time. The journey continues, and the outcome remains open."
+    }
+  ]
+}

@@ -6,6 +6,8 @@
     <meta name="description" content="Martin Harris Historical Association - A scholarly association studying restoration history across all traditions. Publications, courses, and resources.">
     <title>Martin Harris Historical Association</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="courses-theme.css">
+    <link rel="stylesheet" href="interactive-styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
@@ -160,71 +162,82 @@
             </div>
             <p class="section-intro">Self-paced courses on restoration history, open to everyone. Each includes readings, primary sources, and discussion questions.</p>
 
-            <h3 class="course-category-title">Foundational Courses</h3>
-            <div class="courses-grid">
-                <div class="course-card">
-                    <h4>Introduction to Restoration History</h4>
-                    <p>Overview of all restoration branches from 1820 to present. Understand the major movements, key figures, and theological differences.</p>
-                    <span class="course-level">Beginner • 6 modules</span>
+            <!-- Course Statistics -->
+            <div class="course-stats-hero">
+                <div class="stat-card">
+                    <div class="stat-icon">📚</div>
+                    <span class="stat-number" id="total-courses">11</span>
+                    <span class="stat-label">Courses</span>
                 </div>
-                <div class="course-card">
-                    <h4>Reading Primary Sources Critically</h4>
-                    <p>Learn to analyze 19th-century documents, understand context, identify bias, and evaluate reliability.</p>
-                    <span class="course-level">Beginner • 4 modules</span>
+                <div class="stat-card">
+                    <div class="stat-icon">👥</div>
+                    <span class="stat-number" id="total-students">6441</span>
+                    <span class="stat-label">Students</span>
                 </div>
-                <div class="course-card">
-                    <h4>Folk Magic in Early America</h4>
-                    <p>Cultural context of treasure seeking, seer stones, divining rods, and magical worldviews in 1820s New York.</p>
-                    <span class="course-level">Beginner • 5 modules</span>
+                <div class="stat-card">
+                    <div class="stat-icon">⭐</div>
+                    <span class="stat-number">4.8</span>
+                    <span class="stat-label">Avg Rating</span>
                 </div>
-                <div class="course-card">
-                    <h4>The Burned-Over District</h4>
-                    <p>Religious fervor in upstate New York 1800-1850. Revivals, new movements, and the cultural soil of the restoration.</p>
-                    <span class="course-level">Beginner • 4 modules</span>
-                </div>
-            </div>
-
-            <h3 class="course-category-title">Advanced Courses</h3>
-            <div class="courses-grid">
-                <div class="course-card">
-                    <h4>Witness Testimonies: A Comparative Study</h4>
-                    <p>Examine all witness accounts—Three Witnesses, Eight Witnesses, and others—and how their testimonies evolved over time.</p>
-                    <span class="course-level">Intermediate • 8 modules</span>
-                </div>
-                <div class="course-card">
-                    <h4>Schism and Succession</h4>
-                    <p>Why did the restoration movement split? Explore succession crises, competing claims, and the formation of different churches.</p>
-                    <span class="course-level">Intermediate • 7 modules</span>
-                </div>
-                <div class="course-card">
-                    <h4>Women's Voices in the Restoration</h4>
-                    <p>Emma Smith, Lucy Mack Smith, Eliza R. Snow, and other women whose perspectives are often marginalized in traditional histories.</p>
-                    <span class="course-level">Intermediate • 6 modules</span>
-                </div>
-                <div class="course-card">
-                    <h4>Sacred Experiences and Their Description</h4>
-                    <p>How do people talk about visions? Study the language of spiritual experience across cultures and time periods.</p>
-                    <span class="course-level">Advanced • 6 modules</span>
+                <div class="stat-card">
+                    <div class="stat-icon">✓</div>
+                    <span class="stat-number">81%</span>
+                    <span class="stat-label">Completion</span>
                 </div>
             </div>
 
-            <h3 class="course-category-title">Specialized Courses</h3>
-            <div class="courses-grid">
-                <div class="course-card">
-                    <h4>James Strang and the Strangite Movement</h4>
-                    <p>The fascinating story of Strang's claims, his kingdom on Beaver Island, and why thousands followed him.</p>
-                    <span class="course-level">Advanced • 5 modules</span>
+            <!-- Search and Filter Controls -->
+            <div class="course-controls">
+                <div class="search-bar-container">
+                    <span class="search-icon">🔍</span>
+                    <input
+                        type="text"
+                        id="course-search"
+                        class="search-bar"
+                        placeholder="Search courses by title, topic, or tag..."
+                    >
                 </div>
-                <div class="course-card">
-                    <h4>Community of Christ: A Different Path</h4>
-                    <p>How the RLDS/Community of Christ developed distinct theology, governance, and relationship to restoration history.</p>
-                    <span class="course-level">Intermediate • 6 modules</span>
+                <div class="filter-buttons">
+                    <span class="filter-label">Filter:</span>
+                    <button class="filter-btn active" data-level="all">All Courses</button>
+                    <button class="filter-btn" data-level="beginner">Beginner</button>
+                    <button class="filter-btn" data-level="intermediate">Intermediate</button>
+                    <button class="filter-btn" data-level="advanced">Advanced</button>
+                    <select class="sort-dropdown" id="sort-courses">
+                        <option value="default">Sort By</option>
+                        <option value="rating">Highest Rated</option>
+                        <option value="enrolled">Most Popular</option>
+                        <option value="title">Alphabetical</option>
+                    </select>
                 </div>
-                <div class="course-card">
-                    <h4>The Whitmer Family and Their Testimonies</h4>
-                    <p>David, John, Christian, Peter—the Whitmer family's central role and their complex relationships with different movements.</p>
-                    <span class="course-level">Advanced • 5 modules</span>
+            </div>
+
+            <!-- Featured Courses -->
+            <div class="scroll-reveal">
+                <h3 class="course-category-title">Featured Courses</h3>
+                <div id="featured-courses" class="courses-grid-dynamic">
+                    <!-- Featured courses will be dynamically inserted here -->
                 </div>
+            </div>
+
+            <!-- Recently Added -->
+            <div class="scroll-reveal">
+                <h3 class="course-category-title">Recently Added</h3>
+                <div id="recent-courses" class="courses-grid-dynamic">
+                    <!-- Recent courses will be dynamically inserted here -->
+                </div>
+            </div>
+
+            <!-- All Courses by Category -->
+            <div id="all-courses-container">
+                <!-- Courses will be dynamically inserted here -->
+            </div>
+
+            <!-- CTA to Full Course Page -->
+            <div class="publication-cta" style="margin-top: 3rem;">
+                <h3>Explore All Our Courses</h3>
+                <p>Browse our complete catalog, track your progress, and join thousands of learners exploring restoration history.</p>
+                <a href="courses-main.html" class="btn btn-primary">View All Courses</a>
             </div>
         </div>
     </section>
@@ -738,6 +751,19 @@
         </div>
     </footer>
 
+    <!-- Core JavaScript -->
     <script src="script.js"></script>
+
+    <!-- Interactive Features -->
+    <script src="course-catalog.js"></script>
+    <script src="progress-tracker.js"></script>
+    <script src="interactive-features.js"></script>
+    <script src="resource-hub.js"></script>
+    <script src="engagement.js"></script>
+    <script src="performance.js"></script>
+
+    <!-- Legacy Course Scripts (if present) -->
+    <script src="courses-data.js"></script>
+    <script src="courses-ui.js"></script>
 </body>
 </html>
