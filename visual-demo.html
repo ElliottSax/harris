@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visual Enhancements Demo - MHHA</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="visual-enhancements.css">
+    <link rel="stylesheet" href="advanced-features.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: var(--background-light);
+        }
+
+        .demo-section {
+            padding: 4rem 2rem;
+            margin: 2rem 0;
+            background: white;
+            border-radius: 20px;
+        }
+
+        .demo-section h2 {
+            color: var(--primary-color);
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        .demo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 2rem;
+            background: var(--background-light);
+            border-radius: 10px;
+        }
+
+        .back-link {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 1000;
+            padding: 1rem 2rem;
+            background: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 50px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .back-link:hover {
+            background: var(--primary-dark);
+        }
+
+        .feature-showcase {
+            min-height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+    </style>
+</head>
+<body>
+    <a href="index.html" class="back-link">← Back to Site</a>
+
+    <div class="container" style="padding-top: 80px;">
+        <h1 class="gradient-text" style="text-align: center; font-size: 3rem; margin: 2rem 0;">
+            Visual Enhancements Demo
+        </h1>
+
+        <!-- Hero with Particles -->
+        <section class="demo-section animated-gradient-bg" id="particles-demo" style="min-height: 400px; position: relative;">
+            <div style="position: relative; z-index: 2; color: white; text-align: center;">
+                <h2 style="color: white; margin-bottom: 1rem;">Particle System</h2>
+                <p style="font-size: 1.2rem;">Animated particles with connections</p>
+            </div>
+        </section>
+
+        <!-- 3D Tilt Cards -->
+        <section class="demo-section">
+            <h2>3D Tilt Effect Cards</h2>
+            <p style="text-align: center; color: #666;">Hover over cards to see 3D tilt based on mouse position</p>
+            <div class="demo-grid">
+                <div class="course-card hover-lift">
+                    <h3>Card 1</h3>
+                    <p>Hover me for 3D tilt effect!</p>
+                </div>
+                <div class="course-card hover-lift">
+                    <h3>Card 2</h3>
+                    <p>Smooth 3D rotation</p>
+                </div>
+                <div class="course-card hover-lift">
+                    <h3>Card 3</h3>
+                    <p>Mouse-responsive tilting</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Flip Cards -->
+        <section class="demo-section">
+            <h2>Flip Cards</h2>
+            <p style="text-align: center; color: #666;">Click cards to flip and reveal back side</p>
+            <div class="demo-grid">
+                <div class="course-card-flip">
+                    <div class="card-flip-inner">
+                        <div class="card-flip-front">
+                            <div class="course-icon">📚</div>
+                            <h4>Course Title</h4>
+                            <p class="course-level">Intermediate</p>
+                            <p class="course-modules">6 modules</p>
+                            <span class="flip-hint">Click to learn more</span>
+                        </div>
+                        <div class="card-flip-back">
+                            <h4>Course Details</h4>
+                            <p>Comprehensive course on restoration history.</p>
+                            <ul class="course-highlights">
+                                <li>Primary sources</li>
+                                <li>Expert instruction</li>
+                                <li>Free access</li>
+                            </ul>
+                            <button class="btn-enroll">Enroll Now</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Progress Rings -->
+        <section class="demo-section">
+            <h2>Progress Rings</h2>
+            <div class="demo-grid">
+                <div class="demo-item">
+                    <div class="progress-ring" data-progress="25"></div>
+                    <p>25% Complete</p>
+                </div>
+                <div class="demo-item">
+                    <div class="progress-ring" data-progress="50"></div>
+                    <p>50% Complete</p>
+                </div>
+                <div class="demo-item">
+                    <div class="progress-ring" data-progress="75"></div>
+                    <p>75% Complete</p>
+                </div>
+                <div class="demo-item">
+                    <div class="progress-ring" data-progress="100"></div>
+                    <p>100% Complete</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Animated Counters -->
+        <section class="demo-section">
+            <h2>Animated Counters</h2>
+            <p style="text-align: center; color: #666;">Scroll down to see numbers count up</p>
+            <div class="demo-grid">
+                <div class="demo-item">
+                    <h3 class="stat-number">1234</h3>
+                    <p>Students</p>
+                </div>
+                <div class="demo-item">
+                    <h3 class="stat-number">567</h3>
+                    <p>Courses</p>
+                </div>
+                <div class="demo-item">
+                    <h3 class="stat-number">8910</h3>
+                    <p>Lessons</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Button Effects -->
+        <section class="demo-section">
+            <h2>Interactive Buttons</h2>
+            <div class="demo-grid">
+                <div class="demo-item">
+                    <h4>Magnetic Button</h4>
+                    <button class="btn btn-primary">Hover Me</button>
+                    <p><small>Moves toward cursor</small></p>
+                </div>
+                <div class="demo-item">
+                    <h4>Ripple Effect</h4>
+                    <button class="btn btn-secondary">Click Me</button>
+                    <p><small>Ripple on click</small></p>
+                </div>
+                <div class="demo-item">
+                    <h4>Particle Burst</h4>
+                    <button class="btn btn-primary">Click Me</button>
+                    <p><small>Particles explode</small></p>
+                </div>
+                <div class="demo-item">
+                    <h4>Confetti Celebration</h4>
+                    <button class="btn btn-primary" data-course-complete>Celebrate!</button>
+                    <p><small>Confetti animation</small></p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Text Effects -->
+        <section class="demo-section">
+            <h2>Text Effects</h2>
+            <div class="demo-grid">
+                <div class="demo-item">
+                    <h3 class="gradient-text">Gradient Text</h3>
+                    <p>Animated gradient</p>
+                </div>
+                <div class="demo-item">
+                    <h3 class="neon-glow">Neon Glow</h3>
+                    <p>Pulsing neon effect</p>
+                </div>
+                <div class="demo-item">
+                    <h3 class="holographic">Holographic</h3>
+                    <p>Rainbow shimmer</p>
+                </div>
+                <div class="demo-item">
+                    <h3 class="text-glow">Text Glow</h3>
+                    <p>Glowing shadow</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Glass & Neuro Cards -->
+        <section class="demo-section" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+            <h2 style="color: white;">Modern Card Styles</h2>
+            <div class="demo-grid">
+                <div class="glass-card" style="padding: 2rem;">
+                    <h4 style="color: white;">Glass Morphism</h4>
+                    <p style="color: rgba(255,255,255,0.9);">Frosted glass effect with blur</p>
+                </div>
+                <div class="neuro-card" style="padding: 2rem;">
+                    <h4>Neumorphism</h4>
+                    <p>Soft 3D depth effect</p>
+                </div>
+                <div class="gradient-border-card" style="padding: 2rem;">
+                    <h4>Gradient Border</h4>
+                    <p>Animated rotating border</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Scroll Animations -->
+        <section class="demo-section">
+            <h2>Scroll Animations</h2>
+            <p style="text-align: center; color: #666;">Elements below animate when scrolled into view</p>
+            <div class="demo-grid">
+                <div class="scroll-animate">
+                    <div class="demo-item">
+                        <h4>Fade In</h4>
+                        <p>Appears from bottom</p>
+                    </div>
+                </div>
+                <div class="scroll-animate">
+                    <div class="demo-item">
+                        <h4>Smooth Entry</h4>
+                        <p>Fades and slides</p>
+                    </div>
+                </div>
+                <div class="scroll-animate">
+                    <div class="demo-item">
+                        <h4>Reveal Effect</h4>
+                        <p>Animated reveal</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Loading States -->
+        <section class="demo-section">
+            <h2>Loading States</h2>
+            <div class="demo-grid">
+                <div class="demo-item">
+                    <div class="loading-spinner"></div>
+                    <p>Loading Spinner</p>
+                </div>
+                <div class="demo-item">
+                    <div class="skeleton" style="height: 20px; margin-bottom: 10px;"></div>
+                    <div class="skeleton" style="height: 20px; margin-bottom: 10px;"></div>
+                    <div class="skeleton" style="height: 20px; width: 60%;"></div>
+                    <p style="margin-top: 10px;">Skeleton Screen</p>
+                </div>
+                <div class="demo-item shimmer" style="background: linear-gradient(to right, #f0f0f0 0%, #e0e0e0 50%, #f0f0f0 100%); height: 100px;">
+                    <p style="padding-top: 40px;">Shimmer Effect</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Animations -->
+        <section class="demo-section">
+            <h2>Animation Effects</h2>
+            <div class="demo-grid">
+                <div class="demo-item">
+                    <div class="pulse" style="width: 100px; height: 100px; background: var(--primary-color); border-radius: 50%; margin: 0 auto;"></div>
+                    <p>Pulse</p>
+                </div>
+                <div class="demo-item">
+                    <div class="bounce" style="width: 100px; height: 100px; background: var(--secondary-color); border-radius: 10px; margin: 0 auto;"></div>
+                    <p>Bounce</p>
+                </div>
+                <div class="demo-item">
+                    <div class="rotate-slow" style="width: 100px; height: 100px; background: var(--accent-color); margin: 0 auto;">🔄</div>
+                    <p>Rotate</p>
+                </div>
+            </div>
+        </section>
+
+        <div style="text-align: center; padding: 3rem 0;">
+            <a href="index.html" class="btn btn-primary" style="font-size: 1.2rem; padding: 1rem 3rem;">
+                Back to Main Site
+            </a>
+        </div>
+    </div>
+
+    <script src="visual-enhancements.js"></script>
+    <script src="advanced-features.js"></script>
+
+    <script>
+        // Initialize particle system for demo
+        if (window.ParticleSystem) {
+            new ParticleSystem('#particles-demo', {
+                particleCount: 80,
+                particleColor: 'rgba(255, 255, 255, 0.8)',
+                connectionDistance: 150
+            });
+        }
+
+        // Initialize flip cards
+        if (window.FlipCards) {
+            FlipCards.init('.course-card-flip');
+        }
+
+        // Initialize progress rings
+        if (window.ProgressRing) {
+            ProgressRing.init();
+        }
+
+        // Initialize animated counters
+        if (window.AnimatedCounter) {
+            AnimatedCounter.init();
+        }
+
+        console.log('✨ Visual Demo Loaded!');
+    </script>
+</body>
+</html>

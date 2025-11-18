@@ -1,0 +1,600 @@
+/* ============================================
+   ADVANCED FEATURES CSS
+   Premium styling for advanced interactive elements
+   ============================================ */
+
+/* ============================================
+   1. FLIP CARDS
+   ============================================ */
+
+.course-card-flip {
+    perspective: 1000px;
+    width: 100%;
+    height: 300px;
+    cursor: pointer;
+}
+
+.card-flip-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.course-card-flip.flipped .card-flip-inner {
+    transform: rotateY(180deg);
+}
+
+.card-flip-front,
+.card-flip-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 15px;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-flip-front {
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-light));
+    color: white;
+}
+
+.card-flip-back {
+    background: linear-gradient(135deg, var(--secondary-color), var(--accent-color));
+    transform: rotateY(180deg);
+    color: var(--text-dark);
+}
+
+.course-icon {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+
+.flip-hint {
+    position: absolute;
+    bottom: 1rem;
+    font-size: 0.8rem;
+    opacity: 0.7;
+}
+
+.course-highlights {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+    text-align: left;
+}
+
+.course-highlights li {
+    margin: 0.5rem 0;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.course-highlights li::before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+.btn-enroll {
+    margin-top: auto;
+    padding: 0.8rem 2rem;
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.btn-enroll:hover {
+    background: var(--primary-dark);
+    transform: scale(1.05);
+}
+
+/* ============================================
+   2. COURSE PATHWAY SVG
+   ============================================ */
+
+.pathway-svg {
+    width: 100%;
+    height: auto;
+    overflow: visible;
+}
+
+.pathway-line {
+    stroke-dasharray: 2000;
+    stroke-dashoffset: 2000;
+    animation: drawPath 3s ease-in-out forwards;
+}
+
+@keyframes drawPath {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+.pathway-node {
+    opacity: 0;
+    cursor: pointer;
+}
+
+@keyframes nodeAppear {
+    to {
+        opacity: 1;
+    }
+}
+
+.node-circle {
+    transition: transform 0.3s ease;
+}
+
+.pathway-node:hover .node-circle {
+    filter: drop-shadow(0 0 10px var(--secondary-color));
+}
+
+.node-label {
+    font-family: var(--font-body);
+    max-width: 150px;
+}
+
+/* ============================================
+   3. BLOB CURSOR
+   ============================================ */
+
+.blob-cursor {
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    background: radial-gradient(circle, var(--secondary-color), transparent);
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 9998;
+    transform: translate(-50%, -50%);
+    filter: blur(10px);
+    opacity: 0.7;
+    transition: width 0.3s, height 0.3s;
+    mix-blend-mode: screen;
+}
+
+/* ============================================
+   4. PROGRESS RING
+   ============================================ */
+
+.progress-ring {
+    display: inline-block;
+}
+
+.progress-ring-svg {
+    transform: rotate(-90deg);
+}
+
+.progress-ring-circle {
+    transition: stroke-dashoffset 1s ease-in-out;
+}
+
+/* ============================================
+   5. CARD STACK
+   ============================================ */
+
+.card-stack {
+    position: relative;
+    width: 100%;
+    min-height: 400px;
+}
+
+.stack-card {
+    position: absolute;
+    width: 100%;
+    background: white;
+    border-radius: 15px;
+    padding: 2rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.stack-card:hover {
+    transform: translateY(-10px) !important;
+}
+
+/* ============================================
+   6. ADVANCED MODAL
+   ============================================ */
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(5px);
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+.modal-overlay.active {
+    opacity: 1;
+    pointer-events: all;
+}
+
+.modal-advanced {
+    background: white;
+    border-radius: 20px;
+    max-width: 600px;
+    width: 90%;
+    max-height: 80vh;
+    overflow-y: auto;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    transform: scale(0.8);
+    transition: transform 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.modal-overlay.active .modal-advanced {
+    transform: scale(1);
+}
+
+/* Scale animation */
+.modal-overlay.modal-scale.active .modal-advanced {
+    animation: modalScale 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+@keyframes modalScale {
+    0% {
+        transform: scale(0);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+/* Slide animation */
+.modal-overlay.modal-slide .modal-advanced {
+    transform: translateY(-100vh);
+}
+
+.modal-overlay.modal-slide.active .modal-advanced {
+    transform: translateY(0);
+    transition: transform 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+/* Fade animation */
+.modal-overlay.modal-fade .modal-advanced {
+    opacity: 0;
+}
+
+.modal-overlay.modal-fade.active .modal-advanced {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+.modal-header {
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid #e0e0e0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-header h3 {
+    margin: 0;
+    color: var(--primary-color);
+}
+
+.modal-close {
+    background: none;
+    border: none;
+    font-size: 2rem;
+    color: #999;
+    cursor: pointer;
+    transition: color 0.3s;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.modal-close:hover {
+    color: var(--primary-color);
+    background: rgba(139, 69, 19, 0.1);
+}
+
+.modal-body {
+    padding: 2rem;
+}
+
+.modal-footer {
+    padding: 1.5rem 2rem;
+    border-top: 1px solid #e0e0e0;
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+
+/* ============================================
+   7. CONFETTI
+   ============================================ */
+
+.confetto {
+    position: fixed;
+    width: 10px;
+    height: 10px;
+    top: -10px;
+    z-index: 10001;
+    animation: confettiFall linear forwards;
+    pointer-events: none;
+}
+
+@keyframes confettiFall {
+    to {
+        transform: translateY(100vh) rotate(720deg);
+        opacity: 0;
+    }
+}
+
+/* ============================================
+   8. INFINITE SCROLL LOADER
+   ============================================ */
+
+.infinite-scroll-loader {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+/* ============================================
+   9. TYPING EFFECT
+   ============================================ */
+
+.typing-effect::after {
+    content: '|';
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+}
+
+/* ============================================
+   10. ENHANCED HOVER STATES
+   ============================================ */
+
+.hover-glow {
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.hover-glow::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle, rgba(212, 175, 55, 0.3), transparent);
+    border-radius: inherit;
+    opacity: 0;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    z-index: -1;
+}
+
+.hover-glow:hover::before {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1.5);
+}
+
+/* ============================================
+   11. GRADIENT BORDER CARDS
+   ============================================ */
+
+.gradient-border-card {
+    position: relative;
+    background: white;
+    border-radius: 15px;
+    padding: 2rem;
+}
+
+.gradient-border-card::before {
+    content: '';
+    position: absolute;
+    inset: -2px;
+    background: linear-gradient(45deg,
+        var(--primary-color),
+        var(--secondary-color),
+        var(--accent-color),
+        var(--primary-color)
+    );
+    background-size: 300% 300%;
+    border-radius: inherit;
+    z-index: -1;
+    animation: gradientRotate 4s linear infinite;
+}
+
+@keyframes gradientRotate {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* ============================================
+   12. SPOTLIGHT EFFECT
+   ============================================ */
+
+.spotlight-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.spotlight-container::after {
+    content: '';
+    position: absolute;
+    top: var(--mouse-y, 50%);
+    left: var(--mouse-x, 50%);
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.15), transparent);
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    transition: opacity 0.3s;
+    opacity: 0;
+}
+
+.spotlight-container:hover::after {
+    opacity: 1;
+}
+
+/* ============================================
+   13. NEON GLOW EFFECT
+   ============================================ */
+
+.neon-glow {
+    color: var(--secondary-color);
+    text-shadow:
+        0 0 5px var(--secondary-color),
+        0 0 10px var(--secondary-color),
+        0 0 20px var(--secondary-color),
+        0 0 40px var(--primary-color),
+        0 0 80px var(--primary-color);
+    animation: neonPulse 2s ease-in-out infinite;
+}
+
+@keyframes neonPulse {
+    0%, 100% {
+        text-shadow:
+            0 0 5px var(--secondary-color),
+            0 0 10px var(--secondary-color),
+            0 0 20px var(--secondary-color),
+            0 0 40px var(--primary-color);
+    }
+    50% {
+        text-shadow:
+            0 0 10px var(--secondary-color),
+            0 0 20px var(--secondary-color),
+            0 0 30px var(--secondary-color),
+            0 0 60px var(--primary-color),
+            0 0 100px var(--primary-color);
+    }
+}
+
+/* ============================================
+   14. HOLOGRAPHIC EFFECT
+   ============================================ */
+
+.holographic {
+    background: linear-gradient(
+        45deg,
+        #ff0080,
+        #ff8c00,
+        #40e0d0,
+        #ff0080
+    );
+    background-size: 300% 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: holographicShift 3s ease infinite;
+}
+
+@keyframes holographicShift {
+    0%, 100% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+}
+
+/* ============================================
+   15. PARALLAX CARDS
+   ============================================ */
+
+.parallax-card {
+    transform-style: preserve-3d;
+    transition: transform 0.1s ease-out;
+}
+
+.parallax-card-content {
+    transform: translateZ(50px);
+}
+
+.parallax-card-bg {
+    transform: translateZ(-50px);
+}
+
+/* ============================================
+   16. RESPONSIVE ADJUSTMENTS
+   ============================================ */
+
+@media (max-width: 768px) {
+    .course-card-flip {
+        height: 350px;
+    }
+
+    .modal-advanced {
+        width: 95%;
+        margin: 1rem;
+    }
+
+    .card-stack {
+        min-height: 300px;
+    }
+
+    .blob-cursor {
+        display: none;
+    }
+
+    .pathway-svg {
+        max-width: 100%;
+    }
+}
+
+/* ============================================
+   17. ACCESSIBILITY
+   ============================================ */
+
+@media (prefers-reduced-motion: reduce) {
+    .card-flip-inner,
+    .modal-advanced,
+    .stack-card,
+    .confetto {
+        animation: none !important;
+        transition: none !important;
+    }
+}
+
+/* Focus visible for keyboard navigation */
+.course-card-flip:focus-visible,
+.btn-enroll:focus-visible,
+.modal-close:focus-visible {
+    outline: 3px solid var(--secondary-color);
+    outline-offset: 2px;
+}
