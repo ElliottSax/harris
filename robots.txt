@@ -1,0 +1,10 @@
+# robots.txt for Martin Harris Historical Association
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://elliottsax.github.io/harris/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1

@@ -1,0 +1,62 @@
+name: Validate Site
+
+on:
+  pull_request:
+    branches:
+      - main
+      - master
+  push:
+    branches-ignore:
+      - main
+      - master
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check required files exist
+        run: |
+          echo "Checking for required files..."
+          test -f index.html || (echo "❌ index.html not found" && exit 1)
+          test -f styles.css || (echo "❌ styles.css not found" && exit 1)
+          test -f script.js || (echo "❌ script.js not found" && exit 1)
+          test -f .nojekyll || (echo "❌ .nojekyll not found" && exit 1)
+          echo "✅ All required files present"
+
+      - name: Validate HTML structure
+        run: |
+          echo "Validating HTML structure..."
+          grep -q "<!DOCTYPE html>" index.html || (echo "❌ Missing DOCTYPE" && exit 1)
+          grep -q "<html" index.html || (echo "❌ Missing html tag" && exit 1)
+          grep -q "<head>" index.html || (echo "❌ Missing head tag" && exit 1)
+          grep -q "<body>" index.html || (echo "❌ Missing body tag" && exit 1)
+          echo "✅ HTML structure valid"
+
+      - name: Check resource paths
+        run: |
+          echo "Checking resource paths..."
+          ! grep -q 'href="http://localhost' index.html || (echo "❌ Found localhost reference" && exit 1)
+          ! grep -q 'src="http://localhost' index.html || (echo "❌ Found localhost reference" && exit 1)
+          echo "✅ No localhost references found"
+
+      - name: Verify CSS and JS links
+        run: |
+          echo "Verifying CSS and JS links..."
+          grep -q 'href="styles.css"' index.html || (echo "❌ styles.css not linked" && exit 1)
+          grep -q 'src="script.js"' index.html || (echo "❌ script.js not linked" && exit 1)
+          echo "✅ All resources properly linked"
+
+      - name: Check JavaScript syntax
+        run: |
+          echo "Checking JavaScript syntax..."
+          node -c script.js || (echo "❌ JavaScript syntax error" && exit 1)
+          echo "✅ JavaScript syntax valid"
+
+      - name: Summary
+        run: |
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "✅ All validation checks passed!"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"

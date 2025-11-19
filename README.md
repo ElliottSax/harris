@@ -73,11 +73,44 @@ An impressive, modern website dedicated to preserving the legacy of Martin Harri
 
 ```
 harris/
-├── index.html          # Main HTML structure
-├── styles.css          # All styling and animations
-├── script.js           # Interactive functionality
-└── README.md           # Documentation
+├── .github/
+│   └── workflows/
+│       ├── deploy.yml       # GitHub Pages deployment
+│       └── validate.yml     # Site validation checks
+├── index.html               # Main HTML structure
+├── styles.css               # All styling and animations
+├── script.js                # Interactive functionality
+├── robots.txt               # SEO and crawler instructions
+├── sitemap.xml              # Site map for search engines
+├── .nojekyll                # Prevents Jekyll processing
+├── .gitignore               # Git ignore rules
+├── DEPLOYMENT.md            # Deployment guide
+└── README.md                # This file
 ```
+
+## Deployment
+
+This site is configured for automatic deployment to GitHub Pages using GitHub Actions.
+
+### Quick Start
+
+1. **Enable GitHub Pages**:
+   - Go to repository Settings → Pages
+   - Source: Select "GitHub Actions"
+
+2. **Deploy**: Push to `main` branch or manually trigger the workflow
+
+3. **Live Site**: `https://elliottsax.github.io/harris/`
+
+### Deployment Features
+
+- ✅ **Automatic Deployment** - Triggers on push to main/master
+- ✅ **Manual Trigger** - Can be manually deployed via GitHub Actions
+- ✅ **Validation Workflow** - Automated checks on pull requests
+- ✅ **SEO Optimized** - Includes robots.txt and sitemap.xml
+- ✅ **Social Media Ready** - Open Graph and Twitter Card meta tags
+
+For detailed deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md).
 
 ## Browser Compatibility
 
